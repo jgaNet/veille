@@ -1,0 +1,137 @@
+name: feeds
+
+# Construit les flux RSS de tous les dossiers de flux du dépôt
+# (monde/, verification/, presidentielle-2027-factcheck/, …)
+# puis les publie sur GitHub Pages.
+#
+# Déclenchement :
+#   - à chaque publication d'alerte ou de brief sur main
+#   - toutes les heures (garde le lastBuildDate frais)
+#   - à la main depuis l'onglet Actions
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "*/alerts/**/*.md"
+      - "*/daily/**/*.md"
+      - "*/claims/**/*.md"
+      - "*/feed.json"
+      - "scripts/**"
+      - "package.json"
+      - ".github/workflows/feeds.yml"
+  schedule:
+    - cron: "10 * * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+env:
+  SITE_URL: https://jganet.github.io/veille
+  FEEDS_BASE: https://jganet.github.io/veille
+  REPO: jgaNet/veille
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Tests du dépôt
+        run: npm test
+
+      - name: Générer les flux
+        run: node scripts/build-feeds.mjs
+
+      - name: Vérifier les flux
+        run: node scripts/check-feeds.mjs
+
+      - name: Écarter les flux vides
+        # Un flux sans aucune entrée s'affiche comme une erreur dans
+        # certains lecteurs : on ne le publie pas tant qu'il est vide.
+        run: |
+          shopt -s nullglob
+          for f in feeds/*.xml; do
+            if ! grep -q "<item>" "$f"; then
+              echo "::notice::${f} ne contient aucune entrée — non publié"
+              rm "$f"
+            fi
+          done
+
+      - name: Préparer le site
+        run: |
+          mkdir -p _site
+          cp -r feeds _site/feeds
+          {
+            echo '<!doctype html>'
+            echo '<html lang="fr"><head><meta charset="utf-8">'
+            echo '<meta name="viewport" content="width=device-width, initial-scale=1">'
+            echo '<title>Veille — flux RSS</title>'
+            for f in _site/feeds/*.xml; do
+              n=$(basename "$f" .xml)
+              echo "<link rel=\"alternate\" type=\"application/rss+xml\" title=\"$n\" href=\"feeds/$n.xml\">"
+            done
+            echo '<style>'
+            echo ':root{color-scheme:light dark}'
+            echo 'body{font-family:system-ui,-apple-system,sans-serif;max-width:38rem;margin:4rem auto;padding:0 1.25rem;line-height:1.65}'
+            echo 'h1{font-size:1.6rem;margin-bottom:.25rem}'
+            echo 'p.sub{opacity:.7;margin-top:0}'
+            echo 'ul{list-style:none;padding:0}'
+            echo 'li{margin:.6rem 0;padding:.75rem 1rem;border:1px solid color-mix(in srgb,currentColor 18%,transparent);border-radius:.6rem}'
+            echo 'a{text-decoration:none}a:hover{text-decoration:underline}'
+            echo 'code{font-size:.85em;opacity:.7}'
+            echo 'footer{margin-top:2.5rem;font-size:.85rem;opacity:.6}'
+            echo '</style></head><body>'
+            echo '<h1>Veille — flux RSS</h1>'
+            echo '<p class="sub">Alertes vérifiées : faits, déclarations et incertitudes distingués, indice de confiance et sources croisées.</p>'
+            echo '<ul>'
+            for f in _site/feeds/*.xml; do
+              n=$(basename "$f" .xml)
+              c=$(grep -c "<item>" "$f" || true)
+              echo "<li><a href=\"feeds/$n.xml\"><strong>$n</strong></a> — <code>$c entrée(s)</code></li>"
+            done
+            echo '</ul>'
+            echo "<footer>Dernière génération : $(date -u '+%d/%m/%Y %H:%M UTC') · <a href=\"https://github.com/${REPO}\">dépôt</a></footer>"
+            echo '</body></html>'
+          } > _site/index.html
+
+      - name: Récapitulatif
+        run: |
+          {
+            echo "### Flux publiés"
+            echo
+            echo "| Flux | Entrées | URL |"
+            echo "|------|---------|-----|"
+            for f in _site/feeds/*.xml; do
+              n=$(basename "$f" .xml)
+              c=$(grep -c "<item>" "$f" || true)
+              echo "| \`$n\` | $c | ${SITE_URL}/feeds/$n.xml |"
+            done
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
