@@ -11,8 +11,15 @@ Chaque flux vit dans son propre dossier et génère son propre RSS.
 | Flux | Dossier | Périmètre |
 |------|---------|-----------|
 | monde | `monde/` | Géopolitique, France/Europe, économie, énergie, tech/IA, cybersécurité, science, climat |
+| presidentielle-2027-factcheck | `presidentielle-2027-factcheck/` | Vérification, affirmation par affirmation, des déclarations des candidats et des partis pour la présidentielle française de 2027 |
 
-D'autres flux pourront être ajoutés selon le même modèle.
+D'autres flux pourront être ajoutés selon le même modèle : un dossier à la racine avec ses
+`CONSIGNES.md` (référence opérationnelle lue par les passages automatiques), un `feed.json`
+facultatif (titre et description du RSS) et un dossier `state/` (mémoire anti-doublon).
+
+Les flux RSS sont générés dans `feeds/<flux>.xml` (plus `feeds/all.xml`, tous flux confondus)
+par `scripts/build-feeds.mjs`, exécuté par GitHub Actions à chaque publication sur `main`.
+Abonnement : `https://raw.githubusercontent.com/jgaNet/veille/main/feeds/<flux>.xml`.
 
 ## Structure d'un flux
 
@@ -52,6 +59,35 @@ category: briefing
 ---
 ```
 
+Entrée de fact-checking (flux `presidentielle-2027-factcheck`, détail dans ses
+[consignes](presidentielle-2027-factcheck/CONSIGNES.md)) :
+
+```yaml
+---
+title: "[TROMPEUR · 3/10] Prénom Nom — « citation courte »"
+date: 2026-09-19T10:47:00+02:00
+type: factcheck
+feed: presidentielle-2027-factcheck
+category: emploi
+id: emploi--affirmation-normalisee--prenom-nom
+author: "Prénom Nom"
+party: "Parti"
+statement_date: 2026-09-18
+claim: "Affirmation examinée."
+context: "Interview — média, émission"
+verdict: TROMPEUR
+truth_score: 3
+confidence_level: FORT
+mensonge_etabli: false
+source_url: "https://…"
+summary: "Résumé de la vérification."
+---
+```
+
+Dans ce flux, la note de vérité (`truth_score`) porte sur l'affirmation examinée et sur elle
+seule ; aucune note globale n'est attribuée à un candidat, un parti ou un programme.
+`scripts/check-factcheck.mjs` contrôle ces entrées et leur registre.
+
 ## Indice de confiance
 
 Note sur 10 mesurant la solidité des preuves, jamais l'importance de l'information.
@@ -78,6 +114,8 @@ Note sur 10 mesurant la solidité des preuves, jamais l'importance de l'informat
 ```
 alert: nouvelle évolution concernant le détroit d'Ormuz
 daily: brief mondial 2026-09-18
+factcheck: Prénom Nom — chômage depuis 2022
+correction: Prénom Nom — chômage depuis 2022
 ```
 
 Principe fondamental : 10 informations correctement vérifiées valent mieux que 30 informations simplement reprises. La fiabilité passe avant la vitesse.
