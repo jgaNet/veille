@@ -274,6 +274,6 @@ test("le validateur RSS détecte le XML malformé", () => {
   assert.ok(checkRss(bon.replace("<title>t</title>", "<title>a & b</title>")).errors.length, "esperluette nue");
   assert.ok(
     checkRss(bon.replace("</channel></rss>", "<item><title>x</title></item></channel></rss>")).errors.length,
-    "item incomplèt"
+    "item incomplet"
   );
 });
