@@ -12,12 +12,15 @@ Chaque flux vit dans son propre dossier et génère son propre RSS.
 |------|---------|-----------|
 | monde | `monde/` | Géopolitique, France/Europe, économie, énergie, tech/IA, cybersécurité, science, climat |
 | verification | `verification/` | Affirmations d'actualité potentiellement fausses, trompeuses ou hors contexte, suivies dans le temps |
+| presidentielle-2027-factcheck | `presidentielle-2027-factcheck/` | Vérification, affirmation par affirmation, des déclarations des candidats et des partis pour la présidentielle française de 2027 |
 
 D'autres flux pourront être ajoutés selon le même modèle.
 
-Flux générés : `feeds/monde.xml`, `feeds/verification.xml` et `feeds/all.xml`
-(agrégé). Les consignes opérationnelles de chaque flux vivent dans son dossier
-(`monde/CONSIGNES.md`, `verification/CONSIGNES.md`).
+Flux générés : `feeds/monde.xml`, `feeds/verification.xml`,
+`feeds/presidentielle-2027-factcheck.xml` et `feeds/all.xml` (agrégé). Les
+consignes opérationnelles de chaque flux vivent dans son dossier
+(`monde/CONSIGNES.md`, `verification/CONSIGNES.md`,
+`presidentielle-2027-factcheck/CONSIGNES.md`).
 
 ## Structure d'un flux
 
@@ -43,6 +46,15 @@ verification/
 Seul `alerts/` alimente le RSS. Une affirmation vérifiée dix fois sans
 évolution n'engendre qu'une seule entrée : voir
 [`verification/CONSIGNES.md`](verification/CONSIGNES.md).
+
+Le flux `presidentielle-2027-factcheck` reprend cette couche de persistance et
+le moteur d'identité des affirmations (`scripts/lib/claims.mjs`). Il y ajoute
+ce qui est propre au fact-checking politique (`scripts/lib/factcheck.mjs`) :
+verdict et note de vérité par affirmation, attribution à un auteur et à un
+parti, mesure des reprises sans republication, corrections traçables et
+bulletin du jour dans `daily/`. Une fiche décrit une affirmation, jamais un
+candidat : aucune note n'est agrégée par auteur, par parti ou par programme.
+Voir [`presidentielle-2027-factcheck/CONSIGNES.md`](presidentielle-2027-factcheck/CONSIGNES.md).
 
 ## Front matter
 
@@ -105,6 +117,7 @@ node scripts/build-feeds.mjs                        # génère feeds/*.xml
 node scripts/check-feeds.mjs                        # vérifie la validité des flux
 node scripts/verif-record.mjs --input o.json        # enregistre des affirmations vérifiées
 node scripts/verif-record.mjs --input o.json --dry-run   # simule sans rien écrire
+node scripts/factcheck-record.mjs --input o.json    # enregistre des affirmations de campagne vérifiées
 ```
 
 ## Automatisation
@@ -124,6 +137,8 @@ contente de régénérer et valider les flux, sans échouer.
 alert: nouvelle évolution concernant le détroit d'Ormuz
 daily: brief mondial 2026-09-18
 verif: 2 affirmation(s) publiée(s) ou mise(s) à jour
+factcheck: 1 affirmation publiée, 2 reprises enregistrées
+correction: PRES27-20260919-001, FAUX → IMPRÉCIS
 ```
 
 Principe fondamental : 10 informations correctement vérifiées valent mieux que 30 informations simplement reprises. La fiabilité passe avant la vitesse.
