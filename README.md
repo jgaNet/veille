@@ -4,6 +4,21 @@ Système personnel de veille sur l'actualité, publié sous forme de fichiers Ma
 
 Objectif : détecter les événements réellement importants, les vérifier à partir de plusieurs sources indépendantes, et distinguer clairement faits établis, déclarations, informations incertaines, analyses et informations fausses.
 
+## S'abonner
+
+| Flux | URL RSS |
+|------|---------|
+| Monde | https://jganet.github.io/veille/feeds/monde.xml |
+| Vérification | https://jganet.github.io/veille/feeds/verification.xml |
+| Présidentielle 2027 | https://jganet.github.io/veille/feeds/presidentielle-2027-factcheck.xml |
+| Tous les flux | https://jganet.github.io/veille/feeds/all.xml |
+
+Page d'accueil : https://jganet.github.io/veille/
+
+Coller l'URL dans un lecteur RSS (Feedly, Inoreader, NetNewsWire, Feeder,
+Thunderbird, FreshRSS…). Les fichiers sont publiés par GitHub Pages à chaque
+passage de veille.
+
 ## Flux
 
 Chaque flux vit dans son propre dossier et génère son propre RSS.
