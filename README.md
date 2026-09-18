@@ -11,8 +11,13 @@ Chaque flux vit dans son propre dossier et génère son propre RSS.
 | Flux | Dossier | Périmètre |
 |------|---------|-----------|
 | monde | `monde/` | Géopolitique, France/Europe, économie, énergie, tech/IA, cybersécurité, science, climat |
+| verification | `verification/` | Affirmations d'actualité potentiellement fausses, trompeuses ou hors contexte, suivies dans le temps |
 
 D'autres flux pourront être ajoutés selon le même modèle.
+
+Flux générés : `feeds/monde.xml`, `feeds/verification.xml` et `feeds/all.xml`
+(agrégé). Les consignes opérationnelles de chaque flux vivent dans son dossier
+(`monde/CONSIGNES.md`, `verification/CONSIGNES.md`).
 
 ## Structure d'un flux
 
@@ -21,6 +26,23 @@ D'autres flux pourront être ajoutés selon le même modèle.
   alerts/YYYY/MM/YYYY-MM-DD-HH-MM-slug.md   # alertes horaires
   daily/YYYY/MM/YYYY-MM-DD-brief-<flux>.md   # récapitulatif quotidien (20 h, Paris)
 ```
+
+Un dossier racine est reconnu comme flux dès qu'il contient `alerts/` ou
+`daily/` ; `feed.json` y précise le titre et la description du flux RSS.
+
+Le flux `verification` ajoute à ce socle une couche de persistance, parce qu'il
+suit des affirmations dans la durée plutôt que des événements ponctuels :
+
+```
+verification/
+  claims/YYYY/MM/CLAIM-YYYYMMDD-NNN.md   # fiche durable d'une affirmation, mise à jour
+  alerts/YYYY/MM/…                        # entrées RSS, une par évolution publiable
+  state/affirmations.md                   # mémoire anti-doublon
+```
+
+Seul `alerts/` alimente le RSS. Une affirmation vérifiée dix fois sans
+évolution n'engendre qu'une seule entrée : voir
+[`verification/CONSIGNES.md`](verification/CONSIGNES.md).
 
 ## Front matter
 
@@ -73,11 +95,35 @@ Note sur 10 mesurant la solidité des preuves, jamais l'importance de l'informat
 - Pas de réécriture de l'historique Git, jamais de push forcé.
 - Fichiers existants non modifiés, sauf correction factuelle ou technique explicitement signalée.
 
+## Outils
+
+Aucune dépendance externe ; Node >= 18 suffit.
+
+```bash
+npm test                                            # tests du dépôt
+node scripts/build-feeds.mjs                        # génère feeds/*.xml
+node scripts/check-feeds.mjs                        # vérifie la validité des flux
+node scripts/verif-record.mjs --input o.json        # enregistre des affirmations vérifiées
+node scripts/verif-record.mjs --input o.json --dry-run   # simule sans rien écrire
+```
+
+## Automatisation
+
+`.github/workflows/veille-verification.yml` exécute le passage de vérification
+toutes les heures (cron) et peut être déclenché à la main depuis l'onglet
+Actions, avec une option de simulation. Le même workflow régénère les flux RSS
+de **tous** les flux à chaque publication.
+
+La recherche elle-même a besoin d'un secret de dépôt `ANTHROPIC_API_KEY` (ou
+`CLAUDE_CODE_OAUTH_TOKEN`). Sans ce secret, le workflow ne cherche pas : il se
+contente de régénérer et valider les flux, sans échouer.
+
 ## Messages de commit
 
 ```
 alert: nouvelle évolution concernant le détroit d'Ormuz
 daily: brief mondial 2026-09-18
+verif: 2 affirmation(s) publiée(s) ou mise(s) à jour
 ```
 
 Principe fondamental : 10 informations correctement vérifiées valent mieux que 30 informations simplement reprises. La fiabilité passe avant la vitesse.
