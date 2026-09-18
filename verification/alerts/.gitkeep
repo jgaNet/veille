@@ -1,0 +1,3 @@
+Ce dossier reçoit les entrées RSS du flux « verification », créées par
+scripts/verif-record.mjs. Il doit exister même vide : build-feeds.mjs
+identifie un flux à la présence d'un dossier alerts/ ou daily/.

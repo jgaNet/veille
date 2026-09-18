@@ -1,0 +1,13 @@
+{
+  "private": true,
+  "name": "veille",
+  "description": "Système personnel de veille : alertes Markdown vérifiées et flux RSS.",
+  "type": "module",
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "test": "node --test \"scripts/test/*.test.mjs\"",
+    "build": "node scripts/build-feeds.mjs",
+    "check": "node scripts/check-feeds.mjs",
+    "verif": "node scripts/verif-record.mjs"
+  }
+}

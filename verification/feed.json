@@ -1,0 +1,5 @@
+{
+  "title": "Veille vérification — affirmations douteuses",
+  "description": "Veille horaire sur les affirmations d'actualité potentiellement fausses, trompeuses ou sorties de leur contexte. Chaque affirmation porte un identifiant stable, une note de plausibilité sur 10 et un historique : une entrée n'est publiée qu'à la première détection ou lors d'une évolution réelle de l'évaluation.",
+  "language": "fr"
+}
