@@ -1,2 +1,6 @@
 node_modules/
 .DS_Store
+
+# Fichiers de travail des passages de veille (observations non enregistrées).
+.veille-tmp/
+observations.json
