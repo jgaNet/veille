@@ -7,6 +7,7 @@
 
 import { mkdirSync, readdirSync, readFileSync, statSync, writeFileSync } from "node:fs";
 import { join, relative } from "node:path";
+import { parseFrontMatter, walk } from "./lib/front-matter.mjs";
 
 const ROOT = process.cwd();
 const REPO = process.env.REPO || "jgaNet/veille";
@@ -34,68 +35,6 @@ const DEFAULT_META = {
 };
 
 /* ---------- utilitaires ---------- */
-
-function walk(dir) {
-  const out = [];
-  let entries;
-  try {
-    entries = readdirSync(dir, { withFileTypes: true });
-  } catch {
-    return out;
-  }
-  for (const e of entries) {
-    const p = join(dir, e.name);
-    if (e.isDirectory()) out.push(...walk(p));
-    else if (e.isFile() && e.name.endsWith(".md") && e.name !== "README.md") out.push(p);
-  }
-  return out;
-}
-
-function stripQuotes(s) {
-  const t = s.trim();
-  if ((t.startsWith('"') && t.endsWith('"')) || (t.startsWith("'") && t.endsWith("'"))) {
-    return t.slice(1, -1);
-  }
-  return t;
-}
-
-// Parseur de front matter volontairement minimal : scalaires, listes en ligne
-// ([a, b]) et listes à tirets. Suffisant pour le format utilisé ici.
-function parseFrontMatter(raw) {
-  if (!raw.startsWith("---")) return { data: {}, body: raw };
-  const end = raw.indexOf("\n---", 3);
-  if (end === -1) return { data: {}, body: raw };
-  const head = raw.slice(raw.indexOf("\n") + 1, end);
-  const body = raw.slice(end + 4).replace(/^\r?\n/, "");
-  const data = {};
-  let currentKey = null;
-  for (const line of head.split(/\r?\n/)) {
-    if (!line.trim() || line.trim().startsWith("#")) continue;
-    const item = line.match(/^\s*-\s+(.*)$/);
-    if (item && currentKey) {
-      if (!Array.isArray(data[currentKey])) data[currentKey] = [];
-      data[currentKey].push(stripQuotes(item[1]));
-      continue;
-    }
-    const kv = line.match(/^([A-Za-z0-9_-]+)\s*:\s*(.*)$/);
-    if (!kv) continue;
-    const [, key, rest] = kv;
-    currentKey = key;
-    const value = rest.trim();
-    if (value === "") {
-      data[key] = [];
-    } else if (value.startsWith("[") && value.endsWith("]")) {
-      data[key] = value
-        .slice(1, -1)
-        .split(",")
-        .map((v) => stripQuotes(v))
-        .filter(Boolean);
-    } else {
-      data[key] = stripQuotes(value);
-    }
-  }
-  return { data, body };
-}
 
 function esc(s) {
   return String(s ?? "")
@@ -249,6 +188,12 @@ function collect(feedDir) {
     if (data.type === "daily" || data.type === "recap" || rel.includes("/daily/")) {
       cats.push("briefing");
     }
+    // Champs optionnels des flux de vérification (ex. presidentielle-2027-factcheck) :
+    // le verdict et le parti deviennent des catégories, l'auteur un <dc:creator>.
+    for (const extra of [data.verdict, data.party]) {
+      if (typeof extra === "string" && extra) cats.push(extra);
+    }
+    const author = typeof data.author === "string" ? data.author : "";
     const confidence = data.confidence ? String(data.confidence) : "";
     const summary =
       data.summary ||
@@ -263,6 +208,7 @@ function collect(feedDir) {
       title,
       date,
       cats: [...new Set(cats)],
+      author,
       confidence,
       summary,
       html: mdToHtml(body),
@@ -292,6 +238,7 @@ function renderFeed({ title, description, language, selfUrl, items }) {
     xml.push(`      <link>${esc(it.link)}</link>`);
     xml.push(`      <guid isPermaLink="false">veille:${esc(it.rel)}</guid>`);
     xml.push(`      <pubDate>${it.date.toUTCString()}</pubDate>`);
+    if (it.author) xml.push(`      <dc:creator>${esc(it.author)}</dc:creator>`);
     for (const c of it.cats) xml.push(`      <category>${esc(c)}</category>`);
     xml.push(`      <description>${esc(it.summary)}</description>`);
     xml.push(
