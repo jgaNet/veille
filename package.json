@@ -8,6 +8,7 @@
     "test": "node --test \"scripts/test/*.test.mjs\"",
     "build": "node scripts/build-feeds.mjs",
     "check": "node scripts/check-feeds.mjs",
-    "verif": "node scripts/verif-record.mjs"
+    "verif": "node scripts/verif-record.mjs",
+    "factcheck": "node scripts/factcheck-record.mjs"
   }
 }
