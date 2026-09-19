@@ -9,8 +9,8 @@ auteur ou par un autre, s'enregistre en réutilisant son `id`. Les fiches
 complètes vivent dans `presidentielle-2027-factcheck/claims/` et ne sont jamais supprimées. Cet
 index n'est pas élagué et n'est jamais agrégé par candidat ou par parti.
 
-- PRES27-20260919-008 | TROMPEUR | 3/10 | Nicolas Dupont-Aignan (Debout la France) | 1 | 2026-09-18 | Il est le seul candidat à l'élection présidentielle de 2027 à proposer la sortie de la France de l'Union européenne.
 - PRES27-20260919-014 | IMPRÉCIS | 6/10 | Jordan Bardella (Rassemblement national) | 1 | 2026-09-18 | Abaisser la TVA sur les carburants de 20 % à 5,5 % et annuler les hausses de taxes sur les carburants décidées en 2018 ferait économiser une vingtaine d'euros sur un plein de 40 litres.
+- PRES27-20260919-008 | TROMPEUR | 3/10 | Nicolas Dupont-Aignan (Debout la France) | 1 | 2026-09-18 | Il est le seul candidat à l'élection présidentielle de 2027 à proposer la sortie de la France de l'Union européenne.
 - PRES27-20260919-013 | CONFIRMÉ | 9/10 | Audrey Bélim (Parti socialiste) | 1 | 2026-09-17 | Environ cinq millions de citoyens européens vivent dans les régions ultrapériphériques de l'Union européenne.
 - PRES27-20260919-012 | FAUX | 2/10 | Nicolas Dupont-Aignan (Debout la France) | 1 | 2026-09-17 | Six milliards d'euros représentent la moitié de ce que la France verse chaque année à l'Union européenne.
 - PRES27-20260919-010 | IMPRÉCIS | 6/10 | Éric Zemmour (Reconquête) | 1 | 2026-09-17 | L'immigration légale en France est passée d'environ 100 000 personnes par an à environ 500 000 personnes par an en trente ans.
