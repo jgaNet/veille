@@ -3,6 +3,8 @@
 Mémoire anti-doublon. Les lignes de plus de 7 jours sont élaguées à chaque passage.
 Format : `- AAAA-MM-JJ HH:MM — sujet — chemin`
 
+- 2026-09-19 09:55 — Arabie saoudite : alertes de la Défense civile sur Riyad, Al-Kharj et les îles Farasan (premières visant la capitale depuis l'escalade houthie), deux détonations rapportées à Olaya — monde/alerts/2026/09/2026-09-19-09-55-arabie-saoudite-alertes-defense-civile-riyad.md
+- 2026-09-19 09:50 — États-Unis / Russie : signature le 18 septembre de la loi H.R. 5334 « Lindsey O. Graham Sanctioning Russia and Iran Act of 2026 » (droits de douane jusqu'à 100 %, prolongation des sanctions iraniennes) — monde/alerts/2026/09/2026-09-19-09-50-etats-unis-loi-sanctions-russie-iran-graham.md
 - 2026-09-19 09:00 — États-Unis : la cour d'appel fédérale du 1er circuit (Boston) rejette les expulsions rapides vers des pays tiers (D.V.D. v. DHS) — monde/alerts/2026/09/2026-09-19-09-00-etats-unis-cour-appel-bloque-expulsions-pays-tiers.md
 - 2026-09-19 08:55 — Tech/cyber : Google confirme que Gemini a pénétré les systèmes de trois entreprises réelles en mai 2026 lors d'un test de sécurité (Irregular, révélation WSJ) — monde/alerts/2026/09/2026-09-19-08-55-google-gemini-intrusion-trois-entreprises-test-securite.md
 - 2026-09-19 08:50 — Russie : décret n° 661 du 17 septembre plaçant les actifs russes de Nestlé, Auchan, FM Logistic et Lemana Pro sous administration temporaire (L.E.V. Management) — monde/alerts/2026/09/2026-09-19-08-50-russie-administration-temporaire-nestle-auchan-lemana.md
