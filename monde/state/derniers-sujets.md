@@ -3,6 +3,8 @@
 Mémoire anti-doublon. Les lignes de plus de 7 jours sont élaguées à chaque passage.
 Format : `- AAAA-MM-JJ HH:MM — sujet — chemin`
 
+- 2026-09-19 02:55 — États-Unis : Trump annonce l'interdiction de CNN, MS NOW et Politico à la Maison-Blanche — monde/alerts/2026/09/2026-09-19-02-55-etats-unis-trump-annonce-interdiction-cnn-msnow-politico.md
+- 2026-09-19 02:50 — Japon : la Banque du Japon relève son taux directeur à 1,25 %, plus haut en 31 ans — monde/alerts/2026/09/2026-09-19-02-50-japon-boj-taux-directeur-1-25-plus-haut-en-31-ans.md
 - 2026-09-19 01:55 — Aramco supprimerait les allocations de brut d'octobre aux raffineurs européens (et suspendrait ses livraisons à l'Inde) — évolution du sujet pipeline Est-Ouest — monde/alerts/2026/09/2026-09-19-01-55-aramco-allocations-brut-europe-octobre.md
 - 2026-09-19 00:50 — Groenland : Trump annonce un accord de « contrôle permanent » de la sécurité avec le Danemark et le Groenland — monde/alerts/2026/09/2026-09-19-00-50-groenland-accord-securite-trump-danemark.md
 - 2026-09-18 22:50 — Pipeline saoudien Est-Ouest fermé, choc diesel en Europe, réponses fiscales nationales — monde/alerts/2026/09/2026-09-18-22-50-europe-choc-diesel-pipeline-saoudien-est-ouest.md
