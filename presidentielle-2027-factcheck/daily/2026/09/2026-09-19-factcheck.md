@@ -1,10 +1,10 @@
 ---
 title: Fact-check présidentielle 2027 — 2026-09-19
-date: 2026-09-19T18:25:00+02:00
+date: 2026-09-19T20:22:00+02:00
 type: daily
 feed: presidentielle-2027-factcheck
 category: briefing
-summary: 9 affirmation(s) fausse(s), trompeuse(s) ou substantiellement imprécise(s) relevée(s) dans les nouvelles déclarations du 2026-09-19.
+summary: 10 affirmation(s) fausse(s), trompeuse(s) ou substantiellement imprécise(s) relevée(s) dans les nouvelles déclarations du 2026-09-19.
 ---
 
 # Fact-check présidentielle 2027 — 2026-09-19
@@ -40,3 +40,7 @@ Chaque ligne renvoie à la vérification d'une affirmation précise. Aucune note
 
 - [FAUX · 1/10] Nicolas Dupont-Aignan (Debout la France) — cinq millions de fausses cartes Vitale en circulation en France — [vérification](../../../../presidentielle-2027-factcheck/alerts/2026/09/2026-09-19-18-25-nicolas-dupont-aignan-cinq-millions-de-fausses-cartes.md)
 - [TROMPEUR · 4/10] Nicolas Dupont-Aignan (Debout la France) — 12 milliards d'euros d'aides aux éoliennes et aux panneaux solaires — [vérification](../../../../presidentielle-2027-factcheck/alerts/2026/09/2026-09-19-18-25-nicolas-dupont-aignan-12-milliards-d-euros-d-aides-aux.md)
+
+## Mensonges / affirmations fausses ou trompeuses dans les nouvelles déclarations — passage de 20 h 22
+
+- [TROMPEUR · 3/10] Jordan Bardella (Rassemblement national) — le vote du Parlement européen du 15 septembre 2026 aurait approuvé l'ETS2 — [vérification](../../../../presidentielle-2027-factcheck/alerts/2026/09/2026-09-19-20-22-jordan-bardella-le-vote-du-parlement-europeen-du-15.md)
