@@ -3,6 +3,7 @@
 Mémoire anti-doublon. Les lignes de plus de 7 jours sont élaguées à chaque passage.
 Format : `- AAAA-MM-JJ HH:MM — sujet — chemin`
 
+- 2026-09-19 07:55 — UE / énergie : prix des carburants au plus haut depuis 2005 selon le bulletin pétrolier de la Commission (2,063 €/l essence, 2,159 €/l gazole au 14 septembre) — évolution du sujet choc diesel — monde/alerts/2026/09/2026-09-19-07-55-ue-prix-carburants-records-bulletin-petrolier.md
 - 2026-09-19 04:00 — Corée du Sud : Lee Jae-myung exclut tout envoi de troupes dans la guerre à Ormuz, renforcement de l'unité Cheonghae à l'étude — monde/alerts/2026/09/2026-09-19-04-00-coree-du-sud-exclut-envoi-de-troupes-ormuz.md
 - 2026-09-19 03:55 — Italie / mer Rouge : la frégate Bergamini escorte le cargo Jolly Oro à Bab el-Mandeb, Crosetto demande le renforcement d'Aspides — monde/alerts/2026/09/2026-09-19-03-55-italie-fregate-bergamini-escorte-bab-el-mandeb.md
 - 2026-09-19 02:55 — États-Unis : Trump annonce l'interdiction de CNN, MS NOW et Politico à la Maison-Blanche — monde/alerts/2026/09/2026-09-19-02-55-etats-unis-trump-annonce-interdiction-cnn-msnow-politico.md
