@@ -8,6 +8,9 @@ Les fiches complètes vivent dans `verification/claims/` et ne sont jamais
 supprimées. Cet index n'énumère que les affirmations encore utiles au
 dédoublonnage : une affirmation `clos` en sort après 30 jours.
 
+- CLAIM-20260919-027 | 0/10 | FAUX / RÉFUTÉ | en-cours | 2026-09-19T08:41:00+02:00 | Donald Trump a publié sur son compte Truth Social une carte sur laquelle le libellé « United States » recouvre le territoire de la Russie.
+- CLAIM-20260919-028 | 1/10 | FAUX / RÉFUTÉ | en-cours | 2026-09-19T08:41:00+02:00 | La vidéo dans laquelle l'acteur Mel Gibson critique le gouverneur de Californie Gavin Newsom et la maire de Los Angeles Karen Bass, remise en circulation en septembre 2026, est une vidéo générée par intelligence artificielle.
+- CLAIM-20260919-029 | 1/10 | TRÈS PROBABLEMENT FAUX | en-cours | 2026-09-19T08:41:00+02:00 | L'image diffusée le 17 septembre 2026 montrant le directeur du FBI Kash Patel courant aux côtés de recrues de l'agence est un cliché authentique et non retouché.
 - CLAIM-20260919-005 | 1/10 | TRÈS PROBABLEMENT FAUX | en-cours | 2026-09-19T07:43:00+02:00 | Xi Jinping aurait perdu connaissance pendant le 18e sommet des BRICS à New Delhi, refusé une prise en charge hospitalière en Inde, puis été hospitalisé à Pékin pour un accident vasculaire cérébral ischémique grave.
 - CLAIM-20260919-023 | 0/10 | FAUX / RÉFUTÉ | en-cours | 2026-09-19T07:43:00+02:00 | Le président nigérian Bola Tinubu a annoncé que l'essence serait vendue 5 000 nairas le litre à partir du 29 mai 2027.
 - CLAIM-20260919-024 | 0/10 | FAUX / RÉFUTÉ | en-cours | 2026-09-19T07:43:00+02:00 | Le quotidien kényan The Standard a publié en une de son édition du 2 septembre 2026 un titre affirmant que le parti de l'ancien vice-président Rigathi Gachagua mettait des postes de l'exécutif « en vente » au profit du dirigeant du Wiper, Kalonzo Musyoka.
