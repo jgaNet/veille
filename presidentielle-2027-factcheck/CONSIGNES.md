@@ -214,6 +214,7 @@ Ne jamais :
    puis ajouter les déclarations traitées à `state/declarations-analysees.md`.
 9. **RSS** : `feeds/presidentielle-2027-factcheck.xml` et `feeds/all.xml` sont
    produits par `scripts/build-feeds.mjs`. Ne jamais les éditer à la main.
+10. **Committer en une seule fois** l'intégralité du passage (§ 16).
 
 Une affirmation déjà vérifiée et répétée est tout de même soumise au script,
 avec son `id` : c'est ainsi que sa diffusion est mesurée. Elle n'est jamais
@@ -377,8 +378,17 @@ presidentielle-2027-factcheck/
   state/acteurs.md                          # périmètre indicatif (passage)
 ```
 
-- Messages de commit : `factcheck: …` pour un passage, `correction: …` pour
-  une correction.
+- **Un seul commit par passage**, jamais un commit par affirmation ou par
+  fichier. Le passage est validé en entier par le script : fiches `claims/`,
+  entrées `alerts/`, bulletin `daily/` et fichiers `state/` partent donc
+  ensemble, dans une écriture unique. En local, `git add` puis un unique
+  `git commit` ; via l'API GitHub, l'API Git tree (`push_files` côté
+  connecteur MCP) et non l'endpoint « contents », qui crée un commit par
+  fichier. Un index ou un journal de déclarations séparé des entrées qu'il
+  enregistre casserait la déduplication et la traçabilité.
+- Messages de commit : `factcheck: …` pour un passage — par exemple
+  `factcheck: 1 affirmation publiée, 2 reprises enregistrées` —, et
+  `correction: …` pour une correction.
 - Aucune fiche, aucune entrée n'est jamais supprimée. Jamais de réécriture
   d'historique Git, jamais de push forcé.
 - Le flux RSS suffit au suivi : aucun e-mail ni notification séparée.
