@@ -9,6 +9,7 @@ auteur ou par un autre, s'enregistre en réutilisant son `id`. Les fiches
 complètes vivent dans `presidentielle-2027-factcheck/claims/` et ne sont jamais supprimées. Cet
 index n'est pas élagué et n'est jamais agrégé par candidat ou par parti.
 
+- PRES27-20260919-008 | TROMPEUR | 3/10 | Nicolas Dupont-Aignan (Debout la France) | 1 | 2026-09-18 | Il est le seul candidat à l'élection présidentielle de 2027 à proposer la sortie de la France de l'Union européenne.
 - PRES27-20260919-007 | NON VÉRIFIABLE | sans note | Édouard Philippe (Horizons) | 1 | 2026-09-17 | 301 personnes sont mortes par noyade en France durant l'été 2026.
 - PRES27-20260919-006 | CONFIRMÉ | 8/10 | Édouard Philippe (Horizons) | 1 | 2026-09-17 | Les catastrophes naturelles coûtent environ 5 milliards d'euros par an en France.
 - PRES27-20260919-002 | FAUX | 2/10 | Éric Zemmour (Reconquête) | 1 | 2026-09-17 | Un article du code des étrangers, datant de 1945, prévoit que tout étranger qui pèse sur les finances publiques doit être expulsé.
