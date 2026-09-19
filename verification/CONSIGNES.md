@@ -37,6 +37,7 @@ douteuse insuffisamment vérifiée reste en suivi ; elle n'est pas publiée.
 5. Passer ce fichier à `scripts/verif-record.mjs`, **qui décide seul** de
    l'attribution des identifiants, du dédoublonnage et de la publication ou
    non d'une entrée RSS.
+6. Committer **en une seule fois** tout ce que le script a écrit (§ 10).
 
 **Ne jamais écrire à la main dans `verification/claims/`,
 `verification/alerts/` ou `verification/state/`.** Ces fichiers sont produits
@@ -228,8 +229,15 @@ construction.
 
 ## 10. Publication
 
-- Messages de commit : `verif: …` pour un passage de vérification (par
-  cohérence avec `alert:` et `daily:`).
+- **Un seul commit par passage**, jamais un commit par affirmation ou par
+  fichier. Le script écrit d'un coup les fiches `claims/`, les entrées
+  `alerts/` et `state/affirmations.md` : tout part ensemble. En local,
+  `git add` puis un unique `git commit` ; via l'API GitHub, l'API Git tree
+  (`push_files` côté connecteur MCP) et non l'endpoint « contents », qui crée
+  un commit par fichier. Une fiche séparée de l'alerte qui la cite, ou un
+  index désynchronisé, casserait la déduplication.
+- Message de commit : `verif: …`, récapitulatif du passage — par exemple
+  `verif: 2 affirmations publiées ou mises à jour`.
 - Les fichiers de `alerts/` ne sont jamais modifiés après publication ; une
   évolution donne lieu à une nouvelle entrée, reliée par le `claim_id`.
 - Les fiches de `claims/` sont mises à jour en place : leur historique est la
