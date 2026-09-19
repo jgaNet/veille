@@ -1,10 +1,10 @@
 ---
 title: Fact-check présidentielle 2027 — 2026-09-19
-date: 2026-09-19T20:22:00+02:00
+date: 2026-09-19T22:21:00+02:00
 type: daily
 feed: presidentielle-2027-factcheck
 category: briefing
-summary: 10 affirmation(s) fausse(s), trompeuse(s) ou substantiellement imprécise(s) relevée(s) dans les nouvelles déclarations du 2026-09-19.
+summary: 11 affirmation(s) fausse(s), trompeuse(s) ou substantiellement imprécise(s) relevée(s) dans les nouvelles déclarations du 2026-09-19.
 ---
 
 # Fact-check présidentielle 2027 — 2026-09-19
@@ -44,3 +44,7 @@ Chaque ligne renvoie à la vérification d'une affirmation précise. Aucune note
 ## Mensonges / affirmations fausses ou trompeuses dans les nouvelles déclarations — passage de 20 h 22
 
 - [TROMPEUR · 3/10] Jordan Bardella (Rassemblement national) — le vote du Parlement européen du 15 septembre 2026 aurait approuvé l'ETS2 — [vérification](../../../../presidentielle-2027-factcheck/alerts/2026/09/2026-09-19-20-22-jordan-bardella-le-vote-du-parlement-europeen-du-15.md)
+
+## Mensonges / affirmations fausses ou trompeuses dans les nouvelles déclarations — passage de 22 h 21
+
+- [TROMPEUR · 3/10] Éric Zemmour (Reconquête) — le remplacement des travailleurs immigrés par des robots serait déjà pratiqué en Chine, au Japon et en Corée du Sud — [vérification](../../../../presidentielle-2027-factcheck/alerts/2026/09/2026-09-19-22-21-eric-zemmour-le-remplacement-des-travailleurs-immigres-par.md)
