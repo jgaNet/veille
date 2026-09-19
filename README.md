@@ -139,10 +139,14 @@ désynchroniser des alertes correspondantes (tout part ou rien ne part), et le
 workflow `feeds` ne redéploie le site qu'une fois par passage au lieu d'une
 fois par article.
 
-Le message de commit récapitule le passage :
+Le message récapitule le passage entier :
 
 ```
-veille: 4 alertes — 19/09 08:00
+alert: 2 alertes — détroit d'Ormuz, BCE
+daily: brief mondial 2026-09-18
+verif: 2 affirmations publiées ou mises à jour
+factcheck: 1 affirmation publiée, 2 reprises enregistrées
+correction: PRES27-20260919-001, FAUX → IMPRÉCIS
 ```
 
 ## Outils
@@ -166,18 +170,5 @@ GitHub Actions). Il peut être déclenché à la main depuis l'onglet Actions.
 
 La recherche elle-même est faite par les passages de veille (Cowork ou session
 Claude), pas par GitHub Actions.
-
-## Messages de commit
-
-Un seul message par passage, qui décrit l'ensemble du lot :
-
-```
-veille: 4 alertes — 19/09 08:00
-alert: 2 alertes — détroit d'Ormuz, BCE
-daily: brief mondial 2026-09-18
-verif: 2 affirmations publiées ou mises à jour
-factcheck: 1 affirmation publiée, 2 reprises enregistrées
-correction: PRES27-20260919-001, FAUX → IMPRÉCIS
-```
 
 Principe fondamental : 10 informations correctement vérifiées valent mieux que 30 informations simplement reprises. La fiabilité passe avant la vitesse.
