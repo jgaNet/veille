@@ -3,6 +3,7 @@
 Mémoire anti-doublon. Les lignes de plus de 7 jours sont élaguées à chaque passage.
 Format : `- AAAA-MM-JJ HH:MM — sujet — chemin`
 
+- 2026-09-19 20:50 — Arabie saoudite / Yémen : Yahya Saree revendique deux opérations houthies contre des sites « sensibles » de Riyad et les installations Aramco de Yanbu (missiles balistiques et de croisière, drones), aucune confirmation saoudienne — évolution du sujet incendie du réservoir Aramco près de l'aéroport de Riyad — monde/alerts/2026/09/2026-09-19-20-50-arabie-saoudite-houthis-revendiquent-riyad-yanbu.md
 - 2026-09-19 20:00 — Brief mondial du 19 septembre : récapitulatif quotidien de 12 informations (Golfe et Ormuz, élections russes, drones Findel et Koursk, énergie européenne, BoJ, actifs Nestlé/Auchan, Gemini) — monde/daily/2026/09/2026-09-19-brief-monde.md
 - 2026-09-19 20:00 — Russie : élections législatives des 18 au 20 septembre, 450 sièges de la Douma plus 11 gouverneurs et 39 assemblées régionales, Iabloko retiré du scrutin de liste par la Cour suprême en août — sujet traité pour la première fois, dans le brief quotidien et sans alerte horaire — monde/daily/2026/09/2026-09-19-brief-monde.md
 - 2026-09-19 20:00 — Canada / France : sommet Macron–Carney annoncé à Saint-Pierre-et-Miquelon pour le dimanche 20 septembre (énergie et minéraux critiques, aérospatiale, coopération polaire) — signalé en « à surveiller demain » dans le brief, non encore traité comme alerte — monde/daily/2026/09/2026-09-19-brief-monde.md
