@@ -3,6 +3,7 @@
 Mémoire anti-doublon. Les lignes de plus de 7 jours sont élaguées à chaque passage.
 Format : `- AAAA-MM-JJ HH:MM — sujet — chemin`
 
+- 2026-09-19 13:55 — Turquie / Iran : la BDDK retire la licence de la succursale d'Istanbul de Bank Mellat (Journal officiel du 19 septembre, art. 71/1-b de la loi bancaire 5411), présence turque depuis 1982 — monde/alerts/2026/09/2026-09-19-13-55-turquie-bddk-retrait-licence-bank-mellat.md
 - 2026-09-19 11:50 — Russie / nucléaire : l'AIEA confirme qu'un drone a touché la tour de refroidissement d'une tranche en fonctionnement de la centrale de Koursk le 17 septembre, pas d'incendie, aucune revendication — monde/alerts/2026/09/2026-09-19-11-50-russie-drone-tour-refroidissement-centrale-koursk.md
 - 2026-09-19 10:50 — Luxembourg : drones non autorisés détectés près du Findel le 18 au soir, aéroport fermé plusieurs heures, cellule interministérielle « drones » réunie le 19 au matin, aucune attribution — monde/alerts/2026/09/2026-09-19-10-50-luxembourg-drones-findel-fermeture-aeroport.md
 - 2026-09-19 09:55 — Arabie saoudite : alertes de la Défense civile sur Riyad, Al-Kharj et les îles Farasan (premières visant la capitale depuis l'escalade houthie), deux détonations rapportées à Olaya — monde/alerts/2026/09/2026-09-19-09-55-arabie-saoudite-alertes-defense-civile-riyad.md
