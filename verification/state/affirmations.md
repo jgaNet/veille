@@ -8,6 +8,9 @@ Les fiches complètes vivent dans `verification/claims/` et ne sont jamais
 supprimées. Cet index n'énumère que les affirmations encore utiles au
 dédoublonnage : une affirmation `clos` en sort après 30 jours.
 
+- CLAIM-20260920-001 | 1/10 | HORS CONTEXTE | en-cours | 2026-09-20T00:42:00+02:00 | La vidéo diffusée à la mi-septembre 2026 montre le président iranien Masoud Pezeshkian se penchant pour toucher les pieds d'un chef religieux hindou afin d'en recevoir la bénédiction, lors d'un événement organisé à New Delhi en marge du sommet des BRICS.
+- CLAIM-20260920-002 | 0/10 | HORS CONTEXTE | en-cours | 2026-09-20T00:42:00+02:00 | La vidéo diffusée à partir du 11 septembre 2026 montre le Premier ministre indien Narendra Modi offrant au président chinois Xi Jinping un objet à sa propre effigie, lors du 18e sommet des BRICS de New Delhi.
+- CLAIM-20260920-003 | 0/10 | FAUX / RÉFUTÉ | en-cours | 2026-09-20T00:42:00+02:00 | La vidéo diffusée en septembre 2026 montre une sympathisante du parti du Congrès enlevée à son domicile au Ladakh par des militants du RSS.
 - CLAIM-20260919-084 | 2/10 | TROMPEUR | en-cours | 2026-09-19T23:45:00+02:00 | Environ un million de personnes présentes en Allemagne dont la demande d'asile a été rejetée sont aujourd'hui susceptibles d'être expulsées.
 - CLAIM-20260919-085 | 1/10 | TROMPEUR | en-cours | 2026-09-19T23:45:00+02:00 | Le domaine viticole cofondé par le gouverneur de Californie Gavin Newsom est le seul à avoir reçu une indemnisation versée par l'État de Californie après l'incendie Pickett.
 - CLAIM-20260919-086 | 1/10 | TRÈS PROBABLEMENT FAUX | en-cours | 2026-09-19T23:45:00+02:00 | Les traînées blanches laissées en altitude par les avions de ligne sont des produits chimiques délibérément dispersés au-dessus des populations (« chemtrails »).
