@@ -8,6 +8,9 @@ Les fiches complètes vivent dans `verification/claims/` et ne sont jamais
 supprimées. Cet index n'énumère que les affirmations encore utiles au
 dédoublonnage : une affirmation `clos` en sort après 30 jours.
 
+- CLAIM-20260919-014 | 0/10 | FAUX / RÉFUTÉ | en-cours | 2026-09-19T04:41:00+02:00 | Une vidéo montrant une femme frappée dans un marché au Bangladesh documente l'agression d'une enseignante hindoue par des musulmans pour des motifs religieux.
+- CLAIM-20260919-015 | 0/10 | FAUX / RÉFUTÉ | en-cours | 2026-09-19T04:41:00+02:00 | La banque britannique Monzo a lancé un service officiel de casino en ligne, présenté sous le nom de « Monzo slots » dans des publicités diffusées sur Facebook et Instagram.
+- CLAIM-20260919-016 | 1/10 | TRÈS PROBABLEMENT FAUX | en-cours | 2026-09-19T04:41:00+02:00 | Rob Sand, candidat au poste de gouverneur de l'Iowa, a pour projet d'augmenter les impôts des habitants de l'Iowa de 7 500 dollars par an.
 - CLAIM-20260919-009 | 0/10 | FAUX / RÉFUTÉ | en-cours | 2026-09-19T03:43:00+02:00 | Bill Gates est l'auteur d'un article de 2011 intitulé « Depopulation Through Forced Vaccination: The Zero Carbon Solution! », article qui aurait depuis été effacé d'internet.
 - CLAIM-20260919-010 | 0/10 | FAUX / RÉFUTÉ | en-cours | 2026-09-19T03:43:00+02:00 | Une vidéo amateur diffusée sur Facebook montre la tour Sud du World Trade Center explosant le 11 septembre 2001 sans qu'aucun avion ne la percute.
 - CLAIM-20260919-011 | 1/10 | TRÈS PROBABLEMENT FAUX | en-cours | 2026-09-19T03:43:00+02:00 | Les États-Unis contrôlent l'épidémie de rougeole mieux que n'importe quel autre pays du monde, affirmation formulée publiquement par le secrétaire américain à la Santé Robert F. Kennedy Jr.
