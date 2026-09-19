@@ -24,8 +24,7 @@ Le Comité militaire est l'instance militaire la plus élevée de l'OTAN : son
 président est le principal conseiller militaire du secrétaire général et le lien
 entre les chefs d'état-major alliés et les décideurs politiques. Breuer
 succédera à l'amiral italien Giuseppe Cavo Dragone, président en exercice, qui a
-annoncé le résultat. C'est la première fois depuis Klaus Naumann (1996-1999)
-qu'un officier allemand occuperait cette fonction.
+annoncé le résultat.
 
 ## Confirmé
 
@@ -67,6 +66,14 @@ communiqué de l'OTAN publié le 19 septembre — et repris de façon concordant
 Euronews, Reuters et la dpa. La note n'est pas portée à 10 parce que les
 dépêches Reuters (US News) et dpa n'ont pas pu être consultées directement, et
 que la date précise de prise de fonctions diverge légèrement selon les sources.
+
+## ✏️ Correction
+
+**19 septembre 2026, 20 h 05 (heure de Paris)** — Retrait d'une phrase de
+contexte historique affirmant qu'aucun officier allemand n'avait présidé le
+Comité militaire depuis Klaus Naumann (1996-1999) : cette mention ne reposait
+sur aucune des sources consultées et n'a pas pu être vérifiée. Aucun autre
+élément de l'alerte n'est modifié.
 
 ## Sources
 
