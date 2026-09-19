@@ -8,6 +8,10 @@ Les fiches complètes vivent dans `verification/claims/` et ne sont jamais
 supprimées. Cet index n'énumère que les affirmations encore utiles au
 dédoublonnage : une affirmation `clos` en sort après 30 jours.
 
+- CLAIM-20260919-080 | 1/10 | TRÈS PROBABLEMENT FAUX | en-cours | 2026-09-19T22:43:00+02:00 | Le thimérosal, conservateur à base d'éthylmercure utilisé dans certains vaccins, a causé des lésions cérébrales et des troubles neurodéveloppementaux chez les enfants américains.
+- CLAIM-20260919-081 | 3/10 | HORS CONTEXTE | en-cours | 2026-09-19T22:43:00+02:00 | Moins de 1 % des effets indésirables des vaccins sont signalés au système américain de pharmacovigilance VAERS.
+- CLAIM-20260919-082 | 3/10 | TROMPEUR | en-cours | 2026-09-19T22:43:00+02:00 | La comparaison entre un taux d'autisme inférieur à 1 cas sur 10 000 en 1970 et un taux de 1 sur 31 aujourd'hui aux États-Unis établit une augmentation réelle de la fréquence du trouble.
+- CLAIM-20260919-083 | 3/10 | TROMPEUR | en-cours | 2026-09-19T22:43:00+02:00 | Le calendrier vaccinal américain recommande aujourd'hui 94 doses de 18 vaccins différents pour un enfant, contre trois vaccins dans les années 1950-1960.
 - CLAIM-20260919-077 | 2/10 | TROMPEUR | en-cours | 2026-09-19T21:42:00+02:00 | Le sénateur américain Jon Ossoff a voté en faveur d'une hausse d'impôts de 2 100 dollars pour les ménages et en faveur d'une réduction du crédit d'impôt pour enfants.
 - CLAIM-20260919-078 | 4/10 | HORS CONTEXTE | en-cours | 2026-09-19T21:42:00+02:00 | La baisse d'environ 7,3 % du taux d'obésité des adultes aux États-Unis depuis 2022 est à porter au crédit de la politique sanitaire menée depuis janvier 2025.
 - CLAIM-20260919-079 | 9/10 | CONFIRMÉ | clos | 2026-09-19T21:42:00+02:00 | Le sénateur américain Roger Marshall a engagé, avant son élection au Sénat, plus de 700 poursuites judiciaires contre des patients pour des factures médicales impayées.
