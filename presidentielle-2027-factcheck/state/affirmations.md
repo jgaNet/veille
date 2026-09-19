@@ -9,6 +9,8 @@ auteur ou par un autre, s'enregistre en réutilisant son `id`. Les fiches
 complètes vivent dans `presidentielle-2027-factcheck/claims/` et ne sont jamais supprimées. Cet
 index n'est pas élagué et n'est jamais agrégé par candidat ou par parti.
 
+- PRES27-20260919-022 | CONFIRMÉ | 8/10 | Marine Le Pen et Jordan Bardella (Rassemblement national) | 1 | 2026-09-19 | À l'aéroport de Leipzig, en Allemagne, un drone chargé d'explosifs a pris pour cible des appareils de transport ukrainiens.
+- PRES27-20260919-021 | CONFIRMÉ | 9/10 | Marine Le Pen et Jordan Bardella (Rassemblement national) | 1 | 2026-09-19 | Les autorités russes ont placé sous administration temporaire les filiales et les actifs situés en Russie de plusieurs entreprises françaises et européennes.
 - PRES27-20260919-020 | CONFIRMÉ | 8/10 | Nicolas Dupont-Aignan (Debout la France) | 1 | 2026-09-19 | Lors du référendum du 29 mai 2005 sur le traité établissant une Constitution pour l'Europe, 55 % des votants se sont prononcés contre.
 - PRES27-20260919-019 | TROMPEUR | 4/10 | Nicolas Dupont-Aignan (Debout la France) | 1 | 2026-09-19 | Les aides publiques versées aux éoliennes et aux panneaux solaires représentent 12 milliards d'euros.
 - PRES27-20260919-018 | FAUX | 1/10 | Nicolas Dupont-Aignan (Debout la France) | 1 | 2026-09-19 | Il existe en France cinq millions de fausses cartes Vitale.
