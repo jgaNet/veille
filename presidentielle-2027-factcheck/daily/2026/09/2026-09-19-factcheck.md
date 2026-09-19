@@ -1,10 +1,10 @@
 ---
 title: Fact-check présidentielle 2027 — 2026-09-19
-date: 2026-09-19T13:24:00+02:00
+date: 2026-09-19T18:25:00+02:00
 type: daily
 feed: presidentielle-2027-factcheck
 category: briefing
-summary: 7 affirmation(s) fausse(s), trompeuse(s) ou substantiellement imprécise(s) relevée(s) dans les nouvelles déclarations du 2026-09-19.
+summary: 9 affirmation(s) fausse(s), trompeuse(s) ou substantiellement imprécise(s) relevée(s) dans les nouvelles déclarations du 2026-09-19.
 ---
 
 # Fact-check présidentielle 2027 — 2026-09-19
@@ -35,3 +35,8 @@ Chaque ligne renvoie à la vérification d'une affirmation précise. Aucune note
 ## Mensonges / affirmations fausses ou trompeuses dans les nouvelles déclarations — passage de 13 h 24
 
 - [IMPRÉCIS · 6/10] Jordan Bardella (Rassemblement national) — une vingtaine d'euros d'économie par plein de 40 litres avec une TVA à 5,5 % et l'annulation des hausses de taxes de 2018 — [vérification](../../../../presidentielle-2027-factcheck/alerts/2026/09/2026-09-19-13-24-jordan-bardella-une-vingtaine-d-euros-d-economie-par-plein.md)
+
+## Mensonges / affirmations fausses ou trompeuses dans les nouvelles déclarations — passage de 18 h 25
+
+- [FAUX · 1/10] Nicolas Dupont-Aignan (Debout la France) — cinq millions de fausses cartes Vitale en circulation en France — [vérification](../../../../presidentielle-2027-factcheck/alerts/2026/09/2026-09-19-18-25-nicolas-dupont-aignan-cinq-millions-de-fausses-cartes.md)
+- [TROMPEUR · 4/10] Nicolas Dupont-Aignan (Debout la France) — 12 milliards d'euros d'aides aux éoliennes et aux panneaux solaires — [vérification](../../../../presidentielle-2027-factcheck/alerts/2026/09/2026-09-19-18-25-nicolas-dupont-aignan-12-milliards-d-euros-d-aides-aux.md)
