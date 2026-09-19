@@ -1,10 +1,10 @@
 ---
 title: Fact-check présidentielle 2027 — 2026-09-19
-date: 2026-09-19T10:23:00+02:00
+date: 2026-09-19T11:23:00+02:00
 type: daily
 feed: presidentielle-2027-factcheck
 category: briefing
-summary: 5 affirmation(s) fausse(s), trompeuse(s) ou substantiellement imprécise(s) relevée(s) dans les nouvelles déclarations du 2026-09-19.
+summary: 6 affirmation(s) fausse(s), trompeuse(s) ou substantiellement imprécise(s) relevée(s) dans les nouvelles déclarations du 2026-09-19.
 ---
 
 # Fact-check présidentielle 2027 — 2026-09-19
@@ -27,3 +27,7 @@ Chaque ligne renvoie à la vérification d'une affirmation précise. Aucune note
 
 - [TROMPEUR · 5/10] Bruno Retailleau (Les Républicains) — supprimer les certificats d'économies d'énergie ferait économiser 8,50 euros par plein — [vérification](../../../../presidentielle-2027-factcheck/alerts/2026/09/2026-09-19-10-23-bruno-retailleau-supprimer-les-certificats-d-economies-d.md)
 - [IMPRÉCIS · 6/10] Éric Zemmour (Reconquête) — l'immigration légale serait passée de 100 000 à 500 000 personnes par an en trente ans — [vérification](../../../../presidentielle-2027-factcheck/alerts/2026/09/2026-09-19-10-23-eric-zemmour-l-immigration-legale-serait-passee-de-100-000.md)
+
+## Mensonges / affirmations fausses ou trompeuses dans les nouvelles déclarations — passage de 11 h 23
+
+- [FAUX · 2/10] Nicolas Dupont-Aignan (Debout la France) — six milliards d'euros seraient la moitié du versement annuel de la France à l'Union européenne — [vérification](../../../../presidentielle-2027-factcheck/alerts/2026/09/2026-09-19-11-23-nicolas-dupont-aignan-six-milliards-d-euros-seraient-la.md)
