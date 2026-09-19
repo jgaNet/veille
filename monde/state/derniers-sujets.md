@@ -3,6 +3,7 @@
 Mémoire anti-doublon. Les lignes de plus de 7 jours sont élaguées à chaque passage.
 Format : `- AAAA-MM-JJ HH:MM — sujet — chemin`
 
+- 2026-09-19 10:50 — Luxembourg : drones non autorisés détectés près du Findel le 18 au soir, aéroport fermé plusieurs heures, cellule interministérielle « drones » réunie le 19 au matin, aucune attribution — monde/alerts/2026/09/2026-09-19-10-50-luxembourg-drones-findel-fermeture-aeroport.md
 - 2026-09-19 09:55 — Arabie saoudite : alertes de la Défense civile sur Riyad, Al-Kharj et les îles Farasan (premières visant la capitale depuis l'escalade houthie), deux détonations rapportées à Olaya — monde/alerts/2026/09/2026-09-19-09-55-arabie-saoudite-alertes-defense-civile-riyad.md
 - 2026-09-19 09:50 — États-Unis / Russie : signature le 18 septembre de la loi H.R. 5334 « Lindsey O. Graham Sanctioning Russia and Iran Act of 2026 » (droits de douane jusqu'à 100 %, prolongation des sanctions iraniennes) — monde/alerts/2026/09/2026-09-19-09-50-etats-unis-loi-sanctions-russie-iran-graham.md
 - 2026-09-19 09:00 — États-Unis : la cour d'appel fédérale du 1er circuit (Boston) rejette les expulsions rapides vers des pays tiers (D.V.D. v. DHS) — monde/alerts/2026/09/2026-09-19-09-00-etats-unis-cour-appel-bloque-expulsions-pays-tiers.md
