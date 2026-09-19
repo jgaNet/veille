@@ -230,8 +230,14 @@ significativement l'actualité.
   `summary`) alimente `feeds/monde.xml` et `feeds/all.xml`, régénérés
   automatiquement par GitHub Actions (`scripts/build-feeds.mjs`) à chaque
   publication. Ne jamais éditer ces fichiers à la main.
-- Messages de commit : `alert: …` pour une alerte, `daily: …` pour un
-  récapitulatif. Jamais de réécriture d'historique ni de push forcé.
+- **Un seul commit par passage**, jamais un commit par alerte : rassembler
+  toutes les alertes du passage, le récapitulatif éventuel et la mise à jour de
+  `state/derniers-sujets.md` dans une écriture unique. En local, `git add` puis
+  un unique `git commit` ; via l'API GitHub, l'API Git tree (`push_files` côté
+  connecteur MCP) et non l'endpoint « contents », qui crée un commit par
+  fichier. Message récapitulatif : `alert: 3 alertes — 19/09 08:00`, ou
+  `daily: brief mondial 2026-09-18`. Jamais de réécriture d'historique ni de
+  push forcé.
 - **Ne pas modifier les fichiers existants**, sauf pour corriger une erreur
   factuelle ou technique clairement identifiée. Toute correction importante est
   signalée dans le contenu concerné (section `## ✏️ Correction` datée).
@@ -247,3 +253,6 @@ passage :
 3. ajoute en tête la ligne des sujets qu'il vient de publier
    (`- AAAA-MM-JJ HH:MM — sujet — chemin du fichier`) ;
 4. élague les lignes de plus de 7 jours.
+
+La mise à jour de ce fichier part **dans le même commit** que les alertes
+qu'elle enregistre : l'état et le flux ne doivent jamais pouvoir diverger.
