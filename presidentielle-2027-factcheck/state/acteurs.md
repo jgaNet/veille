@@ -27,6 +27,7 @@ de repère, à revérifier) :
 | Élisabeth Borne | Renaissance |
 | Karim Bouamrane | Parti socialiste |
 | Bernard Cazeneuve | La Convention |
+| Éric Ciotti | Union des droites pour la République |
 | Gérald Darmanin | — |
 | Nicolas Dupont-Aignan | Debout la France |
 | Olivier Faure | Parti socialiste |
@@ -55,10 +56,12 @@ Sites, communiqués et comptes officiels des formations ci-dessous, ainsi que de
 dirigeants et porte-parole lorsqu'ils s'expriment au nom du parti : Debout la France,
 Horizons, La France insoumise, Les Écologistes, Les Républicains, Lutte ouvrière, MoDem,
 Parti communiste français, Parti socialiste, Place publique, Rassemblement national,
-Reconquête, Renaissance / Ensemble, et toute autre formation soutenant une candidature.
+Reconquête, Renaissance / Ensemble, Union des droites pour la République, et toute autre
+formation soutenant une candidature.
 
 ## Journal des mises à jour
 
 Format : `- AAAA-MM-JJ — changement — source (URL)`
 
 - 2026-09-18 — création de la liste à partir des recensements LCP et RTBF cités ci-dessus
+- 2026-09-19 — ajout d'Éric Ciotti et de l'Union des droites pour la République, conviés parmi les chefs de partis et candidats reçus à l'Élysée le 18 septembre 2026 — Public Sénat (https://www.publicsenat.fr/actualites/politique/bardella-philippe-faure-tondelier-face-a-la-crise-internationale-emmanuel-macron-reunit-les-candidats-a-la-presidentielle-a-lelysee)
