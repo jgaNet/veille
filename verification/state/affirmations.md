@@ -8,6 +8,9 @@ Les fiches complètes vivent dans `verification/claims/` et ne sont jamais
 supprimées. Cet index n'énumère que les affirmations encore utiles au
 dédoublonnage : une affirmation `clos` en sort après 30 jours.
 
+- CLAIM-20260919-055 | 0/10 | FAUX / RÉFUTÉ | en-cours | 2026-09-19T15:45:00+02:00 | La photographie d'Alice Weidel sur laquelle l'ombre du microphone dessine une moustache sur sa lèvre supérieure, largement repartagée en septembre 2026, est un cliché authentique et non retouché.
+- CLAIM-20260919-056 | 0/10 | FAUX / RÉFUTÉ | en-cours | 2026-09-19T15:45:00+02:00 | Le quotidien nigérian PM News a publié une une titrée « How I was cured of madness » consacrée à un témoignage de Peter Obi, alors gouverneur de l'État d'Anambra.
+- CLAIM-20260919-057 | 0/10 | FAUX / RÉFUTÉ | en-cours | 2026-09-19T15:45:00+02:00 | La vidéo diffusée à la mi-septembre 2026, montrant une jeune femme maîtrisée par deux hommes alors qu'elle crie, documente une agression à caractère religieux survenue en Inde ou au Pakistan.
 - CLAIM-20260919-050 | 0/10 | FAUX / RÉFUTÉ | en-cours | 2026-09-19T14:44:00+02:00 | Sans activation de l'option « confidentialité avancée des discussions », l'assistant Meta AI accède à l'ensemble des messages privés et de groupe des utilisateurs de WhatsApp.
 - CLAIM-20260919-051 | 0/10 | FAUX / RÉFUTÉ | en-cours | 2026-09-19T14:44:00+02:00 | La vidéo diffusée sur les réseaux sociaux depuis le 12 août 2026 montre le public d'un concert du groupe allemand 01099 huant un membre du groupe après sa déclaration contre l'AfD.
 - CLAIM-20260919-052 | 0/10 | FAUX / RÉFUTÉ | en-cours | 2026-09-19T14:44:00+02:00 | La photographie diffusée en septembre 2026, présentée comme montrant des avions de chasse visés par des drones suicide sur la base aérienne de Tada-U, près de Mandalay (Birmanie), est un cliché authentique de cette attaque.
