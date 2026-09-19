@@ -4,10 +4,9 @@ name: feeds
 # (monde/, verification/, presidentielle-2027-factcheck/, …)
 # puis les publie sur GitHub Pages.
 #
-# Déclenchement :
-#   - à chaque publication d'alerte ou de brief sur main
-#   - toutes les heures (garde le lastBuildDate frais)
-#   - à la main depuis l'onglet Actions
+# Le site n'est redéployé que lorsque le contenu change : chaque
+# déploiement remplace le site entier et ouvre une courte fenêtre
+# pendant laquelle le CDN peut répondre 404.
 
 on:
   push:
@@ -20,8 +19,6 @@ on:
       - "scripts/**"
       - "package.json"
       - ".github/workflows/feeds.yml"
-  schedule:
-    - cron: "10 * * * *"
   workflow_dispatch:
 
 concurrency:
@@ -73,6 +70,8 @@ jobs:
         run: |
           mkdir -p _site
           cp -r feeds _site/feeds
+          # Sert les fichiers tels quels, sans passer par Jekyll.
+          touch _site/.nojekyll
           {
             echo '<!doctype html>'
             echo '<html lang="fr"><head><meta charset="utf-8">'
@@ -105,6 +104,9 @@ jobs:
             echo "<footer>Dernière génération : $(date -u '+%d/%m/%Y %H:%M UTC') · <a href=\"https://github.com/${REPO}\">dépôt</a></footer>"
             echo '</body></html>'
           } > _site/index.html
+          # Une URL inconnue renvoie vers la liste des flux plutôt qu'une
+          # page d'erreur nue.
+          cp _site/index.html _site/404.html
 
       - name: Récapitulatif
         run: |
@@ -135,3 +137,25 @@ jobs:
     steps:
       - id: deployment
         uses: actions/deploy-pages@v4
+
+      - name: Attendre que le site réponde
+        # La bascule du CDN prend quelques secondes : on ne considère le
+        # déploiement terminé qu'une fois les URL réellement servies.
+        run: |
+          for url in "${SITE_URL}/" "${SITE_URL}/feeds/monde.xml"; do
+            ok=""
+            for i in $(seq 1 20); do
+              code=$(curl -s -o /dev/null -w '%{http_code}' "$url" || echo 000)
+              if [ "$code" = "200" ]; then
+                echo "$url → 200 (tentative $i)"
+                ok=1
+                break
+              fi
+              echo "$url → $code, nouvel essai dans 15 s ($i/20)"
+              sleep 15
+            done
+            if [ -z "$ok" ]; then
+              echo "::error::${url} ne répond toujours pas après 5 minutes"
+              exit 1
+            fi
+          done
