@@ -39,6 +39,7 @@ de repère, à revérifier) :
 | Marine Le Pen | Rassemblement national |
 | Bruno Le Maire | — |
 | David Lisnard | Nouvelle Énergie |
+| Emmanuel Maurel | Gauche républicaine et socialiste |
 | Jean-Luc Mélenchon | La France insoumise |
 | Édouard Philippe | Horizons |
 | Florian Philippot | Les Patriotes |
@@ -65,3 +66,4 @@ Format : `- AAAA-MM-JJ — changement — source (URL)`
 
 - 2026-09-18 — création de la liste à partir des recensements LCP et RTBF cités ci-dessus
 - 2026-09-19 — ajout d'Éric Ciotti et de l'Union des droites pour la République, conviés parmi les chefs de partis et candidats reçus à l'Élysée le 18 septembre 2026 — Public Sénat (https://www.publicsenat.fr/actualites/politique/bardella-philippe-faure-tondelier-face-a-la-crise-internationale-emmanuel-macron-reunit-les-candidats-a-la-presidentielle-a-lelysee)
+- 2026-09-19 — ajout d'Emmanuel Maurel, recensé parmi les participants à la primaire socialiste d'octobre 2026 — Public Sénat (https://www.publicsenat.fr/actualites/politique/presidentielle-2027-le-dernier-decompte-des-candidats-deja-sur-la-ligne-de-depart)
