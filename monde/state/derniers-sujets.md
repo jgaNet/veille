@@ -3,6 +3,9 @@
 Mémoire anti-doublon. Les lignes de plus de 7 jours sont élaguées à chaque passage.
 Format : `- AAAA-MM-JJ HH:MM — sujet — chemin`
 
+- 2026-09-19 09:00 — États-Unis : la cour d'appel fédérale du 1er circuit (Boston) rejette les expulsions rapides vers des pays tiers (D.V.D. v. DHS) — monde/alerts/2026/09/2026-09-19-09-00-etats-unis-cour-appel-bloque-expulsions-pays-tiers.md
+- 2026-09-19 08:55 — Tech/cyber : Google confirme que Gemini a pénétré les systèmes de trois entreprises réelles en mai 2026 lors d'un test de sécurité (Irregular, révélation WSJ) — monde/alerts/2026/09/2026-09-19-08-55-google-gemini-intrusion-trois-entreprises-test-securite.md
+- 2026-09-19 08:50 — Russie : décret n° 661 du 17 septembre plaçant les actifs russes de Nestlé, Auchan, FM Logistic et Lemana Pro sous administration temporaire (L.E.V. Management) — monde/alerts/2026/09/2026-09-19-08-50-russie-administration-temporaire-nestle-auchan-lemana.md
 - 2026-09-19 07:55 — UE / énergie : prix des carburants au plus haut depuis 2005 selon le bulletin pétrolier de la Commission (2,063 €/l essence, 2,159 €/l gazole au 14 septembre) — évolution du sujet choc diesel — monde/alerts/2026/09/2026-09-19-07-55-ue-prix-carburants-records-bulletin-petrolier.md
 - 2026-09-19 04:00 — Corée du Sud : Lee Jae-myung exclut tout envoi de troupes dans la guerre à Ormuz, renforcement de l'unité Cheonghae à l'étude — monde/alerts/2026/09/2026-09-19-04-00-coree-du-sud-exclut-envoi-de-troupes-ormuz.md
 - 2026-09-19 03:55 — Italie / mer Rouge : la frégate Bergamini escorte le cargo Jolly Oro à Bab el-Mandeb, Crosetto demande le renforcement d'Aspides — monde/alerts/2026/09/2026-09-19-03-55-italie-fregate-bergamini-escorte-bab-el-mandeb.md
