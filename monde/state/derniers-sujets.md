@@ -3,6 +3,8 @@
 Mémoire anti-doublon. Les lignes de plus de 7 jours sont élaguées à chaque passage.
 Format : `- AAAA-MM-JJ HH:MM — sujet — chemin`
 
+- 2026-09-19 04:00 — Corée du Sud : Lee Jae-myung exclut tout envoi de troupes dans la guerre à Ormuz, renforcement de l'unité Cheonghae à l'étude — monde/alerts/2026/09/2026-09-19-04-00-coree-du-sud-exclut-envoi-de-troupes-ormuz.md
+- 2026-09-19 03:55 — Italie / mer Rouge : la frégate Bergamini escorte le cargo Jolly Oro à Bab el-Mandeb, Crosetto demande le renforcement d'Aspides — monde/alerts/2026/09/2026-09-19-03-55-italie-fregate-bergamini-escorte-bab-el-mandeb.md
 - 2026-09-19 02:55 — États-Unis : Trump annonce l'interdiction de CNN, MS NOW et Politico à la Maison-Blanche — monde/alerts/2026/09/2026-09-19-02-55-etats-unis-trump-annonce-interdiction-cnn-msnow-politico.md
 - 2026-09-19 02:50 — Japon : la Banque du Japon relève son taux directeur à 1,25 %, plus haut en 31 ans — monde/alerts/2026/09/2026-09-19-02-50-japon-boj-taux-directeur-1-25-plus-haut-en-31-ans.md
 - 2026-09-19 01:55 — Aramco supprimerait les allocations de brut d'octobre aux raffineurs européens (et suspendrait ses livraisons à l'Inde) — évolution du sujet pipeline Est-Ouest — monde/alerts/2026/09/2026-09-19-01-55-aramco-allocations-brut-europe-octobre.md
