@@ -122,6 +122,29 @@ Note sur 10 mesurant la solidité des preuves, jamais l'importance de l'informat
 - Pas de réécriture de l'historique Git, jamais de push forcé.
 - Fichiers existants non modifiés, sauf correction factuelle ou technique explicitement signalée.
 
+## Un commit par passage
+
+**Un passage de veille produit un seul commit**, quel que soit le nombre
+d'alertes, de fiches ou de fichiers d'état écrits. Jamais un commit par
+article.
+
+Concrètement : rassembler tous les fichiers du passage — alertes, fiches
+`claims/`, bulletin `daily/`, mémoire `state/` — et les écrire en une seule
+opération. En local, `git add` puis un unique `git commit`. Via l'API GitHub,
+l'endpoint « contents » crée un commit par fichier : utiliser l'API Git tree
+(`push_files` côté connecteur MCP), qui écrit tout le lot d'un coup.
+
+Trois raisons : l'historique reste lisible, l'état anti-doublon ne peut pas se
+désynchroniser des alertes correspondantes (tout part ou rien ne part), et le
+workflow `feeds` ne redéploie le site qu'une fois par passage au lieu d'une
+fois par article.
+
+Le message de commit récapitule le passage :
+
+```
+veille: 4 alertes — 19/09 08:00
+```
+
 ## Outils
 
 Aucune dépendance externe ; Node >= 18 suffit.
@@ -137,21 +160,22 @@ node scripts/factcheck-record.mjs --input o.json    # enregistre des affirmation
 
 ## Automatisation
 
-`.github/workflows/veille-verification.yml` exécute le passage de vérification
-toutes les heures (cron) et peut être déclenché à la main depuis l'onglet
-Actions, avec une option de simulation. Le même workflow régénère les flux RSS
-de **tous** les flux à chaque publication.
+`.github/workflows/feeds.yml` régénère les flux RSS de **tous** les flux à
+chaque publication sur `main`, puis les publie sur GitHub Pages (source :
+GitHub Actions). Il peut être déclenché à la main depuis l'onglet Actions.
 
-La recherche elle-même a besoin d'un secret de dépôt `ANTHROPIC_API_KEY` (ou
-`CLAUDE_CODE_OAUTH_TOKEN`). Sans ce secret, le workflow ne cherche pas : il se
-contente de régénérer et valider les flux, sans échouer.
+La recherche elle-même est faite par les passages de veille (Cowork ou session
+Claude), pas par GitHub Actions.
 
 ## Messages de commit
 
+Un seul message par passage, qui décrit l'ensemble du lot :
+
 ```
-alert: nouvelle évolution concernant le détroit d'Ormuz
+veille: 4 alertes — 19/09 08:00
+alert: 2 alertes — détroit d'Ormuz, BCE
 daily: brief mondial 2026-09-18
-verif: 2 affirmation(s) publiée(s) ou mise(s) à jour
+verif: 2 affirmations publiées ou mises à jour
 factcheck: 1 affirmation publiée, 2 reprises enregistrées
 correction: PRES27-20260919-001, FAUX → IMPRÉCIS
 ```
