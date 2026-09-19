@@ -8,6 +8,9 @@ Les fiches complètes vivent dans `verification/claims/` et ne sont jamais
 supprimées. Cet index n'énumère que les affirmations encore utiles au
 dédoublonnage : une affirmation `clos` en sort après 30 jours.
 
+- CLAIM-20260919-084 | 2/10 | TROMPEUR | en-cours | 2026-09-19T23:45:00+02:00 | Environ un million de personnes présentes en Allemagne dont la demande d'asile a été rejetée sont aujourd'hui susceptibles d'être expulsées.
+- CLAIM-20260919-085 | 1/10 | TROMPEUR | en-cours | 2026-09-19T23:45:00+02:00 | Le domaine viticole cofondé par le gouverneur de Californie Gavin Newsom est le seul à avoir reçu une indemnisation versée par l'État de Californie après l'incendie Pickett.
+- CLAIM-20260919-086 | 1/10 | TRÈS PROBABLEMENT FAUX | en-cours | 2026-09-19T23:45:00+02:00 | Les traînées blanches laissées en altitude par les avions de ligne sont des produits chimiques délibérément dispersés au-dessus des populations (« chemtrails »).
 - CLAIM-20260919-080 | 1/10 | TRÈS PROBABLEMENT FAUX | en-cours | 2026-09-19T22:43:00+02:00 | Le thimérosal, conservateur à base d'éthylmercure utilisé dans certains vaccins, a causé des lésions cérébrales et des troubles neurodéveloppementaux chez les enfants américains.
 - CLAIM-20260919-081 | 3/10 | HORS CONTEXTE | en-cours | 2026-09-19T22:43:00+02:00 | Moins de 1 % des effets indésirables des vaccins sont signalés au système américain de pharmacovigilance VAERS.
 - CLAIM-20260919-082 | 3/10 | TROMPEUR | en-cours | 2026-09-19T22:43:00+02:00 | La comparaison entre un taux d'autisme inférieur à 1 cas sur 10 000 en 1970 et un taux de 1 sur 31 aujourd'hui aux États-Unis établit une augmentation réelle de la fréquence du trouble.
