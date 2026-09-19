@@ -8,6 +8,9 @@ Les fiches complètes vivent dans `verification/claims/` et ne sont jamais
 supprimées. Cet index n'énumère que les affirmations encore utiles au
 dédoublonnage : une affirmation `clos` en sort après 30 jours.
 
+- CLAIM-20260919-077 | 2/10 | TROMPEUR | en-cours | 2026-09-19T21:42:00+02:00 | Le sénateur américain Jon Ossoff a voté en faveur d'une hausse d'impôts de 2 100 dollars pour les ménages et en faveur d'une réduction du crédit d'impôt pour enfants.
+- CLAIM-20260919-078 | 4/10 | HORS CONTEXTE | en-cours | 2026-09-19T21:42:00+02:00 | La baisse d'environ 7,3 % du taux d'obésité des adultes aux États-Unis depuis 2022 est à porter au crédit de la politique sanitaire menée depuis janvier 2025.
+- CLAIM-20260919-079 | 9/10 | CONFIRMÉ | clos | 2026-09-19T21:42:00+02:00 | Le sénateur américain Roger Marshall a engagé, avant son élection au Sénat, plus de 700 poursuites judiciaires contre des patients pour des factures médicales impayées.
 - CLAIM-20260919-073 | 2/10 | TROMPEUR | en-cours | 2026-09-19T20:42:00+02:00 | Les droits de douane décidés par l'administration américaine depuis janvier 2025 ont coûté 5 619 dollars à chaque ménage du Michigan.
 - CLAIM-20260919-074 | 3/10 | TROMPEUR | en-cours | 2026-09-19T20:42:00+02:00 | Le fonds de 50 milliards de dollars créé par la loi budgétaire américaine de 2025 constitue pour les zones rurales le plus important investissement jamais réalisé dans la santé rurale.
 - CLAIM-20260919-075 | 1/10 | HORS CONTEXTE | en-cours | 2026-09-19T20:42:00+02:00 | La Banque mondiale a salué la solidité de l'économie philippine pendant la pandémie de Covid-19 ainsi que le programme de réforme fiscale du président Rodrigo Duterte.
