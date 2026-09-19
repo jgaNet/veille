@@ -3,6 +3,8 @@
 Mémoire anti-doublon. Les lignes de plus de 7 jours sont élaguées à chaque passage.
 Format : `- AAAA-MM-JJ HH:MM — sujet — chemin`
 
+- 2026-09-19 15:50 — ONU / Ukraine : rapport du HCDH (18 septembre) documentant 1 004 cas de violences sexuelles liées au conflit entre février 2022 et juillet 2026, 89 % imputés aux autorités russes, 11 % aux autorités ukrainiennes — monde/alerts/2026/09/2026-09-19-15-50-onu-rapport-hcdh-violences-sexuelles-ukraine.md
+- 2026-09-19 15:45 — Arabie saoudite : flammes et fumée noire observées près de l'aéroport international King Khalid de Riyad, trafic aérien au niveau maximal de perturbation (Flightradar24), silence officiel et aucune revendication — évolution du sujet alertes de la Défense civile — monde/alerts/2026/09/2026-09-19-15-45-arabie-saoudite-aeroport-riyad-fumee-trafic-perturbe.md
 - 2026-09-19 13:55 — Turquie / Iran : la BDDK retire la licence de la succursale d'Istanbul de Bank Mellat (Journal officiel du 19 septembre, art. 71/1-b de la loi bancaire 5411), présence turque depuis 1982 — monde/alerts/2026/09/2026-09-19-13-55-turquie-bddk-retrait-licence-bank-mellat.md
 - 2026-09-19 11:50 — Russie / nucléaire : l'AIEA confirme qu'un drone a touché la tour de refroidissement d'une tranche en fonctionnement de la centrale de Koursk le 17 septembre, pas d'incendie, aucune revendication — monde/alerts/2026/09/2026-09-19-11-50-russie-drone-tour-refroidissement-centrale-koursk.md
 - 2026-09-19 10:50 — Luxembourg : drones non autorisés détectés près du Findel le 18 au soir, aéroport fermé plusieurs heures, cellule interministérielle « drones » réunie le 19 au matin, aucune attribution — monde/alerts/2026/09/2026-09-19-10-50-luxembourg-drones-findel-fermeture-aeroport.md
