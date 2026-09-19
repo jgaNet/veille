@@ -8,6 +8,10 @@ Les fiches complètes vivent dans `verification/claims/` et ne sont jamais
 supprimées. Cet index n'énumère que les affirmations encore utiles au
 dédoublonnage : une affirmation `clos` en sort après 30 jours.
 
+- CLAIM-20260919-073 | 2/10 | TROMPEUR | en-cours | 2026-09-19T20:42:00+02:00 | Les droits de douane décidés par l'administration américaine depuis janvier 2025 ont coûté 5 619 dollars à chaque ménage du Michigan.
+- CLAIM-20260919-074 | 3/10 | TROMPEUR | en-cours | 2026-09-19T20:42:00+02:00 | Le fonds de 50 milliards de dollars créé par la loi budgétaire américaine de 2025 constitue pour les zones rurales le plus important investissement jamais réalisé dans la santé rurale.
+- CLAIM-20260919-075 | 1/10 | HORS CONTEXTE | en-cours | 2026-09-19T20:42:00+02:00 | La Banque mondiale a salué la solidité de l'économie philippine pendant la pandémie de Covid-19 ainsi que le programme de réforme fiscale du président Rodrigo Duterte.
+- CLAIM-20260919-076 | 0/10 | FAUX / RÉFUTÉ | en-cours | 2026-09-19T20:42:00+02:00 | Le vaccin contre le Covid-19 serait le seul vaccin à avoir été évalué dans un essai clinique contrôlé contre placebo.
 - CLAIM-20260919-068 | 0/10 | FAUX / RÉFUTÉ | en-cours | 2026-09-19T19:41:00+02:00 | Une vidéo diffusée à partir du 14 septembre 2026 montre des policiers masqués circulant dans un bureau de vote aux États-Unis et observant comment les électeurs votent, dans le cadre des élections de mi-mandat de 2026.
 - CLAIM-20260919-069 | 0/10 | HORS CONTEXTE | en-cours | 2026-09-19T19:41:00+02:00 | Une vidéo diffusée à partir d'août 2026 montre le sénateur nigérian Ned Nwoko faisant campagne dans l'État du Delta pour le candidat à la présidentielle Atiku Abubakar, la foule scandant en réponse le nom de Peter Obi.
 - CLAIM-20260919-070 | 1/10 | TROMPEUR | en-cours | 2026-09-19T19:41:00+02:00 | Les travailleurs fédéraux nigérians ont posé un salaire minimum de 300 000 nairas et une rémunération maximale de 1,5 million de nairas comme condition à leur vote en faveur du parti au pouvoir APC.
