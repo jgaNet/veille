@@ -1,10 +1,10 @@
 ---
 title: Fact-check présidentielle 2027 — 2026-09-19
-date: 2026-09-19T11:23:00+02:00
+date: 2026-09-19T13:24:00+02:00
 type: daily
 feed: presidentielle-2027-factcheck
 category: briefing
-summary: 6 affirmation(s) fausse(s), trompeuse(s) ou substantiellement imprécise(s) relevée(s) dans les nouvelles déclarations du 2026-09-19.
+summary: 7 affirmation(s) fausse(s), trompeuse(s) ou substantiellement imprécise(s) relevée(s) dans les nouvelles déclarations du 2026-09-19.
 ---
 
 # Fact-check présidentielle 2027 — 2026-09-19
@@ -31,3 +31,7 @@ Chaque ligne renvoie à la vérification d'une affirmation précise. Aucune note
 ## Mensonges / affirmations fausses ou trompeuses dans les nouvelles déclarations — passage de 11 h 23
 
 - [FAUX · 2/10] Nicolas Dupont-Aignan (Debout la France) — six milliards d'euros seraient la moitié du versement annuel de la France à l'Union européenne — [vérification](../../../../presidentielle-2027-factcheck/alerts/2026/09/2026-09-19-11-23-nicolas-dupont-aignan-six-milliards-d-euros-seraient-la.md)
+
+## Mensonges / affirmations fausses ou trompeuses dans les nouvelles déclarations — passage de 13 h 24
+
+- [IMPRÉCIS · 6/10] Jordan Bardella (Rassemblement national) — une vingtaine d'euros d'économie par plein de 40 litres avec une TVA à 5,5 % et l'annulation des hausses de taxes de 2018 — [vérification](../../../../presidentielle-2027-factcheck/alerts/2026/09/2026-09-19-13-24-jordan-bardella-une-vingtaine-d-euros-d-economie-par-plein.md)
