@@ -3,6 +3,7 @@
 Mémoire anti-doublon. Les lignes de plus de 7 jours sont élaguées à chaque passage.
 Format : `- AAAA-MM-JJ HH:MM — sujet — chemin`
 
+- 2026-09-19 18:55 — Espagne / Ceuta : le centre d'accueil temporaire de 1 700 places ouvert le 18 septembre sur le quai ouest du port saturé en quelques heures, des milliers de migrants de retour camper sur les plages de Benítez et El Trampolín — monde/alerts/2026/09/2026-09-19-18-55-espagne-ceuta-centre-port-sature-migrants-plages.md
 - 2026-09-19 17:55 — Détroit d'Ormuz : message vidéo de l'amiral Brad Cooper (CENTCOM) revendiquant plus d'un milliard de barils escortés hors du Golfe en deux mois, plus de 2 000 navires accompagnés et « zéro baril » exporté par l'Iran ; chiffres non vérifiés de façon indépendante — monde/alerts/2026/09/2026-09-19-17-55-ormuz-centcom-milliard-barils-blocus-iran.md
 - 2026-09-19 16:55 — ONU : déclaration à la presse du Conseil de sécurité condamnant les attaques houthies contre l'Arabie saoudite et rappelant le droit de Riyad à la légitime défense (document primaire introuvable sur press.un.org) — monde/alerts/2026/09/2026-09-19-16-55-onu-csnu-declaration-attaques-houthies-arabie-saoudite.md
 - 2026-09-19 16:50 — Arabie saoudite : un journaliste de l'AFP identifie sur place un réservoir de carburant Aramco calciné près de l'aéroport King Khalid de Riyad, pompiers sur les lieux — évolution du sujet flammes et fumée près de l'aéroport — monde/alerts/2026/09/2026-09-19-16-50-arabie-saoudite-reservoir-aramco-aeroport-riyad.md
