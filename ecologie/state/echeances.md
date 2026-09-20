@@ -27,7 +27,10 @@ européenne sur le climat modifiée (objectif de −90 % d'émissions nettes en
 vigueur en avril 2026
 (https://climate.ec.europa.eu/eu-action/european-climate-law_en) ; l'accord
 sur la haute mer (BBNJ) est entré en vigueur le 17 janvier 2026
-(https://www.un.org/bbnjagreement/en).
+(https://www.un.org/bbnjagreement/en) ; la SNBC-3 a été adoptée par le décret
+n° 2026-636 du 16 juillet 2026 (JORF du 18 juillet), lu sur le site du Citepa
+(https://www.citepa.org/snbc-3-la-publication-du-decret-sur-la-troisieme-strategie-nationale-bas-carbone-est-prevue-le-plus-tot-possible-en-juillet/),
+Légifrance étant en erreur 403 — budgets carbone non lus.
 
 _(amorçage partiel le 2026-09-20 ; reste à amorcer, faute de date lue dans
 une source officielle : calendriers du GIEC et de l'IPBES (sites en erreur
@@ -38,7 +41,11 @@ marins, votes du Parlement européen et du Conseil, SNBC 3 / PPE 3 / PNACC,
 audiences et délibérés, dates de publication du Global Carbon Budget 2026, du
 bulletin de l'OMM sur les gaz à effet de serre, de l'Emissions Gap Report du
 PNUE et du Planetary Health Check 2026, annonce du minimum 2026 de la
-banquise arctique par le NSIDC)_
+banquise arctique par le NSIDC. Nouvelle tentative le 2026-09-20 à 19 h :
+GIEC toujours en erreur 403, page du PNUE toujours sans date pour INC-5.4,
+aucune date de parution annoncée sur les sites du Global Carbon Project et du
+Planetary Health Check, minimum arctique 2026 toujours non annoncé par le
+NSIDC)_
 
 ## À réévaluer
 
@@ -46,3 +53,6 @@ Engagements, prépublications, attributions rapides et projections publiés avec
 une note basse faute de vérification indépendante. 30 lignes au plus ; une
 ligne sans évolution depuis 180 jours est retirée.
 Format : `- AAAA-MM-JJ — affirmation (auteur) — note actuelle X/10 — ce qui la ferait bouger — chemin de l'alerte`
+
+- 2026-09-20 — les émissions mondiales de CO₂ fossile baisseraient d'environ 0,5 % en 2026 (Carbon Brief, d'après les prévisions de l'AIE) — note actuelle 5/10 — projection 2026 du Global Carbon Project (attendue autour de la COP31), estimation de l'AIE, données quasi temps réel sur l'année complète, évolution de la crise d'Ormuz — ecologie/alerts/2026/09/2026-09-20-18-58-projection-emissions-fossiles-2026-baisse-ormuz.md
+- 2026-09-20 — feux en Indonésie : ~76 MtC émis depuis janvier, saison « on track » avec 2015 (GFED, CAMS, via la presse) — note actuelle 6/10 — lecture directe des séries CAMS / GFED, bilan de fin de saison, décompte officiel actualisé des surfaces (SiPongi : 202 004 ha de janvier à juillet), étude d'attribution éventuelle — ecologie/alerts/2026/09/2026-09-20-18-59-indonesie-feux-tourbieres-emissions-el-nino.md
