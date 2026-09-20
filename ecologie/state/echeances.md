@@ -12,6 +12,8 @@ Une échéance est signalée une fois lorsqu'elle approche, si elle le mérite,
 puis retirée une fois passée. 40 lignes au plus, classées par date croissante.
 Format : `- AAAA-MM-JJ — échéance — [nature] — état (confirmé / projet / reporté) — source officielle — chemin de l'alerte`
 
+- 2026-09-23 — ONU, semaine de haut niveau de l'Assemblée générale : « High-level Event on Climate Action and the Just Transition », convoqué par le Secrétaire général, 15 h-18 h (New York) — [engagement] (discours et annonces attendus, aucun acte contraignant) — confirmé — https://www.un.org/en/high-level-week-2026 (relevé le 2026-09-21) —
+- 2026-10-12 — Conseil « Environnement » de l'UE, Luxembourg (ordre du jour non publié : « agenda highlights (a week before the meeting date) ») — [politique] — confirmé — https://www.consilium.europa.eu/en/meetings/env/2026/10/12/ (relevé le 2026-09-21) —
 - 2026-10-19 — COP17 de la Convention sur la diversité biologique, avec CP-MOP-12 (Carthagène) et NP-MOP-6 (Nagoya), Erevan (Arménie), jusqu'au 30 octobre — [politique] — confirmé — https://www.cbd.int/meetings (calendrier mis à jour le 16 sept. 2026, relevé le 2026-09-20) —
 - 2026-11-02 — 38ᵉ réunion des Parties au protocole de Montréal (MOP38), Kigali (Rwanda), jusqu'au 6 novembre — [politique] — confirmé — https://ozone.unep.org/meetings (relevé le 2026-09-20) —
 - 2026-11-09 — COP31 de la CCNUCC (avec CMP 21, CMA 8, SBSTA 65, SBI 65), Antalya (Turquie), jusqu'au 20 novembre — [politique] — confirmé — https://unfccc.int/cop31 (relevé le 2026-09-20) —
@@ -45,7 +47,12 @@ banquise arctique par le NSIDC. Nouvelle tentative le 2026-09-20 à 19 h :
 GIEC toujours en erreur 403, page du PNUE toujours sans date pour INC-5.4,
 aucune date de parution annoncée sur les sites du Global Carbon Project et du
 Planetary Health Check, minimum arctique 2026 toujours non annoncé par le
-NSIDC)_
+NSIDC. Passage du 2026-09-21 à 1 h : situation inchangée — GIEC en erreur 403,
+aucune date pour INC-5.4 sur la page du PNUE (dernière lettre du président du
+comité datée du 29 juill. 2026), aucune date de COP1 sur le site de l'accord
+BBNJ (seule date lue : conférence scientifique du 5 nov. 2026), aucune date de
+parution du Planetary Health Check 2026, minimum arctique 2026 non annoncé
+par le NSIDC, calendrier de l'ECHA sur la restriction des PFAS en erreur 403)_
 
 ## À réévaluer
 
