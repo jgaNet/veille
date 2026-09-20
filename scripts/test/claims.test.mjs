@@ -152,20 +152,40 @@ test("clampRating et libellés de l'échelle", () => {
 
 const prev = (rating, status = "INCERTAIN", evidence = []) => ({ rating, status, evidence });
 
-test("nouvelle affirmation douteuse : publiée", () => {
-  const d = decide(null, obs({ rating: 2 }));
+test("nouvelle affirmation douteuse et marquante : publiée", () => {
+  const d = decide(null, obs({ rating: 2, significance: "haute" }));
   assert.equal(d.publish, true);
   assert.equal(d.event, "nouvelle");
 });
 
 test("nouvelle affirmation plausible : suivie mais non publiée", () => {
-  const d = decide(null, obs({ rating: 8, status: "PROBABLE" }));
+  const d = decide(null, obs({ rating: 8, status: "PROBABLE", significance: "haute" }));
   assert.equal(d.publish, false);
   assert.match(d.reason, /seuil de publication/);
 });
 
-test("nouvelle affirmation d'importance faible : non publiée", () => {
-  assert.equal(decide(null, obs({ significance: "faible" })).publish, false);
+test("nouveauté : seule une importance « haute » donne une alerte", () => {
+  // Le flux publiait toute nouveauté sauf celles marquées « faible », ce qui
+  // laissait passer l'importance par défaut — d'où une centaine d'entrées en
+  // deux jours. La règle est inversée : il faut désormais mériter l'alerte.
+  for (const significance of ["faible", "moyenne", undefined]) {
+    const d = decide(null, obs({ rating: 1, significance }));
+    assert.equal(d.publish, false, `importance ${significance}`);
+    assert.match(d.reason, /importance/);
+  }
+  assert.equal(decide(null, obs({ rating: 1, significance: "haute" })).publish, true);
+});
+
+test("une affirmation déjà suivie évolue : publiée quelle que soit son importance", () => {
+  // Le filtre d'importance ne vaut que pour les nouveautés : un retournement
+  // sur un dossier ouvert est rare et mérite toujours d'être signalé.
+  const retournement = decide(prev(8, "PROBABLE"), obs({ rating: 1, status: "FAUX / RÉFUTÉ", significance: "faible" }));
+  assert.equal(retournement.publish, true);
+  assert.equal(retournement.event, "retournement");
+
+  const maj = decide(prev(4, "INCERTAIN"), obs({ rating: 7, status: "INCERTAIN", significance: "faible" }));
+  assert.equal(maj.publish, true);
+  assert.equal(maj.event, "mise-a-jour");
 });
 
 test("aucun changement : aucune republication", () => {

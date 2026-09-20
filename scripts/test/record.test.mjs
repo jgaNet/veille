@@ -90,6 +90,7 @@ const CLAIM_B = {
   rating: 3,
   status: "TRÈS PROBABLEMENT FAUX",
   evidence_confidence: 6,
+  significance: "haute",
   evidence: ["Le dossier de presse du budget ne mentionne aucun gel généralisé."],
   sources: SOURCES,
 };
@@ -195,6 +196,20 @@ test("retournement de l'évaluation : entrée dédiée", () => {
   const alerts = listAlerts(dir);
   assert.equal(alerts.length, 1, "le retournement est publié même si la détection initiale ne l'était pas");
   assert.match(readFileSync(alerts[0], "utf8"), /\[🚨 RETOURNEMENT 8→1\/10\]/);
+});
+
+test("nouveauté d'importance ordinaire : fiche créée, aucune entrée RSS", () => {
+  const dir = sandbox();
+  const ordinaire = { ...CLAIM_A, significance: "moyenne" };
+  const out = record(dir, [ordinaire]);
+
+  assert.match(out, /Aucune entrée RSS publiée/);
+  assert.equal(listAlerts(dir).length, 0, "le flux reste silencieux");
+  assert.equal(claimFiles(dir).length, 1, "l'affirmation reste suivie dans sa fiche");
+
+  // Et si elle se retourne plus tard, le retournement est bien publié.
+  record(dir, [{ ...ordinaire, rating: 9, status: "CONFIRMÉ" }], { now: "2026-09-19T10:35:00+02:00" });
+  assert.equal(listAlerts(dir).length, 1, "un retournement sort malgré l'importance ordinaire");
 });
 
 test("simulation : aucun fichier écrit", () => {
