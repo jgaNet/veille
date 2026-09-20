@@ -9,6 +9,7 @@ auteur ou par un autre, s'enregistre en réutilisant son `id`. Les fiches
 complètes vivent dans `presidentielle-2027-factcheck/claims/` et ne sont jamais supprimées. Cet
 index n'est pas élagué et n'est jamais agrégé par candidat ou par parti.
 
+- PRES27-20260920-006 | IMPRÉCIS | 6/10 | Fabien Roussel (Parti communiste français) | 1 | 2026-09-19 | Ramener la TVA sur les carburants de 20 % à 5,5 % et supprimer les contributions sur l'énergie instaurées par le gouvernement depuis le 1er janvier 2026 ferait baisser le prix de l'essence de 40 centimes par litre.
 - PRES27-20260920-001 | CONFIRMÉ | 8/10 | Raphaël Glucksmann (Place publique) | 1 | 2026-09-19 | Le chèque énergie représente environ 150 euros par an.
 - PRES27-20260919-022 | CONFIRMÉ | 8/10 | Marine Le Pen et Jordan Bardella (Rassemblement national) | 1 | 2026-09-19 | À l'aéroport de Leipzig, en Allemagne, un drone chargé d'explosifs a pris pour cible des appareils de transport ukrainiens.
 - PRES27-20260919-021 | CONFIRMÉ | 9/10 | Marine Le Pen et Jordan Bardella (Rassemblement national) | 1 | 2026-09-19 | Les autorités russes ont placé sous administration temporaire les filiales et les actifs situés en Russie de plusieurs entreprises françaises et européennes.
