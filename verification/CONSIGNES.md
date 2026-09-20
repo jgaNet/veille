@@ -60,6 +60,12 @@ conséquente :
 politiques, les propos satiriques évidents, les rumeurs confidentielles sans
 portée, et tout ce qui relève de la simple erreur de plume.
 
+**Au plus une affirmation nouvelle par passage.** Le web produit sans effort
+des dizaines d'affirmations platement fausses par jour ; les signaler toutes
+noie le flux et n'apprend rien. Le passage choisit celle qui compte, ou
+aucune. Revenir sur une affirmation déjà suivie dont l'évaluation a changé
+n'entre pas dans ce plafond.
+
 Une affirmation déjà suivie n'est pas resignalée : elle est **mise à jour** en
 réutilisant son `id`, ou en reformulant l'affirmation à l'identique — le script
 retrouve la fiche par empreinte ou par similarité.
@@ -160,8 +166,10 @@ Champs obligatoires : `claim` (≥ 15 caractères), `summary`, `rating`,
 - `id` : à fournir **uniquement** pour mettre à jour une fiche existante dont
   l'identifiant est connu. Sinon l'omettre : le script apparie l'affirmation
   ou en crée une.
-- `significance` : `haute`, `moyenne` (défaut) ou `faible`. Une nouveauté
-  `faible` est enregistrée mais pas publiée.
+- `significance` : `haute`, `moyenne` (défaut) ou `faible`. **Seule une
+  nouveauté marquée `haute` donne une entrée RSS** ; `moyenne` et `faible`
+  sont suivies dans leur fiche, sans bruit. Réserve `haute` aux affirmations
+  à forte diffusion ou à conséquence réelle — pas à tout ce qui est faux.
 - `major_evidence` : `true` uniquement si une preuve réellement nouvelle et
   importante justifie une entrée RSS alors que la note n'a pas bougé.
 - `sources` : format `Intitulé | URL`.
@@ -198,7 +206,7 @@ Une entrée n'est créée que dans l'un de ces cas :
 
 | Cas | Condition | Titre |
 | --- | --- | --- |
-| Nouvelle affirmation | jamais vue, `rating` ≤ 6, importance ≥ moyenne | `[2/10 🔴 TRÈS IMPROBABLE] Résumé de l'affirmation` |
+| Nouvelle affirmation | jamais vue, `rating` ≤ 6, **importance `haute`** | `[2/10 🔴 TRÈS IMPROBABLE] Résumé de l'affirmation` |
 | Changement de statut | `status` différent du précédent | `[MISE À JOUR ↑ 3→7/10] Résumé de l'affirmation` |
 | Évolution de la note | écart ≥ 2 points | `[MISE À JOUR ↓ 7→4/10] Résumé de l'affirmation` |
 | Preuve importante | `major_evidence: true` et preuve inédite | `[MISE À JOUR → 4→4/10] Résumé de l'affirmation` |
@@ -211,6 +219,10 @@ Une affirmation vérifiée dix fois sans évolution produit une seule entrée RS
 Une affirmation nouvelle notée 7/10 ou plus n'est pas publiée : elle est
 plausible, elle n'a pas sa place dans ce flux — mais elle est suivie, et un
 retournement ultérieur sera publié.
+
+Le filtre d'importance ne s'applique qu'aux **nouveautés**. Une affirmation
+déjà suivie qui évolue, change de statut ou se retourne est publiée quelle que
+soit son importance : c'est rare, et c'est précisément l'intérêt du suivi.
 
 ## 9. Structure des fichiers
 

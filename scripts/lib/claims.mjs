@@ -54,6 +54,12 @@ export const THRESHOLDS = {
   // Au-delà, une affirmation nouvelle est suivie mais pas publiée : le flux
   // porte sur les affirmations douteuses, pas sur l'actualité confirmée.
   newClaimMaxRating: 6,
+  // Importance exigée pour qu'une affirmation NOUVELLE donne une entrée RSS.
+  // Les autres sont suivies dans leur fiche, sans bruit : une affirmation
+  // platement réfutée qui circule peu n'a pas à réveiller le lecteur.
+  // Ne s'applique qu'aux nouveautés — une évolution ou un retournement sur
+  // une affirmation déjà suivie reste publié quelle que soit son importance.
+  newClaimSignificance: "haute",
   // Écart de note considéré comme significatif.
   significantDelta: 2,
   // Retournement : bascule franche d'un bord à l'autre de l'échelle.
@@ -374,8 +380,12 @@ export function decide(previous, observation) {
   const status = observation.status;
 
   if (!previous) {
-    if (observation.significance === "faible") {
-      return { publish: false, event: "nouvelle", reason: "importance jugée faible" };
+    if (observation.significance !== THRESHOLDS.newClaimSignificance) {
+      return {
+        publish: false,
+        event: "nouvelle",
+        reason: `importance « ${observation.significance || "moyenne"} » : seule une importance « ${THRESHOLDS.newClaimSignificance} » donne une alerte`,
+      };
     }
     if (rating > THRESHOLDS.newClaimMaxRating) {
       return {
