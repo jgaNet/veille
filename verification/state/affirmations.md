@@ -8,6 +8,9 @@ Les fiches complètes vivent dans `verification/claims/` et ne sont jamais
 supprimées. Cet index n'énumère que les affirmations encore utiles au
 dédoublonnage : une affirmation `clos` en sort après 30 jours.
 
+- CLAIM-20260920-023 | 0/10 | FAUX / RÉFUTÉ | en-cours | 2026-09-20T07:45:00+02:00 | La vidéo diffusée à partir du 15 septembre 2026, montrant une chaîne industrielle où des geckos séchés sont broyés puis transformés en nouilles instantanées, documente un procédé de fabrication réellement employé par des industriels asiatiques.
+- CLAIM-20260920-024 | 0/10 | FAUX / RÉFUTÉ | en-cours | 2026-09-20T07:45:00+02:00 | Les images et vidéos diffusées en Espagne depuis juillet 2026, présentées comme montrant des personnes migrantes tuant, maltraitant ou mangeant des animaux domestiques à Ceuta, documentent des faits survenus à Ceuta.
+- CLAIM-20260920-025 | 0/10 | FAUX / RÉFUTÉ | en-cours | 2026-09-20T07:45:00+02:00 | Les habitants espagnols de Ceuta ont l'interdiction de promener leurs chiens sur la voie publique au motif que cela dérange des résidents marocains.
 - CLAIM-20260920-021 | 0/10 | FAUX / RÉFUTÉ | en-cours | 2026-09-20T06:45:00+02:00 | Le chef du gouvernement du Tamil Nadu, Vijay (TVK), a annoncé lors d'un discours à l'assemblée législative de l'État qu'il quittait l'alliance INDIA pour rejoindre la NDA.
 - CLAIM-20260920-022 | 1/10 | HORS CONTEXTE | en-attente | 2026-09-20T06:45:00+02:00 | La vidéo de glissement de terrain diffusée sur Instagram en septembre 2026 montre les éboulements survenus à Singlitam et Rimbi, dans le district de Gyalshing (Sikkim occidental), à la mi-septembre 2026.
 - CLAIM-20260920-019 | 0/10 | FAUX / RÉFUTÉ | clos | 2026-09-20T05:50:00+02:00 | La vidéo diffusée sur X en septembre 2026, montrant une femme maintenue par plusieurs hommes, documente la conversion forcée à l'islam d'une chrétienne victime d'un viol collectif au Pakistan.
