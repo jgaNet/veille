@@ -10,6 +10,8 @@
 import { mkdirSync, readdirSync, readFileSync, statSync, writeFileSync } from "node:fs";
 import { join, relative } from "node:path";
 
+import { condense } from "./lib/digest.mjs";
+
 const ROOT = process.cwd();
 const REPO = process.env.REPO || "jgaNet/veille";
 const SITE_URL = (process.env.SITE_URL || `https://github.com/${REPO}`).replace(/\/$/, "");
@@ -25,7 +27,7 @@ const NOT_FEEDS = new Set([".git", ".github", "scripts", "feeds", "node_modules"
 
 const ALL_TITLE = "Veille — les briefs du soir";
 const ALL_DESC =
-  "Uniquement les récapitulatifs quotidiens (vers 20 h, heure de Paris) de tous les flux de la veille. Les alertes restent dans le flux de chaque thème.";
+  "Les récapitulatifs quotidiens (vers 20 h, heure de Paris) de tous les flux de la veille, en version condensée : résumé, titres et notes, points à retenir, lien vers le brief complet. Alertes et texte intégral restent dans le flux de chaque thème.";
 
 const DEFAULT_META = {
   monde: {
@@ -273,7 +275,8 @@ function forEveningFeed(items) {
     .map((it) => {
       const d = parisParts(it.date);
       const gap = BRIEF_HOUR * 60 - d.minutes;
-      return gap > 0 ? { ...it, date: new Date(it.date.getTime() + gap * 60000) } : it;
+      const date = gap > 0 ? new Date(it.date.getTime() + gap * 60000) : it.date;
+      return { ...it, date, html: mdToHtml(condense(it)) };
     });
 }
 
@@ -311,6 +314,7 @@ function collect(feedDir) {
       cats: [...new Set(cats)],
       confidence,
       summary,
+      body,
       html: mdToHtml(body),
       link: `${BLOB_BASE}/${rel}`,
     };
