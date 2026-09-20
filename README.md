@@ -11,6 +11,7 @@ Objectif : détecter les événements réellement importants, les vérifier à p
 | Monde | https://jganet.github.io/veille/feeds/monde.xml |
 | IA | https://jganet.github.io/veille/feeds/ia.xml |
 | Exostic | https://jganet.github.io/veille/feeds/exostic.xml |
+| Écologie | https://jganet.github.io/veille/feeds/ecologie.xml |
 | Vérification | https://jganet.github.io/veille/feeds/verification.xml |
 | Présidentielle 2027 | https://jganet.github.io/veille/feeds/presidentielle-2027-factcheck.xml |
 | Tous les flux | https://jganet.github.io/veille/feeds/all.xml |
@@ -27,19 +28,21 @@ Chaque flux vit dans son propre dossier et génère son propre RSS.
 
 | Flux | Dossier | Périmètre |
 |------|---------|-----------|
-| monde | `monde/` | Géopolitique, France/Europe, économie, énergie, technologie, cybersécurité, science, climat — de l'IA, seulement les événements de portée mondiale |
+| monde | `monde/` | Géopolitique, France/Europe, économie, énergie, technologie, cybersécurité, science — de l'IA comme du climat et de l'environnement, seulement les événements de portée mondiale |
 | ia | `ia/` | Intelligence artificielle, indépendamment des acteurs économiques du secteur : recherche, société et régulation, annonces commerciales et hypothèses étiquetées séparément, note de vérité sur 10 |
 | exostic | `exostic/` | Veille professionnelle pour [exostic.com](https://exostic.com) : stack TypeScript / Node.js / Kubernetes / AWS (versions, fins de support, failles), droit et marché du conseil en France, faits structurants des secteurs clients — chaque entrée dit ce que cela change : rien à faire, à surveiller, à faire |
+| ecologie | `ecologie/` | Écologie, changement climatique et les neuf limites planétaires, monde avec un œil France/Europe : science, politiques et justice, engagements, événements et projections étiquetés séparément, note de vérité sur 10, ni minimisation ni catastrophisme |
 | verification | `verification/` | Affirmations d'actualité potentiellement fausses, trompeuses ou hors contexte, suivies dans le temps |
 | presidentielle-2027-factcheck | `presidentielle-2027-factcheck/` | Vérification, affirmation par affirmation, des déclarations des candidats et des partis pour la présidentielle française de 2027 |
 
 D'autres flux pourront être ajoutés selon le même modèle.
 
 Flux générés : `feeds/monde.xml`, `feeds/ia.xml`, `feeds/exostic.xml`,
-`feeds/verification.xml`,
+`feeds/ecologie.xml`, `feeds/verification.xml`,
 `feeds/presidentielle-2027-factcheck.xml` et `feeds/all.xml` (agrégé). Les
 consignes opérationnelles de chaque flux vivent dans son dossier
 (`monde/CONSIGNES.md`, `ia/CONSIGNES.md`, `exostic/CONSIGNES.md`,
+`ecologie/CONSIGNES.md`,
 `verification/CONSIGNES.md`,
 `presidentielle-2027-factcheck/CONSIGNES.md`).
 
@@ -70,6 +73,20 @@ section d'analyse « Ce que ça change pour Exostic », et
 `exostic/state/echeances.md` suit les dates qui engagent (fins de support,
 entrées en application de textes). Il n'est publié dans le RSS qu'à partir de
 sa première alerte, un flux vide n'étant pas déployé.
+
+Le flux `ecologie` suit le même rythme que `exostic` (un passage toutes les
+six heures) et reprend le socle avec les particularités décrites dans
+[`ecologie/CONSIGNES.md`](ecologie/CONSIGNES.md) : `category` porte la nature
+(`science`, `politique`, `engagement`, `evenement`, `projection`,
+`verification`), chaque alerte indique la ou les limites planétaires
+concernées et se termine par une analyse « Ce que cela change à la
+trajectoire » ; pour un `engagement`, `confidence` note la réalité de la
+promesse et non l'existence de l'annonce. `ecologie/state/reperes.md` garde
+les dernières valeurs officielles des indicateurs de référence (CO₂,
+température, glaces, émissions, état des neuf limites), lues à la source
+primaire, et `ecologie/state/echeances.md` les échéances et les affirmations à
+réévaluer. Comme `exostic`, il n'apparaît dans le RSS qu'à partir de sa
+première alerte.
 
 Le flux `verification` ajoute à ce socle une couche de persistance, parce qu'il
 suit des affirmations dans la durée plutôt que des événements ponctuels :
@@ -168,6 +185,7 @@ Le message récapitule le passage entier :
 alert: 2 alertes — détroit d'Ormuz, BCE
 ia: 1 alerte — évaluation indépendante du modèle X
 exostic: 1 alerte — fin de support de Node.js N
+ecologie: 1 alerte — bilan annuel du Global Carbon Project
 daily: brief mondial 2026-09-18
 verif: 2 affirmations publiées ou mises à jour
 factcheck: 1 affirmation publiée, 2 reprises enregistrées

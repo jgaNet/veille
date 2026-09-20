@@ -44,7 +44,9 @@ Domaines couverts :
   économique mondiale — le reste relève du flux `ia` (`ia/CONSIGNES.md`) ;
 - cybersécurité ;
 - science ;
-- climat et environnement ;
+- climat et environnement : uniquement les événements de portée mondiale —
+  issue d'une COP, catastrophe majeure, rapport de synthèse du GIEC — le reste
+  relève du flux `ecologie` (`ecologie/CONSIGNES.md`) ;
 - événements internationaux majeurs.
 
 Ne pas répéter une information déjà publiée, sauf évolution significative. Dans
