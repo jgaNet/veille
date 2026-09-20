@@ -8,6 +8,8 @@ Les fiches complètes vivent dans `verification/claims/` et ne sont jamais
 supprimées. Cet index n'énumère que les affirmations encore utiles au
 dédoublonnage : une affirmation `clos` en sort après 30 jours.
 
+- CLAIM-20260920-010 | 1/10 | TRÈS PROBABLEMENT FAUX | en-cours | 2026-09-20T03:43:00+02:00 | Les vidéos diffusées au début de septembre 2026, montrant des militaires russes hissant un drapeau à Sviatohirsk (oblast de Donetsk), sont des séquences authentiques attestant la prise de la ville par la Russie.
+- CLAIM-20260920-011 | 0/10 | FAUX / RÉFUTÉ | en-cours | 2026-09-20T03:43:00+02:00 | Des vaccins à ARN messager sont administrés aux crevettes d'élevage, de sorte que leur consommation vaccinerait les consommateurs à leur insu et modifierait leur ADN.
 - CLAIM-20260920-007 | 0/10 | FAUX / RÉFUTÉ | en-cours | 2026-09-20T02:43:00+02:00 | La vidéo diffusée à partir du 16 septembre 2026, présentée comme montrant Rodrigo Duterte remerciant ses partisans après sa comparution devant la Cour pénale internationale et demandant des prières pour sa fille Sara Duterte, est une séquence authentique.
 - CLAIM-20260920-008 | 1/10 | FAUX / RÉFUTÉ | en-cours | 2026-09-20T02:43:00+02:00 | Le maire de Davao Sebastian « Baste » Duterte a déclaré publiquement vouloir décapiter le président philippin Ferdinand Marcos Jr., sa famille et les habitants de la région ilocano.
 - CLAIM-20260920-009 | 0/10 | HORS CONTEXTE | en-cours | 2026-09-20T02:43:00+02:00 | La vidéo diffusée à partir du 16 septembre 2026 montre l'explosion d'un bâtiment de Sanaa (Yémen) dans lequel se tenait une réunion de dirigeants houthis.
