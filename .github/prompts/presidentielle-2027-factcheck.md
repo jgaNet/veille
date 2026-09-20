@@ -14,8 +14,9 @@ disponibles ? ».
    du flux : elle prime sur ce prompt en cas d'écart.
 2. Lis, dans `presidentielle-2027-factcheck/state/` : `affirmations.md`
    (affirmations déjà vérifiées — réutilise leur `id` exact pour toute reprise
-   ou correction), `declarations-analysees.md` (déclarations déjà traitées, à
-   ne pas refaire) et `acteurs.md` (périmètre indicatif).
+   ou correction), le journal `declarations-analysees/` et son archive
+   `declarations-analysees.md` (déclarations déjà traitées, à ne pas refaire)
+   et `acteurs.md` (périmètre indicatif).
 3. Cherche (WebSearch, WebFetch) les nouvelles déclarations depuis le passage
    précédent, **sur l'ensemble du spectre politique** : ne t'arrête pas au
    premier camp qui fournit de la matière.
@@ -27,13 +28,16 @@ disponibles ? ».
    fact-checker seul ne suffit pas quand la donnée officielle est accessible.
 6. Écris le résultat dans `.veille-tmp/observations.json`, au format décrit
    par la section « Format des observations » des consignes.
-7. Ajoute en tête de `state/declarations-analysees.md` une ligne par
-   déclaration traitée, y compris celles qui n'ont rien donné.
+7. Écris un fichier de passage neuf,
+   `state/declarations-analysees/AAAA-MM-JJ/HH-MM.md` (date et heure de Paris
+   du passage), avec une ligne par déclaration traitée, y compris celles qui
+   n'ont rien donné. Ne réécris jamais un fichier de passage existant ni
+   l'archive `state/declarations-analysees.md`.
 
 ## Règles impératives
 
-- N'écris **que** `.veille-tmp/observations.json`,
-  `state/declarations-analysees.md` et, si le périmètre a changé,
+- N'écris **que** `.veille-tmp/observations.json`, ton fichier de passage
+  dans `state/declarations-analysees/` et, si le périmètre a changé,
   `state/acteurs.md`. N'écris jamais dans `claims/`, `alerts/`, `daily/`,
   `state/affirmations.md` ni `feeds/` : ces fichiers sont produits par
   `scripts/factcheck-record.mjs`, lancé après toi.
