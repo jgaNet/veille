@@ -30,8 +30,15 @@ plausibles qui circulent en ce moment.
 - Mieux vaut ne rien signaler que signaler approximativement. **Si aucune
   affirmation ne mérite d'être retenue, écris un tableau vide `[]`** : un
   passage silencieux est un résultat normal.
-- Retiens au plus 5 affirmations par passage. La qualité de la vérification
-  prime sur le nombre.
+- **Retiens au plus UNE affirmation nouvelle par passage**, et seulement si
+  elle mérite vraiment d'être signalée : forte diffusion, ou conséquence
+  réelle. Le plus souvent, la bonne réponse est de n'en retenir aucune. Ce
+  plafond ne s'applique pas aux réévaluations d'affirmations déjà suivies,
+  qui sont au contraire les bienvenues.
+- Une affirmation nouvelle ne donne une entrée RSS que si tu la marques
+  `"significance": "haute"`. Toute autre valeur la fait suivre dans sa fiche
+  sans rien publier — c'est le comportement voulu pour le tout-venant des
+  contenus faux qui circulent.
 - Reformule l'affirmation de façon neutre et vérifiable dans le champ `claim`.
   Ne reprends pas la formulation militante ou sensationnaliste d'origine.
 - Une déclaration officielle est décrite comme une déclaration, jamais comme
