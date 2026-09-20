@@ -197,11 +197,12 @@ Ne jamais :
 ## 11. Déroulé d'un passage horaire
 
 1. **Lire** le README, ce fichier, puis `state/affirmations.md` (affirmations
-   déjà vérifiées), `state/declarations-analysees.md` (déclarations déjà
-   traitées) et `state/acteurs.md` (périmètre).
+   déjà vérifiées), le journal `state/declarations-analysees/` (déclarations
+   déjà traitées, un fichier par passage) et `state/acteurs.md` (périmètre).
 2. **Récupérer les nouvelles déclarations** depuis le précédent passage, sur
    l'ensemble du spectre politique.
 3. **Éliminer** celles qui figurent déjà dans
+   `state/declarations-analysees/` ou dans l'archive
    `state/declarations-analysees.md`.
 4. **Extraire** les affirmations factuelles vérifiables (§ 4).
 5. **Rechercher les preuves** selon la hiérarchie du § 3.
@@ -211,7 +212,8 @@ Ne jamais :
 8. **Enregistrer** : écrire les observations (§ 12) et les passer à
    `scripts/factcheck-record.mjs`, **qui décide seul** de l'identité des
    affirmations, du dédoublonnage, des reprises et de la publication (§ 13) ;
-   puis ajouter les déclarations traitées à `state/declarations-analysees.md`.
+   puis consigner les déclarations traitées dans le fichier de passage
+   `state/declarations-analysees/AAAA-MM-JJ/HH-MM.md` (§ 13).
 9. **RSS** : `feeds/presidentielle-2027-factcheck.xml` et `feeds/all.xml` sont
    produits par `scripts/build-feeds.mjs`. Ne jamais les éditer à la main.
 10. **Committer en une seule fois** l'intégralité du passage (§ 16).
@@ -223,8 +225,8 @@ republiée.
 **Ne jamais écrire à la main dans `claims/`, `alerts/`, `daily/` ni dans
 `state/affirmations.md`.** Ces fichiers sont produits par le script ; les
 éditer à la main casse la déduplication et la traçabilité des corrections.
-`state/declarations-analysees.md` et `state/acteurs.md`, eux, sont tenus par
-le passage.
+Le journal `state/declarations-analysees/` et `state/acteurs.md`, eux, sont
+tenus par le passage.
 
 S'il n'existe aucune nouvelle affirmation problématique suffisamment
 documentée : ne rien publier. En cas de preuves insuffisantes :
@@ -327,11 +329,26 @@ nouvelle fake news. Chaque fiche conserve `first_seen`, `last_seen`,
 URL), d'où se déduit « reprise par ». Ces compteurs mesurent la diffusion
 d'une affirmation ; ils ne sont **jamais** agrégés par candidat ou par parti.
 
-`state/declarations-analysees.md` est le journal des déclarations déjà
-traitées, y compris celles qui n'ont rien donné (opinions, affirmations
-confirmées, rien de vérifiable). Une ligne en tête par déclaration :
-`- AAAA-MM-JJ — Auteur (Parti) — contexte — URL — résultat`. Élaguer les lignes
-de plus de 30 jours.
+`state/declarations-analysees/` est le journal des déclarations déjà traitées,
+y compris celles qui n'ont rien donné (opinions, affirmations confirmées, rien
+de vérifiable). **Chaque passage y écrit un fichier neuf et ne réécrit jamais
+un fichier existant** : `state/declarations-analysees/AAAA-MM-JJ/HH-MM.md`, où
+`AAAA-MM-JJ` et `HH-MM` sont la date et l'heure de Paris du passage. Le fichier
+s'ouvre par `# Passage du AAAA-MM-JJ, HH h MM`, puis porte une ligne par
+déclaration traitée, la date étant celle de la déclaration :
+`- AAAA-MM-JJ — Auteur (Parti) — contexte — URL — résultat`. Un passage qui n'a
+rien trouvé écrit tout de même son fichier, avec sa ligne de balayage.
+
+Cette découpe existe pour que le journal reste écrivable. L'API GitHub ne met à
+jour un fichier qu'en le renvoyant en entier : un journal unique finissait par
+peser des dizaines de kilo-octets qu'un passage ne pouvait plus réécrire sans
+risque de le tronquer. Un fichier par passage ne dépasse pas quelques
+kilo-octets et n'est plus jamais touché. Élaguer en supprimant les dossiers de
+jour vieux de plus de 30 jours, jamais en réécrivant un fichier de passage.
+
+`state/declarations-analysees.md` est l'archive des passages antérieurs au
+2026-09-20 : elle se lit, ne se modifie plus, et se supprime en bloc une fois
+toutes ses lignes vieilles de plus de 30 jours.
 
 ## 14. Bulletin du jour
 
@@ -374,7 +391,8 @@ presidentielle-2027-factcheck/
   alerts/AAAA/MM/AAAA-MM-JJ-HH-MM-slug.md   # entrées RSS, jamais modifiées
   daily/AAAA/MM/AAAA-MM-JJ-factcheck.md     # bulletin du jour
   state/affirmations.md                     # index anti-doublon (généré)
-  state/declarations-analysees.md           # déclarations déjà traitées (passage)
+  state/declarations-analysees/AAAA-MM-JJ/HH-MM.md   # déclarations traitées, un fichier par passage
+  state/declarations-analysees.md           # archive gelée des passages antérieurs au 2026-09-20
   state/acteurs.md                          # périmètre indicatif (passage)
 ```
 
