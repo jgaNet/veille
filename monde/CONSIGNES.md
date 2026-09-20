@@ -40,7 +40,8 @@ Domaines couverts :
 - France et Europe ;
 - économie et marchés ;
 - énergie ;
-- technologie et IA ;
+- technologie ; de l'IA, uniquement les événements de portée géopolitique ou
+  économique mondiale — le reste relève du flux `ia` (`ia/CONSIGNES.md`) ;
 - cybersécurité ;
 - science ;
 - climat et environnement ;

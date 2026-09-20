@@ -9,6 +9,7 @@ Objectif : détecter les événements réellement importants, les vérifier à p
 | Flux | URL RSS |
 |------|---------|
 | Monde | https://jganet.github.io/veille/feeds/monde.xml |
+| IA | https://jganet.github.io/veille/feeds/ia.xml |
 | Vérification | https://jganet.github.io/veille/feeds/verification.xml |
 | Présidentielle 2027 | https://jganet.github.io/veille/feeds/presidentielle-2027-factcheck.xml |
 | Tous les flux | https://jganet.github.io/veille/feeds/all.xml |
@@ -25,16 +26,17 @@ Chaque flux vit dans son propre dossier et génère son propre RSS.
 
 | Flux | Dossier | Périmètre |
 |------|---------|-----------|
-| monde | `monde/` | Géopolitique, France/Europe, économie, énergie, tech/IA, cybersécurité, science, climat |
+| monde | `monde/` | Géopolitique, France/Europe, économie, énergie, technologie, cybersécurité, science, climat — de l'IA, seulement les événements de portée mondiale |
+| ia | `ia/` | Intelligence artificielle, indépendamment des acteurs économiques du secteur : recherche, société et régulation, annonces commerciales et hypothèses étiquetées séparément, note de vérité sur 10 |
 | verification | `verification/` | Affirmations d'actualité potentiellement fausses, trompeuses ou hors contexte, suivies dans le temps |
 | presidentielle-2027-factcheck | `presidentielle-2027-factcheck/` | Vérification, affirmation par affirmation, des déclarations des candidats et des partis pour la présidentielle française de 2027 |
 
 D'autres flux pourront être ajoutés selon le même modèle.
 
-Flux générés : `feeds/monde.xml`, `feeds/verification.xml`,
+Flux générés : `feeds/monde.xml`, `feeds/ia.xml`, `feeds/verification.xml`,
 `feeds/presidentielle-2027-factcheck.xml` et `feeds/all.xml` (agrégé). Les
 consignes opérationnelles de chaque flux vivent dans son dossier
-(`monde/CONSIGNES.md`, `verification/CONSIGNES.md`,
+(`monde/CONSIGNES.md`, `ia/CONSIGNES.md`, `verification/CONSIGNES.md`,
 `presidentielle-2027-factcheck/CONSIGNES.md`).
 
 ## Structure d'un flux
@@ -47,6 +49,14 @@ consignes opérationnelles de chaque flux vivent dans son dossier
 
 Un dossier racine est reconnu comme flux dès qu'il contient `alerts/` ou
 `daily/` ; `feed.json` y précise le titre et la description du flux RSS.
+
+Le flux `ia` reprend ce socle tel quel, avec deux particularités décrites dans
+[`ia/CONSIGNES.md`](ia/CONSIGNES.md) : le champ `category` porte la *nature* de
+l'information (`recherche`, `societe`, `annonce`, `hypothese`, `verification`),
+et `confidence` note l'affirmation de fond plutôt que l'existence de l'annonce
+— un communiqué d'entreprise existe toujours à 10/10, ce qui ne dit rien de ce
+qu'il affirme. `ia/state/affirmations-en-attente.md` garde la trace des
+annonces et hypothèses à réévaluer lorsqu'une vérification indépendante paraît.
 
 Le flux `verification` ajoute à ce socle une couche de persistance, parce qu'il
 suit des affirmations dans la durée plutôt que des événements ponctuels :
@@ -143,6 +153,7 @@ Le message récapitule le passage entier :
 
 ```
 alert: 2 alertes — détroit d'Ormuz, BCE
+ia: 1 alerte — évaluation indépendante du modèle X
 daily: brief mondial 2026-09-18
 verif: 2 affirmations publiées ou mises à jour
 factcheck: 1 affirmation publiée, 2 reprises enregistrées
