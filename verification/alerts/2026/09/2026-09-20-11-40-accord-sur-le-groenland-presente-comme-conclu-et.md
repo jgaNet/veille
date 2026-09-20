@@ -1,0 +1,80 @@
+---
+title: "[MISE À JOUR → 4→4/10] Accord sur le Groenland présenté comme conclu et donnant un « contrôle permanent » aux États-Unis"
+date: 2026-09-20T11:40:00+02:00
+type: alert
+feed: verification
+category: verification
+claim_id: CLAIM-20260919-039
+event: mise-a-jour
+rating: 4
+previous_rating: 4
+status: TROMPEUR
+evidence_confidence: 9
+summary: "L'accord annoncé le 18 septembre 2026 n'est toujours pas signé et l'essentiel des droits militaires américains au Groenland découle déjà d'un accord de défense de 1951, amendé en 2004, lui-même sans terme fixé."
+---
+
+# [MISE À JOUR → 4→4/10] Accord sur le Groenland présenté comme conclu et donnant un « contrôle permanent » aux États-Unis
+
+**Identifiant :** `CLAIM-20260919-039` · **Statut : TROMPEUR** · **Plausibilité : 4/10 🟠 DOUTEUX**
+
+**Confiance dans l'évaluation (solidité des preuves) : 9/10**
+
+## Affirmation examinée
+
+> Les États-Unis, le Danemark et le Groenland ont conclu un accord donnant aux États-Unis un « contrôle permanent » sur la sécurité du Groenland.
+
+## Contexte
+
+La formule de « contrôle permanent » vient de l'annonce faite par Donald Trump sur Truth Social le 18 septembre 2026 et a été largement reprise telle quelle. Elle continue de circuler à la veille de la signature attendue à l'Assemblée générale des Nations unies.
+
+## Ce que montre la vérification
+
+- Selon Euronews, la signature de l'accord est attendue la semaine suivante à l'Assemblée générale des Nations unies à New York : le texte n'était donc pas signé au moment de l'annonce.
+- Selon Al Jazeera, l'accord doit encore être approuvé par les parlements de Copenhague et de Nuuk.
+- La Première ministre danoise Mette Frederiksen décrit un accord qui « reconnaît la souveraineté et l'intégrité territoriale du royaume » et le droit du peuple groenlandais à l'autodétermination, formulation distincte de celle de « contrôle permanent ».
+- Le Premier ministre groenlandais Jens-Frederik Nielsen présente l'arrangement comme renforçant la sécurité de l'île, sans reprendre la notion de contrôle américain.
+- Le message original de Donald Trump sur Truth Social n'a pas pu être consulté directement : son contenu est repris tel que cité par les rédactions ci-dessous.
+- La publication archivée du 18 septembre 2026 à 17h18 contient la formule « gives the United States permanent control over security, and all other needs, in Greenland » et présente l'accord comme de durée illimitée.
+- Cette formulation est celle de l'annonce américaine seule ; les descriptions danoise et groenlandaise, déjà versées au dossier, ne la reprennent pas.
+- L'accord n'était pas signé au moment de l'annonce et doit encore être approuvé par les parlements de Copenhague et de Nuuk.
+- Selon NPR, l'accord reste soumis à l'approbation des parlements danois et groenlandais avant toute entrée en vigueur, et la formule de « contrôle permanent » est présentée comme celle de l'annonce de Donald Trump.
+- Selon UPI, le texte prévoit que les États-Unis disposent de la capacité d'assurer la défense du Groenland et qu'aucun adversaire des États-Unis ne peut y établir de base ou d'investissement sensible sans accord écrit, sans mention d'un contrôle permanent.
+- Dans ces deux comptes rendus, la Première ministre danoise Mette Frederiksen décrit un accord reconnaissant la souveraineté et l'intégrité territoriale du royaume, et le Premier ministre groenlandais Jens-Frederik Nielsen un accord servant les intérêts des trois gouvernements.
+- La signature est attendue lors de l'Assemblée générale des Nations unies : l'accord n'était toujours pas signé au 19 septembre 2026.
+- L'accord de défense américano-danois du 27 avril 1951 relatif au Groenland, amendé à Igaliku le 6 août 2004 (TIAS 04-806, texte publié par le département d'État américain), organise déjà la présence militaire des États-Unis au Groenland.
+- Ce texte de 2004 s'applique « for the duration of the Defense Agreement », sans terme fixé : le caractère illimité invoqué dans l'annonce n'est pas une nouveauté.
+- Le même texte prévoit que les drapeaux du Royaume de Danemark, du Groenland et des États-Unis flottent sur la base de Thulé, que le gouvernement autonome du Groenland désigne un représentant consulté par le commandant américain, et que Copenhague et Nuuk soient informées avant tout changement significatif des opérations militaires américaines.
+- Selon PolitiFact (19 septembre 2026), les experts interrogés estiment que l'accord de 1951 accordait déjà aux États-Unis une large part de ce que l'annonce présente comme nouveau.
+- Selon le même article, le juriste Tom Ginsburg rappelle qu'au regard de la Convention de Vienne de 1969 le silence d'un traité sur une date de fin le rend déjà de durée indéfinie, ce qui prive la mention d'un caractère « permanent » de portée propre.
+- PolitiFact relève également qu'il n'est pas tranché si le texte sera un traité soumis à ratification du Sénat américain ou un accord exécutif.
+- Selon CBS News (19 septembre 2026), l'accord n'est pas signé, la signature est attendue à New York et des étapes parlementaires restent nécessaires au Danemark et au Groenland.
+- Dans ce compte rendu, le ministre danois des Affaires étrangères Lars Løkke Rasmussen évoque une période d'incertitude qu'un accord contraignant viendrait remplacer, sans reprendre la notion de contrôle permanent.
+
+## Pourquoi 4/10 ?
+
+La note reste à 4/10 : les faits sous-jacents (un accord de sécurité négocié) sont réels, mais leur présentation reste trompeuse. Deux éléments nouveaux la confortent : un cadre conventionnel américano-danois déjà en vigueur depuis 1951 et déjà sans terme, et le fait que le texte annoncé n'est toujours pas signé.
+
+## Ce qui a changé
+
+Évaluation précédente : **4/10**. Nouvelle évaluation : **4/10**. Deux éléments nouveaux versés au dossier. D'abord un cadre juridique préexistant : l'accord de défense américano-danois de 1951 sur le Groenland, amendé à Igaliku le 6 août 2004 (TIAS 04-806, publié par le département d'État), organise déjà la présence militaire américaine, sans durée limitée, tout en reconnaissant la souveraineté danoise. Ensuite l'analyse du fact-checker PolitiFact, qui relève que ce cadre de 1951 accordait déjà aux États-Unis une large part de ce qui est présenté comme nouveau, et que l'absence de terme dans un traité est la règle et non une concession. L'accord annoncé reste non signé au 20 septembre 2026 ; la signature est attendue à New York.
+
+Historique complet :
+
+- 2026-09-19T11:44:00+02:00 — 4/10 · TROMPEUR
+- 2026-09-19T12:46:00+02:00 — 4/10 · TROMPEUR
+- 2026-09-20T01:45:00+02:00 — 4/10 · TROMPEUR
+- 2026-09-20T11:40:00+02:00 — 4/10 · TROMPEUR
+
+## Sources
+
+- [Euronews — US and Denmark reach deal over Greenland's security (19 septembre 2026)](https://www.euronews.com/2026/09/19/us-and-denmark-reach-deal-over-greenlands-security)
+- [Al Jazeera — Trump says deal with Denmark gives US 'permanent control' over Greenland (18 septembre 2026)](https://www.aljazeera.com/news/2026/9/18/trump-claims-deal-with-denmark-gives-us-permanent-control-over-greenland)
+- [Trump's Truth — archive indépendante des publications Truth Social, message du 18 septembre 2026 (consultée le 19 septembre 2026)](https://trumpstruth.org/)
+- [NPR — U.S. and Denmark reach deal to build U.S. military presence in Greenland (19 septembre 2026)](https://www.npr.org/2026/09/19/g-s1-144158/us-and-denmark-reach-deal)
+- [UPI — U.S., Denmark reach security deal on Greenland (18 septembre 2026)](https://www.upi.com/Top_News/US/2026/09/18/denmark-greenland-agreement-security/7421789778844/)
+- [Département d'État américain — Defense: Greenland, accord amendant et complétant l'accord du 27 avril 1951, signé à Igaliku le 6 août 2004 (TIAS 04-806)](https://www.state.gov/wp-content/uploads/2019/02/04-806-Denmark-Defense.done_.pdf)
+- [PolitiFact — Greenland deal: Does it change the status quo? (19 septembre 2026)](https://politifact.com/article/2026/sep/19/trump-denmark-greenland-agreement-deal/)
+- [CBS News — Denmark and Greenland leaders cautiously optimistic after security deal with U.S. (19 septembre 2026)](https://www.cbsnews.com/news/denmark-greenland-leaders-us-security-deal-trump/)
+- [GovInfo — notice bibliographique de l'accord d'Igaliku du 6 août 2004 amendant l'accord de défense de 1951](https://www.govinfo.gov/app/details/GOVPUB-S-PURL-gpo13927)
+
+Fiche de suivi : [`CLAIM-20260919-039`](../../../claims/2026/09/CLAIM-20260919-039.md)
