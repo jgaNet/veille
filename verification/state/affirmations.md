@@ -8,6 +8,7 @@ Les fiches complètes vivent dans `verification/claims/` et ne sont jamais
 supprimées. Cet index n'énumère que les affirmations encore utiles au
 dédoublonnage : une affirmation `clos` en sort après 30 jours.
 
+- CLAIM-20260920-027 | 3/10 | TROMPEUR | en-cours | 2026-09-20T12:42:00+02:00 | Les forces armées américaines ont accompagné le transit de plus d'un milliard de barils de pétrole brut par le détroit d'Ormuz au cours des deux derniers mois, en protégeant plus de 2 000 passages de navires commerciaux.
 - CLAIM-20260919-039 | 4/10 | TROMPEUR | en-cours | 2026-09-20T11:40:00+02:00 | Les États-Unis, le Danemark et le Groenland ont conclu un accord donnant aux États-Unis un « contrôle permanent » sur la sécurité du Groenland.
 - CLAIM-20260919-005 | 1/10 | TRÈS PROBABLEMENT FAUX | en-cours | 2026-09-20T10:43:00+02:00 | Xi Jinping aurait perdu connaissance pendant le 18e sommet des BRICS à New Delhi, refusé une prise en charge hospitalière en Inde, puis été hospitalisé à Pékin pour un accident vasculaire cérébral ischémique grave.
 - CLAIM-20260920-006 | 0/10 | FAUX / RÉFUTÉ | clos | 2026-09-20T08:44:00+02:00 | Une vidéo diffusée en septembre 2026 montre l'ambassadeur indien auprès des Nations unies Parvathaneni Harish répondant aux accusations d'Amnesty International sur des livraisons d'armes à Israël en déclarant que les morts sont inévitables en temps de guerre.
