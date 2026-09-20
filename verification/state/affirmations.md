@@ -8,6 +8,9 @@ Les fiches complètes vivent dans `verification/claims/` et ne sont jamais
 supprimées. Cet index n'énumère que les affirmations encore utiles au
 dédoublonnage : une affirmation `clos` en sort après 30 jours.
 
+- CLAIM-20260920-007 | 0/10 | FAUX / RÉFUTÉ | en-cours | 2026-09-20T02:43:00+02:00 | La vidéo diffusée à partir du 16 septembre 2026, présentée comme montrant Rodrigo Duterte remerciant ses partisans après sa comparution devant la Cour pénale internationale et demandant des prières pour sa fille Sara Duterte, est une séquence authentique.
+- CLAIM-20260920-008 | 1/10 | FAUX / RÉFUTÉ | en-cours | 2026-09-20T02:43:00+02:00 | Le maire de Davao Sebastian « Baste » Duterte a déclaré publiquement vouloir décapiter le président philippin Ferdinand Marcos Jr., sa famille et les habitants de la région ilocano.
+- CLAIM-20260920-009 | 0/10 | HORS CONTEXTE | en-cours | 2026-09-20T02:43:00+02:00 | La vidéo diffusée à partir du 16 septembre 2026 montre l'explosion d'un bâtiment de Sanaa (Yémen) dans lequel se tenait une réunion de dirigeants houthis.
 - CLAIM-20260919-039 | 4/10 | TROMPEUR | en-cours | 2026-09-20T01:45:00+02:00 | Les États-Unis, le Danemark et le Groenland ont conclu un accord donnant aux États-Unis un « contrôle permanent » sur la sécurité du Groenland.
 - CLAIM-20260920-004 | 0/10 | FAUX / RÉFUTÉ | en-cours | 2026-09-20T01:45:00+02:00 | Le ministère indien des Finances a publié une notification officielle prévoyant la fusion de neuf banques publiques au sein de la State Bank of India, de la Punjab National Bank et de la Bank of Baroda.
 - CLAIM-20260920-005 | 1/10 | FAUX / RÉFUTÉ | en-cours | 2026-09-20T01:45:00+02:00 | La vidéo diffusée à partir du 16 septembre 2026, montrant un homme renversant la marchandise d'un vendeur de riz soufflé et la lui jetant au visage, documente une agression réelle survenue à Patna (Bihar, Inde).
