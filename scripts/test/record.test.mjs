@@ -246,7 +246,56 @@ test("génération du flux : items RSS valides et titres conservés", () => {
 
   const all = readFileSync(join(dir, "feeds", "all.xml"), "utf8");
   assert.deepEqual(checkRss(all).errors, []);
+  assert.equal(checkRss(all).items, 0, "all.xml ne reprend pas les alertes");
+});
+
+test("all.xml ne contient que les récapitulatifs quotidiens", () => {
+  const dir = sandbox();
+  record(dir, [CLAIM_A, CLAIM_B]);
+  const daily = join(dir, "monde", "daily", "2026", "09");
+  mkdirSync(daily, { recursive: true });
+  writeFileSync(
+    join(daily, "2026-09-18-brief-monde.md"),
+    '---\ntitle: "Brief mondial — 18 septembre 2026"\ndate: 2026-09-18T20:00:00+02:00\ntype: daily\nfeed: monde\ncategory: briefing\n---\n\n# Brief\n\nTexte.\n'
+  );
+  const alerts = join(dir, "monde", "alerts", "2026", "09");
+  mkdirSync(alerts, { recursive: true });
+  writeFileSync(
+    join(alerts, "2026-09-18-15-40-test.md"),
+    '---\ntitle: "Alerte test"\ndate: 2026-09-18T15:40:00+02:00\ntype: alert\nfeed: monde\ncategory: science\nconfidence: 8\nsummary: "Test."\n---\n\n# Alerte\n\nTexte.\n'
+  );
+  const build = (now) =>
+    execFileSync(process.execPath, [join(dir, "scripts", "build-feeds.mjs")], {
+      cwd: dir,
+      encoding: "utf8",
+      env: { ...process.env, BUILD_NOW: now },
+    });
+
+  // Bulletin régénéré au fil de la journée : absent de all.xml avant 20 h.
+  const roll = join(dir, "factcheck", "daily", "2026", "09");
+  mkdirSync(roll, { recursive: true });
+  writeFileSync(
+    join(roll, "2026-09-19-factcheck.md"),
+    '---\ntitle: "Bulletin du 19"\ndate: 2026-09-19T02:24:00+02:00\ntype: daily\nfeed: factcheck\ncategory: briefing\n---\n\n# Bulletin\n\nTexte.\n'
+  );
+  build("2026-09-19T15:00:00+02:00");
+  const avant20h = readFileSync(join(dir, "feeds", "all.xml"), "utf8");
+  assert.ok(!avant20h.includes("Bulletin du 19"), "le bulletin du jour attend 20 h");
+  assert.match(avant20h, /Brief mondial — 18 septembre 2026/);
+
+  build("2026-09-19T20:06:00+02:00");
+  const apres20h = readFileSync(join(dir, "feeds", "all.xml"), "utf8");
+  assert.match(apres20h, /Bulletin du 19/);
+  assert.match(apres20h, /<pubDate>Sat, 19 Sep 2026 18:00:00 GMT<\/pubDate>/, "date ramenée à 20 h, heure de Paris");
+
+  const monde = readFileSync(join(dir, "feeds", "monde.xml"), "utf8");
+  assert.equal(checkRss(monde).items, 2, "le flux du thème garde alertes et brief");
+
+  const all = readFileSync(join(dir, "feeds", "all.xml"), "utf8");
+  assert.deepEqual(checkRss(all).errors, []);
   assert.equal(checkRss(all).items, 2);
+  assert.match(all, /Brief mondial — 18 septembre 2026/);
+  assert.ok(!all.includes("Alerte test"), "aucune alerte dans all.xml");
 });
 
 test("le flux est stable : une régénération sans nouveauté ne change pas les items", () => {

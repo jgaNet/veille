@@ -2,7 +2,9 @@
 // Génère les flux RSS à partir des fichiers Markdown du dépôt.
 //
 // Un flux = un dossier à la racine contenant alerts/ et/ou daily/ (ex. monde/).
-// Sortie : feeds/<flux>.xml pour chaque flux, plus feeds/all.xml agrégé.
+// Sortie : feeds/<flux>.xml pour chaque flux (alertes + récapitulatifs), plus
+// feeds/all.xml, qui ne reprend QUE les récapitulatifs quotidiens de tous les
+// flux — un seul rendez-vous vers 20 h, pas une réplication des alertes.
 // Aucune dépendance externe : Node >= 18 suffit.
 
 import { mkdirSync, readdirSync, readFileSync, statSync, writeFileSync } from "node:fs";
@@ -21,9 +23,9 @@ const MAX_ITEMS = Number(process.env.MAX_ITEMS || 120);
 // Dossiers racine qui ne sont pas des flux.
 const NOT_FEEDS = new Set([".git", ".github", "scripts", "feeds", "node_modules"]);
 
-const ALL_TITLE = "Veille — tous les flux";
+const ALL_TITLE = "Veille — les briefs du soir";
 const ALL_DESC =
-  "Toutes les alertes et récapitulatifs de la veille, tous flux confondus. Chaque entrée porte un indice de confiance et ses sources croisées.";
+  "Uniquement les récapitulatifs quotidiens (vers 20 h, heure de Paris) de tous les flux de la veille. Les alertes restent dans le flux de chaque thème.";
 
 const DEFAULT_META = {
   monde: {
@@ -234,6 +236,47 @@ function parseDate(value, fallbackPath) {
   return statSync(fallbackPath).mtime;
 }
 
+/* ---------- rendez-vous de 20 h (all.xml) ---------- */
+
+// Heure à laquelle les récapitulatifs du jour entrent dans all.xml (Paris).
+const BRIEF_HOUR = 20;
+// BUILD_NOW permet de figer l'instant de génération (tests).
+const NOW = process.env.BUILD_NOW ? new Date(process.env.BUILD_NOW) : new Date();
+
+const PARIS = new Intl.DateTimeFormat("en-CA", {
+  timeZone: "Europe/Paris",
+  year: "numeric",
+  month: "2-digit",
+  day: "2-digit",
+  hour: "2-digit",
+  minute: "2-digit",
+  hourCycle: "h23",
+});
+
+function parisParts(date) {
+  const p = Object.fromEntries(PARIS.formatToParts(date).map((x) => [x.type, x.value]));
+  return { ymd: `${p.year}-${p.month}-${p.day}`, minutes: Number(p.hour) * 60 + Number(p.minute) };
+}
+
+// Un récapitulatif du jour n'entre dans all.xml qu'à partir de 20 h : certains
+// bulletins (fact-check) sont régénérés au fil de la journée et ne doivent pas
+// y apparaître à moitié remplis. Leur date y est ramenée à 20 h, pour que tous
+// les briefs d'une même soirée se suivent dans le lecteur RSS.
+function forEveningFeed(items) {
+  const now = parisParts(NOW);
+  return items
+    .filter((it) => it.isDaily)
+    .filter((it) => {
+      const d = parisParts(it.date);
+      return d.ymd !== now.ymd || now.minutes >= BRIEF_HOUR * 60;
+    })
+    .map((it) => {
+      const d = parisParts(it.date);
+      const gap = BRIEF_HOUR * 60 - d.minutes;
+      return gap > 0 ? { ...it, date: new Date(it.date.getTime() + gap * 60000) } : it;
+    });
+}
+
 /* ---------- collecte ---------- */
 
 function collect(feedDir) {
@@ -246,7 +289,9 @@ function collect(feedDir) {
     const title = data.title || (firstHeading ? firstHeading[1] : rel);
     const date = parseDate(data.date, abs);
     const cats = [].concat(data.category || data.categories || []).filter(Boolean);
-    if (data.type === "daily" || data.type === "recap" || rel.includes("/daily/")) {
+    const isDaily =
+      data.type === "daily" || data.type === "recap" || rel.includes("/daily/");
+    if (isDaily) {
       cats.push("briefing");
     }
     const confidence = data.confidence ? String(data.confidence) : "";
@@ -260,6 +305,7 @@ function collect(feedDir) {
       "";
     return {
       rel,
+      isDaily,
       title,
       date,
       cats: [...new Set(cats)],
@@ -338,7 +384,8 @@ for (const slug of slugs) {
     /* feed.json optionnel */
   }
   const items = collect(dir).sort((a, b) => b.date - a.date);
-  all.push(...items);
+  // all.xml : seulement les récapitulatifs quotidiens, jamais les alertes.
+  all.push(...forEveningFeed(items));
   const kept = items.slice(0, MAX_ITEMS);
   writeFileSync(
     join(FEEDS_DIR, `${slug}.xml`),
