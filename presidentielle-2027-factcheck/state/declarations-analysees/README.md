@@ -42,7 +42,7 @@ réécrire un fichier de passage pour en retirer des lignes.
 ## Archive
 
 `state/declarations-analysees.md`, à côté de ce dossier, contient les passages
-antérieurs au 2026-09-20 07 h 18. Elle se lit — le passage suivant y cherche
-les déclarations déjà traitées —, ne se modifie plus, et se supprime en bloc
-une fois toutes ses lignes vieilles de plus de 30 jours, soit après le
-2026-10-20.
+antérieurs à la mise en place de cette découpe, le 2026-09-20. Elle se lit — le
+passage suivant y cherche les déclarations déjà traitées —, ne se modifie plus,
+et se supprime en bloc une fois toutes ses lignes vieilles de plus de 30 jours,
+soit à partir du 2026-10-21.
