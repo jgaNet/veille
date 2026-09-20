@@ -8,6 +8,8 @@ Les fiches complètes vivent dans `verification/claims/` et ne sont jamais
 supprimées. Cet index n'énumère que les affirmations encore utiles au
 dédoublonnage : une affirmation `clos` en sort après 30 jours.
 
+- CLAIM-20260920-021 | 0/10 | FAUX / RÉFUTÉ | en-cours | 2026-09-20T06:45:00+02:00 | Le chef du gouvernement du Tamil Nadu, Vijay (TVK), a annoncé lors d'un discours à l'assemblée législative de l'État qu'il quittait l'alliance INDIA pour rejoindre la NDA.
+- CLAIM-20260920-022 | 1/10 | HORS CONTEXTE | en-attente | 2026-09-20T06:45:00+02:00 | La vidéo de glissement de terrain diffusée sur Instagram en septembre 2026 montre les éboulements survenus à Singlitam et Rimbi, dans le district de Gyalshing (Sikkim occidental), à la mi-septembre 2026.
 - CLAIM-20260920-019 | 0/10 | FAUX / RÉFUTÉ | clos | 2026-09-20T05:50:00+02:00 | La vidéo diffusée sur X en septembre 2026, montrant une femme maintenue par plusieurs hommes, documente la conversion forcée à l'islam d'une chrétienne victime d'un viol collectif au Pakistan.
 - CLAIM-20260920-016 | 2/10 | TRÈS PROBABLEMENT FAUX | en-attente | 2026-09-20T05:44:00+02:00 | L'image diffusée sur Facebook à partir du 19 septembre 2026, présentée comme montrant le vice-président du Liberia Jeremiah Koung déshabillé par la sécurité de l'aéroport de Bruxelles, est une photographie authentique.
 - CLAIM-20260920-017 | 1/10 | HORS CONTEXTE | en-cours | 2026-09-20T05:44:00+02:00 | La photographie diffusée sur Facebook à partir du 16 septembre 2026 montre des épouses et des enfants de bandits abandonnés lors d'une opération des forces de sécurité à Dutsin-Ma (État de Katsina, Nigeria).
