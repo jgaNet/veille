@@ -14,7 +14,7 @@ Objectif : détecter les événements réellement importants, les vérifier à p
 | Écologie | https://jganet.github.io/veille/feeds/ecologie.xml |
 | Vérification | https://jganet.github.io/veille/feeds/verification.xml |
 | Présidentielle 2027 | https://jganet.github.io/veille/feeds/presidentielle-2027-factcheck.xml |
-| Tous les flux | https://jganet.github.io/veille/feeds/all.xml |
+| Briefs du soir (tous les flux) | https://jganet.github.io/veille/feeds/all.xml |
 
 Page d'accueil : https://jganet.github.io/veille/
 
@@ -39,8 +39,17 @@ D'autres flux pourront être ajoutés selon le même modèle.
 
 Flux générés : `feeds/monde.xml`, `feeds/ia.xml`, `feeds/exostic.xml`,
 `feeds/ecologie.xml`, `feeds/verification.xml`,
-`feeds/presidentielle-2027-factcheck.xml` et `feeds/all.xml` (agrégé). Les
-consignes opérationnelles de chaque flux vivent dans son dossier
+`feeds/presidentielle-2027-factcheck.xml` et `feeds/all.xml`.
+
+`feeds/all.xml` n'est **pas** une réplication des autres flux : il ne reprend
+que les récapitulatifs quotidiens (`daily/`) de tous les flux, jamais les
+alertes. Un récapitulatif du jour n'y entre qu'à partir de 20 h (heure de
+Paris) — y compris le bulletin de fact-check, régénéré au fil de la journée —
+et sa date y est ramenée à 20 h, pour que les briefs d'une même soirée se
+suivent dans le lecteur RSS. Un flux sans récapitulatif quotidien
+(`verification`) n'y figure donc pas.
+
+Les consignes opérationnelles de chaque flux vivent dans son dossier
 (`monde/CONSIGNES.md`, `ia/CONSIGNES.md`, `exostic/CONSIGNES.md`,
 `ecologie/CONSIGNES.md`,
 `verification/CONSIGNES.md`,
