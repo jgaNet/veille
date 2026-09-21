@@ -33,6 +33,7 @@ Format d'une ligne du tableau :
 | Banquise arctique, minimum annuel | 2025 : 4,60 millions de km² le 10 sept. 2025, 10ᵉ plus bas à égalité avec 2008 et 2010 (annonce préliminaire). 2026 : minimum pas encore annoncé au 20 sept. ; étendue moyenne d'août 2026 : 5,56 millions de km², 7ᵉ plus basse de la série satellitaire, 840 000 km² au-dessus du record de 2012 | 2025 ; août 2026 | NSIDC, *Sea Ice Today* (17 sept. 2025 et 3 sept. 2026) | https://nsidc.org/sea-ice-today/analyses/2025-arctic-sea-ice-minimum-squeezes-ten-lowest-minimums ; https://nsidc.org/sea-ice-today/analyses/arctic-zigs-antarctic-zags | 2026-09-20 |
 | Banquise antarctique, extrêmes annuels | maximum 2025 : 17,81 millions de km² le 17 sept. 2025, 3ᵉ plus bas en 47 ans (annonce préliminaire) ; minimum 2026 non lu (service NSIDC réduit d'oct. 2025 à août 2026) ; moyenne d'août 2026 : 16,46 millions de km², sous la moyenne 1981-2010 mais au-dessus des niveaux de 2023 et 2024 ; maximum 2026 attendu dans les semaines à venir | 2025 ; août 2026 | NSIDC, *Sea Ice Today* (30 sept. 2025 et 3 sept. 2026) | https://nsidc.org/sea-ice-today/analyses/antarctic-sea-ice-maximum-settles-third-place ; https://nsidc.org/sea-ice-today/analyses/arctic-zigs-antarctic-zags | 2026-09-20 |
 | État ENSO (El Niño / La Niña) | « El Niño Advisory » ; « El Niño is strengthening, with a greater than 90% chance of a very strong event during the Northern Hemisphere fall and winter 2026-27 » ; indice Niño-3.4 : +1,8 °C en août 2026. À prendre en compte dans toute lecture des records de température de 2026-2027 (variabilité naturelle superposée à la tendance) | bulletin du 10 sept. 2026 | NOAA CPC, *ENSO Diagnostic Discussion* | https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/enso_advisory/ensodisc.shtml | 2026-09-20 |
+| Trou d'ozone antarctique, dernière saison complète | 2025 : déficit de masse d'ozone maximal « 36.7 million tons on 29 September », « more than 25% less than the 1990–2010 mean of 50.1 million tons » ; « the fourth to fifth weakest since severe depletion patterns were observed in 1992 » ; profondeur et étendue nettement sous la moyenne 1990-2010 pour la deuxième année consécutive ; fluctuations d'une année à l'autre dues aux conditions météorologiques de transport. Étendue maximale en km² non lue dans le bulletin. Saison 2026 en cours (CAMS : ~25 M km² le 12 sept., lu seulement via la presse le 20 sept.) | 2025 | OMM, *Ozone and UV Bulletin* n° 4 (16 sept. 2026) | https://wmo.int/resources/publication-series/wmo-ozone-and-uv-bulletin/no-4-sep-2026 ; https://wmo.int/media/news/wmo-bulletin-shows-successes-and-challenges-ozone-layer-recovery | 2026-09-22 |
 
 ## Limites planétaires
 
@@ -77,7 +78,8 @@ passage :
 - Niveau des nappes en France (BRGM) : le site a rejeté la requête ; un
   bulletin au 1er septembre 2026 existe
   (https://www.brgm.fr/fr/actualite/communique-presse/nappes-eau-souterraine-au-1er-septembre-2026), non lu.
-  Requête de nouveau rejetée le 2026-09-21.
+  Requête de nouveau rejetée le 2026-09-21, et encore le 2026-09-22 (robots.txt
+  inaccessible) ; EFFIS toujours illisible le 2026-09-22.
 - Moyenne annuelle mondiale de CO₂ et de CH₄ (fichiers annuels NOAA), contenu
   thermique de l'océan en ZJ (NOAA NCEI), rythme d'élévation du niveau de la
   mer en mm/an (OMM, rapport complet), chiffres du rapport annuel 2026 du Haut
