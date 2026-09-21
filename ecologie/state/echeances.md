@@ -52,7 +52,10 @@ aucune date pour INC-5.4 sur la page du PNUE (dernière lettre du président du
 comité datée du 29 juill. 2026), aucune date de COP1 sur le site de l'accord
 BBNJ (seule date lue : conférence scientifique du 5 nov. 2026), aucune date de
 parution du Planetary Health Check 2026, minimum arctique 2026 non annoncé
-par le NSIDC, calendrier de l'ECHA sur la restriction des PFAS en erreur 403)_
+par le NSIDC, calendrier de l'ECHA sur la restriction des PFAS en erreur 403. Passage du
+2026-09-21 à 13 h : minimum arctique 2026 toujours non annoncé par le NSIDC
+(dernière analyse datée du 3 sept.), aucune date de parution du Planetary
+Health Check 2026 sur son site)_
 
 ## À réévaluer
 
