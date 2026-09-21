@@ -158,7 +158,8 @@ Sources : [Ministère de l'Économie, facturation électronique](https://www.eco
 **État du texte : annoncé, non présenté, non déposé.** D'après LégiFiscal
 (18 septembre 2026), qui rend compte d'un entretien du Premier ministre au
 *Figaro* paru le 17 septembre, le gouvernement **déclare** viser un effort de
-54 milliards d'euros, maintenir le gel du barème de l'impôt sur le revenu et
+54 milliards d'euros, écarter le gel du barème de l'impôt sur le revenu
+*(phrase corrigée le 21 septembre 2026, voir « ✏️ Correction » en fin de page)* et
 reconduire à un niveau réduit la surtaxe sur les bénéfices des grandes
 entreprises (5 milliards d'euros au lieu d'environ 8), les ETI en étant
 exclues. Le projet de loi de finances pour 2027 serait présenté en Conseil des
@@ -225,3 +226,15 @@ Juste au-delà, déjà signalées : 27 octobre (fin de vie de Kubernetes 1.34) e
   nouvelle API n'est pas publiée, la cohabitation 6/7 est la situation normale
   d'une partie de l'écosystème ; les gains de vitesse annoncés restent, à ce
   stade, des chiffres de l'éditeur.
+
+## ✏️ Correction
+
+**21 septembre 2026, 20 h 00.** L'information n° 5 indiquait à tort que le
+gouvernement déclarait « maintenir le gel du barème de l'impôt sur le revenu ».
+C'était une erreur de lecture de la source : LégiFiscal écrit « Matignon écarte
+toute hausse d'impôts et le gel du barème de l'IR » — le gel est écarté, et le
+gouvernement déclare vouloir proposer l'indexation du barème sur l'inflation
+(déclaration de la porte-parole du gouvernement, 13 septembre 2026). La phrase
+a été corrigée dans le texte ; le reste de l'entrée, son état (« annoncé, non
+présenté, non déposé ») et sa note sont inchangés. Détail et sources dans le
+[brief du 21 septembre 2026](2026-09-21-brief-exostic.md).
