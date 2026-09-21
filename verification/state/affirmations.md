@@ -8,7 +8,7 @@ Les fiches complètes vivent dans `verification/claims/` et ne sont jamais
 supprimées. Cet index n'énumère que les affirmations encore utiles au
 dédoublonnage : une affirmation `clos` en sort après 30 jours.
 
-- CLAIM-20260919-005 | 1/10 | TRÈS PROBABLEMENT FAUX | en-cours | 2026-09-21T09:39:00+02:00 | Xi Jinping aurait perdu connaissance pendant le 18e sommet des BRICS à New Delhi, refusé une prise en charge hospitalière en Inde, puis été hospitalisé à Pékin pour un accident vasculaire cérébral ischémique grave.
+- CLAIM-20260919-005 | 1/10 | TRÈS PROBABLEMENT FAUX | en-cours | 2026-09-21T13:38:00+02:00 | Xi Jinping aurait perdu connaissance pendant le 18e sommet des BRICS à New Delhi, refusé une prise en charge hospitalière en Inde, puis été hospitalisé à Pékin pour un accident vasculaire cérébral ischémique grave.
 - CLAIM-20260920-029 | 4/10 | TROMPEUR | en-cours | 2026-09-21T08:39:00+02:00 | La réunion tenue par Donald Trump à Camp David le 19 septembre 2026, à l'issue de laquelle il a écourté son séjour, portait sur l'examen d'options de frappes américaines contre les Houthis au Yémen, et des frappes américaines contre les Houthis sont imminentes.
 - CLAIM-20260919-039 | 4/10 | TROMPEUR | en-cours | 2026-09-20T22:40:00+02:00 | Les États-Unis, le Danemark et le Groenland ont conclu un accord donnant aux États-Unis un « contrôle permanent » sur la sécurité du Groenland.
 - CLAIM-20260919-048 | 0/10 | FAUX / RÉFUTÉ | clos | 2026-09-20T21:42:00+02:00 | Une vidéo reprenant l'habillage du MDR, diffusée sur X à partir du 9 septembre 2026, est un reportage authentique de cette chaîne affirmant que des détenus du Mecklembourg-Poméranie-Occidentale obtiendraient une remise de peine et un emploi si leurs proches votaient SPD.
