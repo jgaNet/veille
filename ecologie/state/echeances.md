@@ -61,7 +61,13 @@ liste) ; minimum arctique 2026 toujours non annoncé par le NSIDC (dernière
 analyse : 3 sept.) ; acte de la Commission du 21 sept. sur l'étiquetage
 énergie / eau des centres de données : communiqué officiel IP/26/1667
 illisible par l'outil, délai d'objection de deux mois lu seulement dans une
-dépêche, donc aucune date inscrite)_
+dépêche, donc aucune date inscrite. Passage du 2026-09-21 à 20 h (brief) :
+minimum arctique 2026 toujours non annoncé par le NSIDC (une estimation non
+officielle circule : 4,60 M km² le 12 sept., blog de R. Thoman) ; communiqué
+IP/26/1667 toujours illisible, délai d'objection de deux mois et étiquettes
+« en 2027 » lus seulement dans la presse, donc toujours aucune date inscrite ;
+date de dépôt du projet de loi de finances pour 2027 non lue à une source
+officielle)_
 
 ## À réévaluer
 
@@ -73,3 +79,5 @@ Format : `- AAAA-MM-JJ — affirmation (auteur) — note actuelle X/10 — ce qu
 - 2026-09-20 — les émissions mondiales de CO₂ fossile baisseraient d'environ 0,5 % en 2026 (Carbon Brief, d'après les prévisions de l'AIE) — note actuelle 5/10 — projection 2026 du Global Carbon Project (attendue autour de la COP31), estimation de l'AIE, données quasi temps réel sur l'année complète, évolution de la crise d'Ormuz — ecologie/alerts/2026/09/2026-09-20-18-58-projection-emissions-fossiles-2026-baisse-ormuz.md
 - 2026-09-20 — feux en Indonésie : ~76 MtC émis depuis janvier, saison « on track » avec 2015 (GFED, CAMS, via la presse) — note actuelle 6/10 — lecture directe des séries CAMS / GFED, bilan de fin de saison, décompte officiel actualisé des surfaces (SiPongi : 202 004 ha de janvier à juillet), étude d'attribution éventuelle — ecologie/alerts/2026/09/2026-09-20-18-59-indonesie-feux-tourbieres-emissions-el-nino.md
 - 2026-09-21 — *Planetary Health Check 2026* : sept limites sur neuf franchies, toutes en hausse (PIK ; seule la version résumée a été lue, aucun avis extérieur disponible le jour de la parution) — note actuelle 7/10 — lecture de la version complète (zones et valeurs par limite, financement), réactions de chercheurs extérieurs au PIK, études sources des dossiers Amazonie et chalutage, position du Global Carbon Budget 2026 sur le puits terrestre — ecologie/alerts/2026/09/2026-09-21-19-05-planetary-health-check-2026-sept-limites-franchies.md
+- 2026-09-21 — projection : un enfant né en Europe en 2025 connaîtrait 84 % de jours de temps propice aux feux extrême de plus qu'une personne née en 1950, scénario +2,6 °C en 2100 (Pietroiusti et Thiery, VUB, *Environmental Research Letters* ; article non lu, communiqué et presse seulement) — note actuelle 6/10 — lecture de l'article (modèles, intervalles, financement), avis de chercheurs extérieurs, travaux indépendants sur l'indice forêt-météo en Europe — ecologie/daily/2026/09/2026-09-21-brief-ecologie.md
+- 2026-09-21 — typhon Dujuan (Japon) : 600 mm en 24 h à Oshima, « record de septembre pour la station », un mort selon UPI (presse seulement, événement en cours) — note actuelle 6/10 — relevés de la JMA, bilan consolidé de l'agence japonaise de gestion des catastrophes, étude d'attribution éventuelle — ecologie/daily/2026/09/2026-09-21-brief-ecologie.md
