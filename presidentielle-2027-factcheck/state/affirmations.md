@@ -9,6 +9,10 @@ auteur ou par un autre, s'enregistre en réutilisant son `id`. Les fiches
 complètes vivent dans `presidentielle-2027-factcheck/claims/` et ne sont jamais supprimées. Cet
 index n'est pas élagué et n'est jamais agrégé par candidat ou par parti.
 
+- PRES27-20260921-005 | CONFIRMÉ | 8/10 | La France insoumise (La France insoumise) | 1 | 2026-09-21 | Le budget des armées a été augmenté de 6,7 milliards d'euros en une année.
+- PRES27-20260921-004 | CONFIRMÉ | 9/10 | La France insoumise (La France insoumise) | 1 | 2026-09-21 | TotalEnergies a réalisé un bénéfice de 5,4 milliards de dollars en un trimestre, en hausse de 102 % sur un an.
+- PRES27-20260921-003 | CONFIRMÉ | 8/10 | La France insoumise (La France insoumise) | 1 | 2026-09-21 | Le Fonds vert, doté de 2,5 milliards d'euros, a été ramené à 837 millions d'euros.
+- PRES27-20260921-002 | CONFIRMÉ | 8/10 | La France insoumise (La France insoumise) | 1 | 2026-09-21 | Plus de 7 300 personnes sont mortes en France des canicules de l'été 2026.
 - PRES27-20260921-001 | IMPRÉCIS | 6/10 | Éric Ciotti (Union des droites pour la République) | 1 | 2026-09-21 | Ramener la TVA sur les carburants de 20 % à 5,5 % ferait baisser le prix du carburant de 15 à 20 centimes par litre.
 - PRES27-20260920-006 | IMPRÉCIS | 6/10 | Fabien Roussel (Parti communiste français) | 1 | 2026-09-19 | Ramener la TVA sur les carburants de 20 % à 5,5 % et supprimer les contributions sur l'énergie instaurées par le gouvernement depuis le 1er janvier 2026 ferait baisser le prix de l'essence de 40 centimes par litre.
 - PRES27-20260920-001 | CONFIRMÉ | 8/10 | Raphaël Glucksmann (Place publique) | 1 | 2026-09-19 | Le chèque énergie représente environ 150 euros par an.
