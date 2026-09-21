@@ -55,7 +55,13 @@ parution du Planetary Health Check 2026, minimum arctique 2026 non annoncé
 par le NSIDC, calendrier de l'ECHA sur la restriction des PFAS en erreur 403. Passage du
 2026-09-21 à 13 h : minimum arctique 2026 toujours non annoncé par le NSIDC
 (dernière analyse datée du 3 sept.), aucune date de parution du Planetary
-Health Check 2026 sur son site)_
+Health Check 2026 sur son site. Passage du 2026-09-21 à 19 h : le Planetary
+Health Check 2026 est paru le 21 sept. (alerte publiée, à retirer de cette
+liste) ; minimum arctique 2026 toujours non annoncé par le NSIDC (dernière
+analyse : 3 sept.) ; acte de la Commission du 21 sept. sur l'étiquetage
+énergie / eau des centres de données : communiqué officiel IP/26/1667
+illisible par l'outil, délai d'objection de deux mois lu seulement dans une
+dépêche, donc aucune date inscrite)_
 
 ## À réévaluer
 
@@ -66,3 +72,4 @@ Format : `- AAAA-MM-JJ — affirmation (auteur) — note actuelle X/10 — ce qu
 
 - 2026-09-20 — les émissions mondiales de CO₂ fossile baisseraient d'environ 0,5 % en 2026 (Carbon Brief, d'après les prévisions de l'AIE) — note actuelle 5/10 — projection 2026 du Global Carbon Project (attendue autour de la COP31), estimation de l'AIE, données quasi temps réel sur l'année complète, évolution de la crise d'Ormuz — ecologie/alerts/2026/09/2026-09-20-18-58-projection-emissions-fossiles-2026-baisse-ormuz.md
 - 2026-09-20 — feux en Indonésie : ~76 MtC émis depuis janvier, saison « on track » avec 2015 (GFED, CAMS, via la presse) — note actuelle 6/10 — lecture directe des séries CAMS / GFED, bilan de fin de saison, décompte officiel actualisé des surfaces (SiPongi : 202 004 ha de janvier à juillet), étude d'attribution éventuelle — ecologie/alerts/2026/09/2026-09-20-18-59-indonesie-feux-tourbieres-emissions-el-nino.md
+- 2026-09-21 — *Planetary Health Check 2026* : sept limites sur neuf franchies, toutes en hausse (PIK ; seule la version résumée a été lue, aucun avis extérieur disponible le jour de la parution) — note actuelle 7/10 — lecture de la version complète (zones et valeurs par limite, financement), réactions de chercheurs extérieurs au PIK, études sources des dossiers Amazonie et chalutage, position du Global Carbon Budget 2026 sur le puits terrestre — ecologie/alerts/2026/09/2026-09-21-19-05-planetary-health-check-2026-sept-limites-franchies.md
