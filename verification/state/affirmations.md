@@ -8,6 +8,7 @@ Les fiches complètes vivent dans `verification/claims/` et ne sont jamais
 supprimées. Cet index n'énumère que les affirmations encore utiles au
 dédoublonnage : une affirmation `clos` en sort après 30 jours.
 
+- CLAIM-20260922-001 | 2/10 | TROMPEUR | clos | 2026-09-22T12:39:00+02:00 | La population née à l'étranger vivant au Royaume-Uni, estimée à 13,1 millions de personnes en 2024, a augmenté de 143 % en dix ans.
 - CLAIM-20260920-029 | 4/10 | TROMPEUR | en-cours | 2026-09-22T08:39:00+02:00 | La réunion tenue par Donald Trump à Camp David le 19 septembre 2026, à l'issue de laquelle il a écourté son séjour, portait sur l'examen d'options de frappes américaines contre les Houthis au Yémen, et des frappes américaines contre les Houthis sont imminentes.
 - CLAIM-20260919-039 | 4/10 | TROMPEUR | en-cours | 2026-09-21T15:39:00+02:00 | Les États-Unis, le Danemark et le Groenland ont conclu un accord donnant aux États-Unis un « contrôle permanent » sur la sécurité du Groenland.
 - CLAIM-20260919-005 | 1/10 | TRÈS PROBABLEMENT FAUX | en-cours | 2026-09-21T13:38:00+02:00 | Xi Jinping aurait perdu connaissance pendant le 18e sommet des BRICS à New Delhi, refusé une prise en charge hospitalière en Inde, puis été hospitalisé à Pékin pour un accident vasculaire cérébral ischémique grave.
