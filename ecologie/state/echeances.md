@@ -72,7 +72,14 @@ officielle. Passage du 2026-09-22 à 1 h : minimum arctique 2026 toujours non
 annoncé par le NSIDC (dernière analyse : 3 sept.) ; calendrier de la
 restriction PFAS (avis final du SEAC, décision de la Commission) lu seulement
 chez des cabinets de conseil, page de l'ECHA non consultée, donc aucune date
-inscrite)_
+inscrite. Passage du 2026-09-22 à 7 h : minimum arctique 2026 toujours non
+annoncé par le NSIDC (dernière analyse : 3 sept.) ; page ECHA de la
+restriction PFAS lue (https://echa.europa.eu/restrictions-under-consideration/-/substance-rev/72301/term) :
+elle indique un projet d'avis du SEAC en consultation mais aucune date de
+clôture ni d'avis final lisible, donc toujours aucune date inscrite ;
+calendriers du GIEC et de l'IPBES toujours en erreur 403 ; aucune publication
+nouvelle lue sur les sites de l'OMM, de la CCNUCC, de l'AIE, de l'AEE, du
+Citepa ni de Copernicus)_
 
 ## À réévaluer
 
@@ -85,4 +92,4 @@ Format : `- AAAA-MM-JJ — affirmation (auteur) — note actuelle X/10 — ce qu
 - 2026-09-20 — feux en Indonésie : ~76 MtC émis depuis janvier, saison « on track » avec 2015 (GFED, CAMS, via la presse) — note actuelle 6/10 — lecture directe des séries CAMS / GFED, bilan de fin de saison, décompte officiel actualisé des surfaces (SiPongi : 202 004 ha de janvier à juillet), étude d'attribution éventuelle. Vu le 22 sept. sans pouvoir le vérifier à la source : une dépêche AFP (Malay Mail, 21 sept.) cite ~300 000 ha de janvier à juillet selon Nusantara Atlas (Sentinel-2, 20 m ; son propre bilan du 20 juill. donnait ~103 000 ha au premier semestre) et « ~896 000 ha » août compris, origine de ce dernier chiffre non identifiée ; 54 000 personnels et 64 aéronefs déployés selon le gouvernement — ecologie/alerts/2026/09/2026-09-20-18-59-indonesie-feux-tourbieres-emissions-el-nino.md
 - 2026-09-21 — *Planetary Health Check 2026* : sept limites sur neuf franchies, toutes en hausse (PIK ; seule la version résumée a été lue, aucun avis extérieur disponible le jour de la parution) — note actuelle 7/10 — lecture de la version complète (zones et valeurs par limite, financement), réactions de chercheurs extérieurs au PIK, études sources des dossiers Amazonie et chalutage, position du Global Carbon Budget 2026 sur le puits terrestre — ecologie/alerts/2026/09/2026-09-21-19-05-planetary-health-check-2026-sept-limites-franchies.md
 - 2026-09-21 — projection : un enfant né en Europe en 2025 connaîtrait 84 % de jours de temps propice aux feux extrême de plus qu'une personne née en 1950, scénario +2,6 °C en 2100 (Pietroiusti et Thiery, VUB, *Environmental Research Letters* ; article non lu, communiqué et presse seulement) — note actuelle 6/10 — lecture de l'article (modèles, intervalles, financement), avis de chercheurs extérieurs, travaux indépendants sur l'indice forêt-météo en Europe — ecologie/daily/2026/09/2026-09-21-brief-ecologie.md
-- 2026-09-21 — typhon Dujuan (Japon) : 600 mm en 24 h à Oshima, « record de septembre pour la station », un mort selon UPI (presse seulement, événement en cours) — note actuelle 6/10 — relevés de la JMA, bilan consolidé de l'agence japonaise de gestion des catastrophes, étude d'attribution éventuelle — ecologie/daily/2026/09/2026-09-21-brief-ecologie.md
+- 2026-09-21 — typhon Dujuan (Japon) : 600 mm en 24 h à Oshima, « record de septembre pour la station », un mort selon UPI (presse seulement, événement en cours) — note actuelle 6/10 — relevés de la JMA, bilan consolidé de l'agence japonaise de gestion des catastrophes, étude d'attribution éventuelle. Vu le 22 sept. à 7 h : Al Jazeera (d'après Kyodo) donne deux morts, des consignes d'évacuation pour plus de 1,6 million de personnes et des vents d'environ 144 km/h à 130 km au sud de Katsuura, le système s'éloignant vers le nord-est ; le Japan Times titre « au moins quatre morts et six disparus dans le Kanto » (article non lu, accès payant) ; bilan toujours provisoire, aucun relevé JMA lu directement, aucune attribution — ecologie/daily/2026/09/2026-09-21-brief-ecologie.md
