@@ -79,7 +79,12 @@ elle indique un projet d'avis du SEAC en consultation mais aucune date de
 clôture ni d'avis final lisible, donc toujours aucune date inscrite ;
 calendriers du GIEC et de l'IPBES toujours en erreur 403 ; aucune publication
 nouvelle lue sur les sites de l'OMM, de la CCNUCC, de l'AIE, de l'AEE, du
-Citepa ni de Copernicus)_
+Citepa ni de Copernicus. Passage du 2026-09-22 à 13 h : minimum arctique 2026
+toujours non annoncé par le NSIDC (dernière analyse : 3 sept.) ; aucune date
+pour INC-5.4 lue à une source officielle (page IISD illisible) ; page GISTEMP
+de la NASA sans mise à jour depuis janvier 2026 ; l'événement de haut niveau
+de l'ONU du 23 sept. est pour demain — discours et annonces attendus, à
+traiter comme engagements)_
 
 ## À réévaluer
 
