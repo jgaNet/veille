@@ -9,6 +9,7 @@ auteur ou par un autre, s'enregistre en réutilisant son `id`. Les fiches
 complètes vivent dans `presidentielle-2027-factcheck/claims/` et ne sont jamais supprimées. Cet
 index n'est pas élagué et n'est jamais agrégé par candidat ou par parti.
 
+- PRES27-20260922-001 | CONFIRMÉ | 8/10 | Mathilde Panot (La France insoumise) | 1 | 2026-09-21 | Les 53 milliardaires français détiennent autant de patrimoine que 32 millions de Français réunis.
 - PRES27-20260921-005 | CONFIRMÉ | 8/10 | La France insoumise (La France insoumise) | 1 | 2026-09-21 | Le budget des armées a été augmenté de 6,7 milliards d'euros en une année.
 - PRES27-20260921-004 | CONFIRMÉ | 9/10 | La France insoumise (La France insoumise) | 1 | 2026-09-21 | TotalEnergies a réalisé un bénéfice de 5,4 milliards de dollars en un trimestre, en hausse de 102 % sur un an.
 - PRES27-20260921-003 | CONFIRMÉ | 8/10 | La France insoumise (La France insoumise) | 1 | 2026-09-21 | Le Fonds vert, doté de 2,5 milliards d'euros, a été ramené à 837 millions d'euros.
