@@ -9,6 +9,10 @@ auteur ou par un autre, s'enregistre en réutilisant son `id`. Les fiches
 complètes vivent dans `presidentielle-2027-factcheck/claims/` et ne sont jamais supprimées. Cet
 index n'est pas élagué et n'est jamais agrégé par candidat ou par parti.
 
+- PRES27-20260922-006 | NON VÉRIFIABLE | sans note | La France insoumise (La France insoumise) | 1 | 2026-09-22 | Les conclusions de la mission d'experts mandatée par le gouvernement sur la transposition de la directive travail de plateforme ont été présentées le 15 septembre 2026 et ne retiennent aucune présomption de salariat.
+- PRES27-20260922-005 | IMPRÉCIS | 6/10 | La France insoumise (La France insoumise) | 1 | 2026-09-22 | Le 11 septembre 2026, le ministre du Travail a indiqué qu'aucune loi sur les travailleurs de plateforme ne serait portée avant fin décembre, puis a émis des doutes sur la possibilité de présenter un texte au Parlement avant l'arrêt des travaux parlementaires en mars 2027.
+- PRES27-20260922-004 | CONFIRMÉ | 9/10 | La France insoumise (La France insoumise) | 1 | 2026-09-22 | Le gouvernement français a jusqu'au 2 décembre 2026 pour transposer en droit interne la directive européenne sur le travail via les plateformes.
+- PRES27-20260922-003 | CONFIRMÉ | 9/10 | La France insoumise (La France insoumise) | 1 | 2026-09-22 | Une directive européenne introduisant une présomption de salariat pour les travailleurs de plateforme a été adoptée le 23 octobre 2024.
 - PRES27-20260922-002 | IMPRÉCIS | 6/10 | Marine Le Pen (Rassemblement national) | 1 | 2026-09-21 | Chaque année, la loi SRU sanctionne financièrement les communes concernées comptant moins de 20 à 25 % de logements sociaux, y compris lorsqu'elles n'ont plus de foncier disponible pour construire.
 - PRES27-20260922-001 | CONFIRMÉ | 8/10 | Mathilde Panot (La France insoumise) | 1 | 2026-09-21 | Les 53 milliardaires français détiennent autant de patrimoine que 32 millions de Français réunis.
 - PRES27-20260921-005 | CONFIRMÉ | 8/10 | La France insoumise (La France insoumise) | 1 | 2026-09-21 | Le budget des armées a été augmenté de 6,7 milliards d'euros en une année.
