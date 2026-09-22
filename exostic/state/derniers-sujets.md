@@ -3,6 +3,7 @@
 Mémoire anti-doublon. Les lignes de plus de 30 jours sont élaguées à chaque passage.
 Format : `- AAAA-MM-JJ HH:MM — [nature] sujet — chemin`
 
+- 2026-09-22 07:32 — [stack] GitHub Actions : image Ubuntu 26.04 en disponibilité générale (17 septembre 2026), label `ubuntu-latest` migré d'Ubuntu 24.04 vers 26.04 entre le 19 octobre et le 19 novembre 2026 (Node.js 24 par défaut, outils retirés) ; à faire avant le 19 octobre : tester sur ubuntu-26.04 ou épingler ubuntu-24.04 — exostic/alerts/2026/09/2026-09-22-07-32-github-actions-ubuntu-latest-26-04.md
 - 2026-09-22 01:32 — [stack] AWS : App Mesh retiré le 30 septembre 2026 (console et ressources inaccessibles, migration ECS Service Connect / VPC Lattice), Pinpoint le 30 octobre 2026 (hors API SMS/voix/push/OTP), Lambda : blocage création `nodejs20.x` et `nodejs18.x` le 1er février 2027, mise à jour le 3 mars 2027 — exostic/alerts/2026/09/2026-09-22-01-32-aws-app-mesh-fin-de-support-30-septembre.md
 - 2026-09-21 20:00 — [securite] GitHub Actions : protections d'exécution en disponibilité générale (17 septembre 2026), `pull_request_target` bloqué par défaut sur les dépôts publics, application automatique le 2 novembre 2026 — exostic/daily/2026/09/2026-09-21-brief-exostic.md
 - 2026-09-21 20:00 — [securite] npm : jetons « stage only » (18 septembre 2026), fin de la publication directe par jeton contournant la 2FA visée pour janvier 2027, après la restriction du 31 juillet 2026 — exostic/daily/2026/09/2026-09-21-brief-exostic.md
