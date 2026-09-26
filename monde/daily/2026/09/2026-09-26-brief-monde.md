@@ -48,7 +48,7 @@ anonymes.
 [Jerusalem Post](https://www.jpost.com/middle-east/iran-news/article-909753),
 AFP via France 24, CNN et NBC News (titres seuls, pages non lisibles depuis cet
 environnement) —
-[alerte détaillée](../../alerts/2026/09/2026-09-26-19-53-iran-etats-unis-trump-rejette-feuille-de-route-ormuz-sept-jours.md).
+[alerte détaillée](../../../alerts/2026/09/2026-09-26-19-53-iran-etats-unis-trump-rejette-feuille-de-route-ormuz-sept-jours.md).
 
 ### 2. Chine / États-Unis : bilan de la visite d'État de Xi Jinping — confiance 9/10 🟢
 
@@ -79,7 +79,7 @@ future des engagements chiffrés.
 [ministère chinois des Affaires étrangères (source primaire)](https://www.fmprc.gov.cn/fra/wjdt/zyxw/202609/t20260925_12031247.html),
 AP, [Al Jazeera](https://www.aljazeera.com/news/2026/9/26/china-us-to-open-ai-communication-channel-after-summit-white-house-says),
 Yonhap, [Euronews](https://www.euronews.com/2026/09/25/trump-and-xi-declare-harmony-no-confrontation-as-us-state-visit-ends) —
-[alerte détaillée](../../alerts/2026/09/2026-09-26-19-52-chine-etats-unis-bilan-visite-xi-dialogue-super-intelligence.md).
+[alerte détaillée](../../../alerts/2026/09/2026-09-26-19-52-chine-etats-unis-bilan-visite-xi-dialogue-super-intelligence.md).
 
 ### 3. Ukraine : Kyiv annonce une « décision finale » de Trump sur les licences Patriot — confiance 6/10 🟠
 
@@ -142,7 +142,7 @@ stade des accusations d'Islamabad.
 
 **Sources croisées :** AP, [Al Jazeera](https://www.aljazeera.com/news/2026/9/26/blast-in-pakistans-dera-ismail-khan-kills-several-people),
 PTI, *Washington Post* —
-[alerte détaillée](../../alerts/2026/09/2026-09-26-19-55-pakistan-attentat-suicide-dera-ismail-khan-ttp.md).
+[alerte détaillée](../../../alerts/2026/09/2026-09-26-19-55-pakistan-attentat-suicide-dera-ismail-khan-ttp.md).
 
 ### 6. États-Unis : la justice ordonne de rétablir l'accès de CNN, MS NOW et Politico à la Maison-Blanche — confiance 8/10 🟢
 
@@ -152,8 +152,8 @@ journalistes de CNN, MS NOW et Politico, écartés depuis le 19 septembre. La
 décision s'appuie principalement sur le cinquième amendement — droit à un
 préavis et à une audience avant d'être privé d'un intérêt constitutionnellement
 protégé — plutôt que sur le premier amendement également invoqué par les médias.
-Suite des alertes des [19](../../alerts/2026/09/2026-09-19-02-55-etats-unis-trump-annonce-interdiction-cnn-msnow-politico.md)
-et [22 septembre](../../alerts/2026/09/2026-09-22-03-55-etats-unis-plainte-cnn-msnow-politico-suspension-pool-tele.md).
+Suite des alertes des [19](../../../alerts/2026/09/2026-09-19-02-55-etats-unis-trump-annonce-interdiction-cnn-msnow-politico.md)
+et [22 septembre](../../../alerts/2026/09/2026-09-22-03-55-etats-unis-plainte-cnn-msnow-politico-suspension-pool-tele.md).
 
 **Établi :** l'ordonnance, son auteur, sa date, son caractère temporaire et son
 fondement ; le retour de journalistes des trois rédactions dans les jours
@@ -195,7 +195,7 @@ Le décompte saoudien de six missiles provient d'une partie au conflit.
 **Sources croisées :** [Public Sénat](https://www.publicsenat.fr/actualites/international/guerre-au-moyen-orient-pourquoi-la-france-veut-envoyer-des-moyens-militaires-a-yanbu-en-arabie-saoudite),
 [Euronews](https://www.euronews.com/2026/09/25/saudi-arabia-reports-fresh-houthi-attacks-as-france-offers-military-support-to-protect-yan),
 L'Express via Orange Actualités —
-[alerte détaillée](../../alerts/2026/09/2026-09-26-19-50-france-moyens-militaires-yanbu-arabie-saoudite.md).
+[alerte détaillée](../../../alerts/2026/09/2026-09-26-19-50-france-moyens-militaires-yanbu-arabie-saoudite.md).
 
 ### 8. UE : déblocage de 6,6 Md€ d'aide militaire à l'Ukraine après trois ans de blocage — confiance 8/10 🟢
 
@@ -242,14 +242,14 @@ n'est pas acquise ; la constitutionnalité du plafond, qui fait débat.
 **Sources croisées :** [AgenSIR](https://www.agensir.it/italia/2026/09/25/scuola-e-immigrazione-il-governo-vara-il-decreto-sul-tetto-del-30-di-alunni-stranieri-nelle-classi-prime/),
 [Euronews](https://www.euronews.com/2026/09/25/italy-moves-to-ban-face-coverings-and-limit-foreign-pupils-in-schools-with-new-law),
 Today.it, Corriere Nazionale —
-[alerte détaillée](../../alerts/2026/09/2026-09-26-19-54-italie-decret-visage-couvert-ecole-plafond-30-eleves-etrangers.md).
+[alerte détaillée](../../../alerts/2026/09/2026-09-26-19-54-italie-decret-visage-couvert-ecole-plafond-30-eleves-etrangers.md).
 
 *Également publié aujourd'hui, de moindre portée mondiale :* le voyage
 apostolique du pape Léon XIV en France du 25 au 28 septembre — entretien à
 l'Élysée le 25, Lourdes les 26 et 27, Metz le 28 ; les entretiens ont porté sur
 le climat, l'IA, l'Ukraine, le Moyen-Orient et l'Afrique selon le compte rendu
 officiel français
-([alerte](../../alerts/2026/09/2026-09-26-19-56-france-visite-pape-leon-xiv-elysee-lourdes.md)).
+([alerte](../../../alerts/2026/09/2026-09-26-19-56-france-visite-pape-leon-xiv-elysee-lourdes.md)).
 
 ---
 
@@ -295,7 +295,7 @@ Dialogue* sur les risques et les bénéfices, ainsi qu'un canal de communication
 bilatéral dédié aux incidents liés à l'IA, avec un prochain échange annoncé d'ici
 novembre 2026. C'est la première structure bilatérale de ce type entre les deux
 pays, quatre jours après la
-[déclaration conjointe d'une vingtaine d'États et de l'UE](../../alerts/2026/09/2026-09-22-11-55-ia-declaration-vingt-etats-ue-institution-supervision-sans-usa-chine.md)
+[déclaration conjointe d'une vingtaine d'États et de l'UE](../../../alerts/2026/09/2026-09-22-11-55-ia-declaration-vingt-etats-ue-institution-supervision-sans-usa-chine.md)
 appelant à une institution de supervision de l'IA — initiative à laquelle ni
 Washington ni Pékin ne participent.
 
@@ -326,7 +326,7 @@ Selon le bilan de l'OMS relayé le 23 septembre par l'ONU, l'épidémie de malad
 hospitalisés, après plus de 130 jours. Entre le 31 août et le 20 septembre, les
 cas ont baissé de 26 % en Ituri et de 15 % dans le Haut-Uele, mais augmenté de
 73 % au Nord-Kivu, selon la Dre Marie Roseline Belizaire (OMS Afrique). Suite de
-l'[alerte du 20 septembre](../../alerts/2026/09/2026-09-20-03-50-rdc-ebola-lancement-vaccination-ervebo-bunia.md)
+l'[alerte du 20 septembre](../../../alerts/2026/09/2026-09-20-03-50-rdc-ebola-lancement-vaccination-ervebo-bunia.md)
 sur le lancement de la vaccination à Bunia.
 
 **Établi :** les chiffres et les tendances régionales, publiés par l'OMS via
