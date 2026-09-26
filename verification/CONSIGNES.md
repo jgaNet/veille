@@ -1,11 +1,10 @@
 # Flux `verification` — consignes de la veille
 
-Ce fichier est la référence opérationnelle du flux `verification` : les
-passages automatiques le lisent avant de travailler. Il détaille et complète
-les règles générales du dépôt énoncées dans le [README](../README.md) ; en cas
-d'écart, le README fait foi. Il suit le même esprit que
-[`monde/CONSIGNES.md`](../monde/CONSIGNES.md), auquel il emprunte ses règles de
-croisement des sources et de neutralité.
+Référence opérationnelle du flux `verification`, lue par chaque passage
+automatique. Complète les règles générales du [README](../README.md) ; en cas
+d'écart, le README fait foi. Suit le même esprit que
+[`monde/CONSIGNES.md`](../monde/CONSIGNES.md), auquel il emprunte ses règles
+de croisement des sources et de neutralité.
 
 ## Mission
 
@@ -13,14 +12,14 @@ Veille horaire sur les **affirmations d'actualité potentiellement fausses,
 trompeuses, sorties de leur contexte ou très peu plausibles** qui circulent
 réellement (reprises médiatiques, déclarations publiques, contenus viraux).
 
-L'objet du flux n'est pas l'actualité : c'est l'affirmation. Chaque
-affirmation suivie possède une fiche durable, un identifiant stable et un
-historique de notes, ce qui permet de suivre son évolution — y compris un
-retournement complet de l'évaluation.
+L'objet du flux n'est pas l'actualité mais l'affirmation. Chaque affirmation
+suivie possède une fiche durable, un identifiant stable et un historique de
+notes, permettant de suivre son évolution — y compris un retournement complet
+de l'évaluation.
 
 **Principe fondamental :** mieux vaut une affirmation correctement réfutée ou
-correctement corroborée que dix signalements approximatifs. Une affirmation
-douteuse insuffisamment vérifiée reste en suivi ; elle n'est pas publiée.
+corroborée que dix signalements approximatifs. Une affirmation douteuse
+insuffisamment vérifiée reste en suivi ; elle n'est pas publiée.
 
 ## 1. Déroulé d'un passage horaire
 
@@ -29,36 +28,34 @@ douteuse insuffisamment vérifiée reste en suivi ; elle n'est pas publiée.
    `verification/claims/`.
 2. Chercher les affirmations qui circulent depuis le passage précédent :
    contenus viraux, déclarations publiques reprises sans vérification,
-   chiffres invérifiables, images ou vidéos réutilisées hors contexte,
-   « informations » contredites par une source primaire.
-3. Vérifier chaque affirmation : source originale, source primaire, agences de
-   presse, fact-checkers reconnus, document ou donnée d'origine.
-4. Écrire le résultat dans un fichier JSON d'observations (format ci-dessous).
+   chiffres invérifiables, images ou vidéos hors contexte, « informations »
+   contredites par une source primaire.
+3. Vérifier chaque affirmation : source originale, source primaire, agences
+   de presse, fact-checkers reconnus, document ou donnée d'origine.
+4. Écrire le résultat dans un fichier JSON d'observations (§ 6).
 5. Passer ce fichier à `scripts/verif-record.mjs`, **qui décide seul** de
    l'attribution des identifiants, du dédoublonnage et de la publication ou
    non d'une entrée RSS.
 6. Committer **en une seule fois** tout ce que le script a écrit (§ 10).
 
 **Ne jamais écrire à la main dans `verification/claims/`,
-`verification/alerts/` ou `verification/state/`.** Ces fichiers sont produits
-par le script ; les éditer à la main casse la déduplication.
+`verification/alerts/` ou `verification/state/`** : ces fichiers sont
+produits par le script, et les éditer à la main casse la déduplication.
 
-**Un passage sans aucune affirmation publiable est un résultat normal**, pas un
-échec. En l'absence d'observation, ne rien produire.
+**Un passage sans aucune affirmation publiable est un résultat normal**, pas
+un échec. En l'absence d'observation, ne rien produire.
 
 ## 2. Ce qui mérite d'être suivi
 
 Retenir une affirmation lorsqu'elle est **à la fois** douteuse et
-conséquente :
+conséquente : elle circule réellement (reprise, virale, relayée par un
+responsable) ; elle porte sur un fait vérifiable, pas une opinion ; son
+caractère faux, trompeur ou hors contexte est démontrable ou sérieusement
+douteux au regard des sources disponibles.
 
-- elle circule réellement (reprise, virale, relayée par un responsable) ;
-- elle porte sur un fait vérifiable, pas sur une opinion ;
-- son caractère faux, trompeur ou hors contexte est démontrable, ou au moins
-  sérieusement douteux au regard des sources disponibles.
-
-Écarter : les désaccords d'interprétation, les prédictions, les opinions
-politiques, les propos satiriques évidents, les rumeurs confidentielles sans
-portée, et tout ce qui relève de la simple erreur de plume.
+Écarter : désaccords d'interprétation, prédictions, opinions politiques,
+propos satiriques évidents, rumeurs confidentielles sans portée, simple
+erreur de plume.
 
 **Au plus une affirmation nouvelle par passage.** Le web produit sans effort
 des dizaines d'affirmations platement fausses par jour ; les signaler toutes
@@ -67,8 +64,8 @@ aucune. Revenir sur une affirmation déjà suivie dont l'évaluation a changé
 n'entre pas dans ce plafond.
 
 Une affirmation déjà suivie n'est pas resignalée : elle est **mise à jour** en
-réutilisant son `id`, ou en reformulant l'affirmation à l'identique — le script
-retrouve la fiche par empreinte ou par similarité.
+réutilisant son `id`, ou en reformulant l'affirmation à l'identique — le
+script retrouve la fiche par empreinte ou par similarité.
 
 ## 3. Croisement obligatoire des sources
 
@@ -77,14 +74,15 @@ moins deux sources journalistiques indépendantes. Deux reprises d'une même
 dépêche Reuters, AP ou AFP ne comptent pas pour deux confirmations. Le script
 refuse toute observation comportant moins de deux sources.
 
-Sources utiles ici : la source **originale** de l'affirmation (indispensable),
+Sources utiles : la source **originale** de l'affirmation (indispensable),
 les sources primaires du domaine concerné, les agences, les fact-checkers
 reconnus (AFP Factuel, Reuters Fact Check, Les Décodeurs, Full Fact, Snopes),
 les recherches d'image inversée pour les visuels.
 
 Une affirmation gouvernementale est décrite comme une déclaration, jamais
-convertie en fait établi sans confirmation indépendante. Neutralité politique :
-l'évaluation porte sur les preuves, jamais sur le camp de l'auteur.
+convertie en fait établi sans confirmation indépendante. Neutralité
+politique : l'évaluation porte sur les preuves, jamais sur le camp de
+l'auteur.
 
 ## 4. Les deux notes
 
@@ -93,10 +91,9 @@ l'évaluation porte sur les preuves, jamais sur le camp de l'auteur.
 | `rating` | **Plausibilité de l'affirmation** : dans quelle mesure elle est vraie | 0 = réfutée, 10 = établie |
 | `evidence_confidence` | **Solidité des preuves** de cette évaluation — l'indice de confiance habituel du dépôt | 1 à 10 |
 
-Les deux sont indépendantes : une affirmation peut être notée 1/10
-(très probablement fausse) avec une confiance de 9/10 (démenti officiel
-documenté), ou 3/10 avec une confiance de 4/10 (douteuse, mais faute de
-sources).
+Les deux sont indépendantes : une affirmation peut être notée 1/10 (très
+probablement fausse) avec une confiance de 9/10 (démenti officiel documenté),
+ou 3/10 avec une confiance de 4/10 (douteuse, mais faute de sources).
 
 Libellés de `rating` utilisés dans les titres RSS :
 
@@ -114,10 +111,8 @@ Ne jamais présenter une probabilité subjective comme une mesure scientifique.
 ## 5. Statuts
 
 Valeurs autorisées pour `status`, reprises de la section « fake news » des
-consignes du flux `monde` :
-
-`CONFIRMÉ`, `PROBABLE`, `INCERTAIN`, `TRÈS PROBABLEMENT FAUX`,
-`FAUX / RÉFUTÉ`, `HORS CONTEXTE`, `TROMPEUR`.
+consignes du flux `monde` : `CONFIRMÉ`, `PROBABLE`, `INCERTAIN`,
+`TRÈS PROBABLEMENT FAUX`, `FAUX / RÉFUTÉ`, `HORS CONTEXTE`, `TROMPEUR`.
 
 `HORS CONTEXTE` : les faits sont exacts mais leur présentation induit en
 erreur. `TROMPEUR` : l'affirmation mélange vrai et faux.
@@ -186,19 +181,16 @@ node scripts/build-feeds.mjs                                 # régénère les f
 node scripts/check-feeds.mjs                                 # vérifie le XML
 ```
 
-Le script :
-
-1. charge toutes les fiches existantes ;
-2. apparie chaque observation — identifiant explicite, puis empreinte exacte
-   de l'affirmation, puis similarité de formulation (seuil 0,68), en refusant
-   de fusionner deux énoncés contradictoires ;
-3. attribue un identifiant stable `CLAIM-AAAAMMJJ-NNN` aux nouvelles
-   affirmations, daté du jour de la **première** détection ;
-4. met à jour la fiche : note actuelle, note précédente, historique complet,
-   statut, confiance, sources, preuves, suivi, dernière vérification ;
-5. n'écrit un fichier d'alerte — donc un item RSS — que si un seuil de
-   publication est franchi ;
-6. régénère `verification/state/affirmations.md`.
+Le script : 1) charge toutes les fiches existantes ; 2) apparie chaque
+observation — identifiant explicite, puis empreinte exacte de l'affirmation,
+puis similarité de formulation (seuil 0,68), en refusant de fusionner deux
+énoncés contradictoires ; 3) attribue un identifiant stable
+`CLAIM-AAAAMMJJ-NNN` aux nouvelles affirmations, daté du jour de la
+**première** détection ; 4) met à jour la fiche (note actuelle, note
+précédente, historique complet, statut, confiance, sources, preuves, suivi,
+dernière vérification) ; 5) n'écrit une alerte — donc un item RSS — que si un
+seuil de publication est franchi ; 6) régénère
+`verification/state/affirmations.md`.
 
 ## 8. Règles de publication RSS
 
@@ -213,16 +205,17 @@ Une entrée n'est créée que dans l'un de ces cas :
 | Retournement | bascule franche (≥ 7 ↔ ≤ 3) avec un écart ≥ 5 | `[🚨 RETOURNEMENT 8→1/10] Résumé de l'affirmation` |
 
 Dans tous les autres cas, **rien n'est publié** : la fiche enregistre la
-vérification (`dernière vérification`, historique) et le flux reste silencieux.
-Une affirmation vérifiée dix fois sans évolution produit une seule entrée RSS.
+vérification et le flux reste silencieux. Une affirmation vérifiée dix fois
+sans évolution produit une seule entrée RSS.
 
 Une affirmation nouvelle notée 7/10 ou plus n'est pas publiée : elle est
 plausible, elle n'a pas sa place dans ce flux — mais elle est suivie, et un
 retournement ultérieur sera publié.
 
 Le filtre d'importance ne s'applique qu'aux **nouveautés**. Une affirmation
-déjà suivie qui évolue, change de statut ou se retourne est publiée quelle que
-soit son importance : c'est rare, et c'est précisément l'intérêt du suivi.
+déjà suivie qui évolue, change de statut ou se retourne est publiée quelle
+que soit son importance : c'est rare, et c'est précisément l'intérêt du
+suivi.
 
 ## 9. Structure des fichiers
 
@@ -242,12 +235,10 @@ construction.
 ## 10. Publication
 
 - **Un seul commit par passage**, jamais un commit par affirmation ou par
-  fichier. Le script écrit d'un coup les fiches `claims/`, les entrées
-  `alerts/` et `state/affirmations.md` : tout part ensemble. En local,
-  `git add` puis un unique `git commit` ; via l'API GitHub, l'API Git tree
-  (`push_files` côté connecteur MCP) et non l'endpoint « contents », qui crée
-  un commit par fichier. Une fiche séparée de l'alerte qui la cite, ou un
-  index désynchronisé, casserait la déduplication.
+  fichier (règle générale : voir README). Le script écrit d'un coup les
+  fiches `claims/`, les entrées `alerts/` et `state/affirmations.md`, via
+  `push_files` : une fiche séparée de l'alerte qui la cite, ou un index
+  désynchronisé, casserait la déduplication.
 - Message de commit : `verif: …`, récapitulatif du passage — par exemple
   `verif: 2 affirmations publiées ou mises à jour`.
 - Les fichiers de `alerts/` ne sont jamais modifiés après publication ; une

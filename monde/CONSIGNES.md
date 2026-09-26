@@ -1,85 +1,54 @@
 # Flux `monde` — consignes de la veille
 
-Ce fichier est la référence opérationnelle du flux `monde` : les passages
-automatiques le lisent avant de travailler. Il détaille et complète les règles
-générales du dépôt énoncées dans le [README](../README.md) ; en cas d'écart, le
-README fait foi. Modifier ce fichier modifie le comportement de la veille —
-aucune autre configuration n'est à changer.
+Référence opérationnelle du flux `monde`, lue par chaque passage automatique.
+Complète les règles générales du [README](../README.md) ; en cas d'écart, le
+README fait foi.
 
 ## Mission
 
-Système personnel de veille sur l'actualité mondiale. Les résultats sont des
-fichiers Markdown déposés dans ce dépôt, consultables via le flux RSS
-(`feeds/monde.xml`).
-
-L'objectif n'est pas de maximiser le nombre d'informations, mais de détecter les
-événements réellement importants, de les vérifier à partir de plusieurs sources
-indépendantes et de distinguer clairement :
-
-- les faits établis ;
-- les déclarations ;
-- les informations encore incertaines ;
-- les analyses ou interprétations ;
-- les informations fausses ou trompeuses lorsqu'elles peuvent être vérifiées
-  comme telles.
+Veille sur l'actualité mondiale, publiée en Markdown et via RSS
+(`feeds/monde.xml`) : détecter les événements réellement importants, les
+vérifier par plusieurs sources indépendantes, et distinguer faits établis,
+déclarations, informations incertaines, analyses, et informations fausses ou
+trompeuses.
 
 **Principe fondamental :** 10 informations correctement vérifiées plutôt que 30
-informations simplement reprises. La vitesse est secondaire par rapport à la
-fiabilité. Si une information spectaculaire n'est pas suffisamment corroborée,
-signaler son incertitude ou attendre davantage de confirmation plutôt que de la
-présenter comme un fait.
+simplement reprises. Une information spectaculaire insuffisamment corroborée
+est signalée comme incertaine, jamais présentée comme un fait.
 
 ## 1. Veille horaire
 
 Toutes les heures, rechercher les informations importantes apparues depuis le
-précédent passage. Pour chaque nouvelle alerte, créer un fichier Markdown.
+précédent passage et créer un fichier Markdown par nouvelle alerte.
 
-Domaines couverts :
+Domaines couverts : géopolitique et conflits ; France et Europe ; économie et
+marchés ; énergie ; technologie (de l'IA, uniquement les événements de portée
+géopolitique ou économique mondiale — le reste relève du flux `ia`) ;
+cybersécurité ; science ; climat et environnement (uniquement portée mondiale
+— COP, catastrophe majeure, rapport de synthèse du GIEC — le reste relève du
+flux `ecologie`) ; événements internationaux majeurs.
 
-- géopolitique et conflits ;
-- France et Europe ;
-- économie et marchés ;
-- énergie ;
-- technologie ; de l'IA, uniquement les événements de portée géopolitique ou
-  économique mondiale — le reste relève du flux `ia` (`ia/CONSIGNES.md`) ;
-- cybersécurité ;
-- science ;
-- climat et environnement : uniquement les événements de portée mondiale —
-  issue d'une COP, catastrophe majeure, rapport de synthèse du GIEC — le reste
-  relève du flux `ecologie` (`ecologie/CONSIGNES.md`) ;
-- événements internationaux majeurs.
-
-Ne pas répéter une information déjà publiée, sauf évolution significative. Dans
-ce cas, créer une nouvelle entrée en indiquant clairement ce qui a changé et en
-renvoyant vers l'entrée précédente (lien vers le fichier précédent dans le
-corps de la nouvelle alerte).
-
-**S'il n'y a aucune évolution suffisamment importante, ne créer aucun fichier.**
-Un passage sans publication est un résultat normal et attendu, pas un échec.
+Ne pas répéter une information déjà publiée, sauf évolution significative :
+nouvelle entrée précisant ce qui a changé, avec un lien vers l'entrée
+précédente. **S'il n'y a aucune évolution suffisamment importante, ne créer
+aucun fichier** : un passage sans publication est normal, pas un échec.
 
 ## 2. Croisement obligatoire des sources
 
-Pour chaque information importante, chercher idéalement :
+Chercher : 1) une source primaire si elle existe (gouvernement, ONU, UE,
+banque centrale, tribunal, organisme scientifique, entreprise concernée,
+publication scientifique, données officielles) ; 2) au moins deux sources
+journalistiques indépendantes, en diversifiant les origines (Reuters, AP,
+AFP, BBC, France 24, Le Monde, Financial Times, The Guardian, DW, Al Jazeera,
+médias locaux fiables).
 
-1. une source primaire lorsqu'elle existe ;
-2. au moins deux sources journalistiques indépendantes.
-
-Sources primaires possibles : gouvernement, ONU, Union européenne, banque
-centrale, tribunal, organisme scientifique, entreprise directement concernée,
-publication scientifique, données officielles.
-
-Pour les médias, diversifier les origines lorsque c'est pertinent : Reuters,
-Associated Press, AFP, BBC, France 24, Le Monde, Financial Times, The Guardian,
-DW, Al Jazeera, médias locaux fiables.
-
-**Deux sites reprenant la même dépêche Reuters, AP ou AFP ne constituent pas
-deux confirmations indépendantes.** Rechercher autant que possible la source
-originale de l'information.
+**Deux sites reprenant la même dépêche Reuters, AP ou AFP ne comptent pas pour
+deux confirmations indépendantes** : rechercher la source originale.
 
 ## 3. Indice de confiance
 
-Un indice sur 10 par information. Il mesure la solidité des preuves
-disponibles, et non l'importance de la nouvelle.
+Un indice sur 10 par information, qui mesure la solidité des preuves, jamais
+l'importance de la nouvelle.
 
 | Indice | Signification | Typiquement |
 | --- | --- | --- |
@@ -92,45 +61,39 @@ Ne jamais présenter une probabilité subjective comme une mesure scientifique.
 
 ## 4. Décomposer les affirmations
 
-Une même actualité contient plusieurs niveaux de certitude. Préférer la
+Une même actualité contient plusieurs niveaux de certitude ; préférer la
 décomposition à une note unique artificielle. Exemple :
 
 - Une explosion a eu lieu — 9/10
-- Le pays X affirme en être responsable — 10/10 (sur l'existence de la
-  déclaration)
+- Le pays X affirme en être responsable — 10/10 (existence de la déclaration)
 - Le pays X est effectivement responsable — 6/10
 - La motivation supposée de l'attaque — 3/10
 
-Le champ `confidence` du front matter porte alors l'indice du fait central, et
-le corps détaille la décomposition.
+Le champ `confidence` du front matter porte l'indice du fait central ; le
+corps détaille la décomposition.
 
 ## 5. Guerre et géopolitique
 
-Prudence particulière sur : nombre de morts, territoires capturés, destruction
-de matériel, responsabilité d'une attaque, déclarations militaires,
-renseignements, motivations supposées.
-
-Une déclaration gouvernementale est formulée comme telle :
-
-> « Le ministère ukrainien de la Défense affirme que… »
-
-et non « L'Ukraine a détruit… », tant qu'une confirmation indépendante
-suffisante n'existe pas.
+Prudence particulière sur : morts, territoires capturés, destruction de
+matériel, responsabilité d'une attaque, déclarations militaires,
+renseignements, motivations supposées. Une déclaration gouvernementale est
+formulée comme telle (« Le ministère ukrainien de la Défense affirme que… »),
+jamais convertie en fait (« L'Ukraine a détruit… ») sans confirmation
+indépendante suffisante.
 
 ## 6. Politique
 
-Rester neutre. Distinguer systématiquement : fait → déclaration → analyse →
-opinion. Ne pas transformer l'interprétation d'un journaliste ou d'un
+Rester neutre : distinguer systématiquement fait → déclaration → analyse →
+opinion, sans transformer l'interprétation d'un journaliste ou d'un
 responsable politique en fait établi.
 
 ## 7. Fake news et informations virales
 
 Lorsqu'une information importante devient virale mais paraît douteuse, la
-vérifier : source originale, sources primaires, agences de presse,
-fact-checkers reconnus, images ou vidéos originales.
-
-Conclure par un statut explicite, avec les preuves disponibles :
-`CONFIRMÉ`, `PROBABLE`, `INCERTAIN`, `TRÈS PROBABLEMENT FAUX`, `FAUX / RÉFUTÉ`.
+vérifier (source originale, sources primaires, agences de presse,
+fact-checkers reconnus, images ou vidéos originales) et conclure par un statut
+explicite : `CONFIRMÉ`, `PROBABLE`, `INCERTAIN`, `TRÈS PROBABLEMENT FAUX`,
+`FAUX / RÉFUTÉ`.
 
 ## 8. Format d'une alerte horaire
 
@@ -180,16 +143,14 @@ Explication en une ou deux phrases.
 ```
 
 Valeurs de `category` (une seule par alerte, la principale) : `geopolitique`,
-`france`, `europe`, `economie`, `energie`, `tech-ia`, `cybersecurite`, `science`,
-`climat`, `international`, `verification`.
+`france`, `europe`, `economie`, `energie`, `tech-ia`, `cybersecurite`,
+`science`, `climat`, `international`, `verification`.
 
-Les sources ne figurent pas dans le front matter : elles vivent dans la section
-`## Sources` du corps, avec liens directs. En cas d'évolution d'un sujet déjà
-publié, la nouvelle alerte renvoie en clair vers le fichier précédent dans son
-corps.
-
-Ne publier une alerte que si l'information est réellement nouvelle ou constitue
-une évolution importante.
+Les sources ne figurent pas dans le front matter : elles vivent dans la
+section `## Sources` du corps, avec liens directs. En cas d'évolution d'un
+sujet déjà publié, la nouvelle alerte renvoie en clair vers le fichier
+précédent. Ne publier une alerte que si l'information est réellement nouvelle
+ou constitue une évolution importante.
 
 ## 9. Récapitulatif quotidien
 
@@ -198,14 +159,8 @@ Chaque jour à 20 h (heure de Paris), un fichier
 `feed: monde` et `category: briefing`.
 
 8 à 12 informations maximum, classées par importance plutôt que par heure de
-publication. Structure :
-
-- 🌍 Géopolitique
-- 🇫🇷 France / 🇪🇺 Europe
-- 💰 Économie
-- 🤖 Technologie / IA
-- 🔬 Science
-- 🌡️ Climat
+publication : 🌍 Géopolitique, 🇫🇷 France / 🇪🇺 Europe, 💰 Économie,
+🤖 Technologie / IA, 🔬 Science, 🌡️ Climat.
 
 Pour chaque événement : titre — confiance X/10, résumé court, ce qui est
 établi, ce qui reste incertain, sources croisées.
@@ -227,29 +182,25 @@ significativement l'actualité.
 
 ## 11. Publication et flux RSS
 
-- Alertes : `monde/alerts/AAAA/MM/AAAA-MM-JJ-HH-MM-slug.md`
-- Récapitulatifs : `monde/daily/AAAA/MM/AAAA-MM-JJ-brief-monde.md`
+- Alertes : `monde/alerts/AAAA/MM/AAAA-MM-JJ-HH-MM-slug.md` ; récapitulatifs :
+  `monde/daily/AAAA/MM/AAAA-MM-JJ-brief-monde.md`.
 - Le front matter (`title`, `date`, `type`, `feed`, `category`, `confidence`,
   `summary`) alimente `feeds/monde.xml` et `feeds/all.xml`, régénérés
-  automatiquement par GitHub Actions (`scripts/build-feeds.mjs`) à chaque
-  publication. Ne jamais éditer ces fichiers à la main.
-- **Un seul commit par passage**, jamais un commit par alerte : rassembler
-  toutes les alertes du passage, le récapitulatif éventuel et la mise à jour de
-  `state/derniers-sujets.md` dans une écriture unique. En local, `git add` puis
-  un unique `git commit` ; via l'API GitHub, l'API Git tree (`push_files` côté
-  connecteur MCP) et non l'endpoint « contents », qui crée un commit par
-  fichier. Message récapitulatif : `alert: 3 alertes — 19/09 08:00`, ou
-  `daily: brief mondial 2026-09-18`. Jamais de réécriture d'historique ni de
-  push forcé.
+  automatiquement par GitHub Actions (`scripts/build-feeds.mjs`). Ne jamais
+  éditer ces fichiers à la main.
+- **Un seul commit par passage** (règle générale : voir README) : alertes,
+  récapitulatif éventuel et mise à jour de `state/derniers-sujets.md`
+  ensemble, via `push_files`. Message : `alert: 3 alertes — 19/09 08:00`, ou
+  `daily: brief mondial 2026-09-18`.
 - **Ne pas modifier les fichiers existants**, sauf pour corriger une erreur
-  factuelle ou technique clairement identifiée. Toute correction importante est
-  signalée dans le contenu concerné (section `## ✏️ Correction` datée).
+  factuelle ou technique clairement identifiée, signalée par une section
+  `## ✏️ Correction` datée.
 - Le flux RSS suffit au suivi : aucun e-mail ni notification séparée.
 
 ## 12. Anti-doublon
 
-`monde/state/derniers-sujets.md` tient la liste des sujets publiés récemment. Chaque
-passage :
+`monde/state/derniers-sujets.md` tient la liste des sujets publiés récemment.
+Chaque passage :
 
 1. lit ce fichier avant de chercher ;
 2. ne republie pas un sujet qui y figure, sauf évolution significative ;

@@ -1,93 +1,81 @@
 # Flux `presidentielle-2027-factcheck` — consignes de la veille
 
-Ce fichier est la référence opérationnelle du flux `presidentielle-2027-factcheck` :
-les passages automatiques le lisent avant de travailler. Il complète les règles
-générales du dépôt énoncées dans le [README](../README.md) ; en cas d'écart, le
-README fait foi. Il emprunte au flux [`monde`](../monde/CONSIGNES.md) ses règles de
-croisement des sources et de neutralité, et au flux
-[`verification`](../verification/CONSIGNES.md) son fonctionnement : le passage
-écrit des observations, un script décide seul de l'identité des affirmations,
-du dédoublonnage et de la publication.
+Référence opérationnelle du flux, lue par chaque passage automatique.
+Complète les règles générales du [README](../README.md) ; en cas d'écart, le
+README fait foi. Emprunte au flux [`monde`](../monde/CONSIGNES.md) ses règles
+de croisement des sources et de neutralité, et au flux
+[`verification`](../verification/CONSIGNES.md) son fonctionnement : le
+passage écrit des observations, un script décide seul de l'identité des
+affirmations, du dédoublonnage et de la publication.
 
 ## Mission
 
 Vérifier, une par une, les affirmations factuelles vérifiables contenues dans
-les nouvelles déclarations publiques des candidats et des partis engagés dans
-l'élection présidentielle française de 2027. Les résultats sont des fichiers
-Markdown déposés dans ce dépôt, consultables via le flux RSS
+les nouvelles déclarations publiques des candidats et partis engagés dans
+l'élection présidentielle française de 2027, publiées en Markdown et via RSS
 (`feeds/presidentielle-2027-factcheck.xml`).
 
-**Principe fondamental.** Le système ne répond jamais à « quel candidat ment le
-plus ? ». Il répond à : « cette affirmation précise est-elle soutenue par les
+**Principe fondamental.** Le système ne répond jamais à « quel candidat ment
+le plus ? » mais à « cette affirmation précise est-elle soutenue par les
 meilleures preuves disponibles ? ». Chaque verdict doit pouvoir être audité et
 reproduit à partir des sources enregistrées.
 
-Conséquences directes :
-
-- on ne juge pas si une personnalité est « honnête » ou « menteuse » ;
-- aucune note globale n'est attribuée à un candidat, un parti, une idéologie
-  ou un programme — ni dans une entrée, ni dans un bulletin, ni dans un
-  classement, ni dans un décompte par parti ;
-- la précision prime sur la quantité : un passage sans publication est un
-  résultat normal et attendu, pas un échec. Ne jamais inventer une conclusion
-  pour remplir le flux.
+Conséquences : on ne juge pas si une personnalité est « honnête » ou
+« menteuse » ; aucune note globale n'est attribuée à un candidat, un parti,
+une idéologie ou un programme — ni dans une entrée, ni dans un bulletin, ni
+dans un classement, ni dans un décompte par parti ; la précision prime sur la
+quantité — un passage sans publication est normal, pas un échec ; ne jamais
+inventer une conclusion pour remplir le flux.
 
 ## 1. Périmètre
 
-Déclarations émises **directement** par :
-
-- les candidats déclarés à la présidentielle de 2027 ;
-- les candidats potentiels ou pressentis lorsqu'ils participent clairement au
-  débat présidentiel ;
-- les partis qui soutiennent ces candidats, leurs dirigeants et porte-parole
-  s'exprimant au nom du parti ;
-- leurs comptes et communications officielles.
+Déclarations émises **directement** par : les candidats déclarés à la
+présidentielle de 2027 ; les candidats potentiels ou pressentis participant
+clairement au débat présidentiel ; les partis qui les soutiennent, leurs
+dirigeants et porte-parole s'exprimant au nom du parti ; leurs comptes et
+communications officielles.
 
 La liste indicative des acteurs est tenue dans
-[`state/acteurs.md`](state/acteurs.md). Elle n'est ni exhaustive ni figée : un
-passage qui constate une nouvelle candidature, un retrait ou un ralliement la
-met à jour, source à l'appui.
+[`state/acteurs.md`](state/acteurs.md), ni exhaustive ni figée : un passage
+qui constate une nouvelle candidature, un retrait ou un ralliement la met à
+jour, source à l'appui.
 
 ## 2. Où chercher
 
-Déclarations : interviews, discours, débats, conférences de presse, communiqués
-officiels, sites officiels des partis et des candidats, publications officielles
-sur les réseaux sociaux, vidéos ou transcriptions, articles rapportant
-directement une déclaration.
+Déclarations : interviews, discours, débats, conférences de presse,
+communiqués officiels, sites officiels, publications officielles sur les
+réseaux sociaux, vidéos ou transcriptions, articles rapportant directement
+une déclaration.
 
 Vérification : AFP Factuel, Les Décodeurs (Le Monde), CheckNews (Libération),
 Les Vérificateurs (TF1/LCI), Vrai ou Faux (franceinfo), Les Observateurs
 (France 24), fact-checkers européens reconnus (réseau EFCSN/EDMO).
 
 **Un fact-checker n'est jamais une vérité suffisante à lui seul** lorsqu'une
-source primaire ou des données officielles permettent de vérifier directement
-l'affirmation : il sert alors de piste et de recoupement, pas de preuve finale.
+source primaire ou des données officielles permettent de vérifier
+directement l'affirmation : il sert alors de piste et de recoupement, pas de
+preuve finale.
 
 ## 3. Hiérarchie des preuves
 
-Pour chaque affirmation, rechercher autant que possible, dans cet ordre :
-
-1. la source primaire de la déclaration (vidéo, transcription, communiqué,
-   publication officielle) ;
-2. le texte de loi, de règlement ou le document officiel concerné ;
-3. les statistiques officielles (Insee, Dares, DREES, SSMSI, Eurostat, Banque
-   de France, Cour des comptes, etc.) ;
-4. les institutions publiques françaises ou européennes ;
-5. les organismes scientifiques ou académiques reconnus ;
-6. plusieurs médias indépendants ;
-7. les fact-checkers reconnus.
+Rechercher, dans cet ordre : 1) la source primaire de la déclaration (vidéo,
+transcription, communiqué, publication officielle) ; 2) le texte de loi, de
+règlement ou le document officiel concerné ; 3) les statistiques officielles
+(Insee, Dares, DREES, SSMSI, Eurostat, Banque de France, Cour des comptes,
+etc.) ; 4) les institutions publiques françaises ou européennes ; 5) les
+organismes scientifiques ou académiques reconnus ; 6) plusieurs médias
+indépendants ; 7) les fact-checkers reconnus.
 
 La source primaire sert d'abord à établir **ce qui a réellement été dit**. Ne
-pas vérifier une citation uniquement à partir d'un article qui paraphrase les
-propos : sans source primaire consultée, l'observation ne comporte pas de
-`quote` — l'entrée présente alors une paraphrase fidèle et non une citation —
-et le niveau de confiance en tient compte. Le script refuse une `quote` sans
+pas vérifier une citation uniquement à partir d'un article qui la paraphrase :
+sans source primaire consultée, l'observation ne comporte pas de `quote` —
+l'entrée présente alors une paraphrase fidèle et non une citation — et le
+niveau de confiance en tient compte. Le script refuse une `quote` sans
 `statement_url`.
 
 ## 4. Extraction des affirmations
 
-Dans chaque nouvelle déclaration, ne retenir que les propositions réellement
-factuelles et vérifiables.
+Ne retenir que les propositions réellement factuelles et vérifiables.
 
 | Exemple | Traitement |
 | --- | --- |
@@ -112,7 +100,8 @@ entrée = une affirmation.
 
 ## 6. Note de vérité
 
-Note de `0/10` à `10/10`, qui concerne **exclusivement l'affirmation examinée**.
+Note de `0/10` à `10/10`, qui concerne **exclusivement l'affirmation
+examinée**.
 
 | Note | Interprétation indicative | Verdicts habituels |
 | --- | --- | --- |
@@ -124,28 +113,29 @@ Note de `0/10` à `10/10`, qui concerne **exclusivement l'affirmation examinée*
 | 8–9 | largement confirmé | CONFIRMÉ |
 | 10 | directement et solidement confirmé par plusieurs preuves indépendantes | CONFIRMÉ |
 
-Un écart entre verdict et note habituelle est possible, mais il doit être
-justifié dans la section `## Vérification`. Une affirmation `NON VÉRIFIABLE` peut
-ne pas porter de note. Ne jamais présenter cette note comme une mesure
+Un écart entre verdict et note habituelle est possible, mais doit être
+justifié dans la section `## Vérification`. Une affirmation `NON VÉRIFIABLE`
+peut ne pas porter de note. Ne jamais présenter cette note comme une mesure
 scientifique.
 
-La note de vérité (l'affirmation est-elle vraie ?) est distincte du **niveau de
-confiance** `FORT` / `MOYEN` / `FAIBLE` (nos preuves sont-elles solides ?).
+La note de vérité (l'affirmation est-elle vraie ?) est distincte du **niveau
+de confiance** `FORT` / `MOYEN` / `FAIBLE` (nos preuves sont-elles solides ?).
 Justifier brièvement tout niveau autre que `FORT`.
 
 ## 7. « Mensonge » et « affirmation fausse »
 
-Distinction stricte. Une affirmation fausse ne prouve pas que son auteur ment.
-« Mensonge » suppose que l'auteur (1) connaissait la réalité, (2) savait que son
-affirmation était fausse, (3) l'a néanmoins présentée comme vraie.
+Distinction stricte : une affirmation fausse ne prouve pas que son auteur
+ment. « Mensonge » suppose que l'auteur (1) connaissait la réalité, (2)
+savait que son affirmation était fausse, (3) l'a néanmoins présentée comme
+vraie.
 
 - Par défaut : `lie_established` est absent ou `false`, et l'observation
   n'emploie ni « mensonge », ni « menteur », ni « ment » — on écrit faux,
   trompeur, imprécis, non vérifiable. Le script refuse ce vocabulaire.
 - `lie_established: true` uniquement si des éléments fiables et sourcés
-  établissent raisonnablement la connaissance préalable (par exemple : l'auteur
-  a lui-même cité le bon chiffre auparavant, ou a été formellement corrigé par
-  une institution et a répété l'affirmation ensuite). Le script exige alors
+  établissent raisonnablement la connaissance préalable (l'auteur a lui-même
+  cité le bon chiffre auparavant, ou a été formellement corrigé par une
+  institution et a répété l'affirmation ensuite). Le script exige alors
   `prior_knowledge` et `prior_knowledge_sources`, publiés dans une section
   `## Connaissance préalable`.
 - Ne jamais déduire une intention, politique ou autre, de la seule fausseté
@@ -153,17 +143,16 @@ affirmation était fausse, (3) l'a néanmoins présentée comme vraie.
 
 ## 8. Croisement des sources
 
-Une affirmation problématique importante est idéalement vérifiée par au moins
-deux sources indépendantes, mais **la qualité prime sur le nombre** : Insee +
-texte officiel de l'Union européenne pèsent davantage que dix articles
-reprenant la même dépêche. Détecter les sources qui se recopient (même dépêche
-AFP/Reuters, même communiqué) et ne pas les compter comme des confirmations
-distinctes. Ne jamais établir un verdict à partir des seules publications
-partisanes, quel que soit leur camp.
+Idéalement au moins deux sources indépendantes, mais **la qualité prime sur
+le nombre** : Insee + texte officiel de l'Union européenne pèsent davantage
+que dix articles reprenant la même dépêche. Détecter les sources qui se
+recopient (même dépêche AFP/Reuters, même communiqué) et ne pas les compter
+comme des confirmations distinctes. Ne jamais établir un verdict à partir des
+seules publications partisanes, quel que soit leur camp.
 
-Quand une source n'a pas pu être lue directement (page inaccessible), elle est
-citée comme référence, la mention « non lue directement » figure dans l'entrée
-et le niveau de confiance baisse en conséquence.
+Quand une source n'a pas pu être lue directement, elle est citée comme
+référence, la mention « non lue directement » figure dans l'entrée et le
+niveau de confiance baisse en conséquence.
 
 ## 9. Neutralité politique
 
@@ -173,32 +162,26 @@ toutes les autres formations et candidatures.
 
 La sélection d'une affirmation dépend uniquement de sa **nouveauté**, de sa
 **vérifiabilité**, de son **importance** et de la **qualité des preuves**. Ne
-jamais chercher davantage d'erreurs chez un parti parce qu'il en a déjà produit.
-À chaque passage, la recherche de déclarations balaie l'ensemble du spectre (on
-ne s'arrête pas au premier camp qui fournit de la matière) ; les affirmations
-vérifiées `CONFIRMÉ` sont elles aussi enregistrées en fiche, ce qui permet de
-contrôler après coup que la recherche n'était pas orientée.
+jamais chercher davantage d'erreurs chez un parti parce qu'il en a déjà
+produit. À chaque passage, la recherche balaie l'ensemble du spectre ; les
+affirmations vérifiées `CONFIRMÉ` sont elles aussi enregistrées en fiche, ce
+qui permet de contrôler après coup que la recherche n'était pas orientée.
 
 ## 10. Interdits
 
-Ne jamais :
-
-- transformer une opinion en fake news ;
-- tronquer une citation d'une manière qui change son sens ;
-- attribuer à un candidat les propos d'un journaliste (ou la question à
-  laquelle il répond) ;
-- considérer une prédiction comme déjà fausse ;
-- utiliser uniquement des publications partisanes pour établir un verdict ;
-- déduire une intention de tromper sans preuve ;
-- compter plusieurs reprises d'une même dépêche comme plusieurs confirmations ;
-- inventer une URL, une citation ou une source. Une URL citée est une URL
-  réellement rencontrée pendant la recherche.
+Ne jamais : transformer une opinion en fake news ; tronquer une citation
+d'une manière qui change son sens ; attribuer à un candidat les propos d'un
+journaliste (ou la question à laquelle il répond) ; considérer une prédiction
+comme déjà fausse ; utiliser uniquement des publications partisanes pour
+établir un verdict ; déduire une intention de tromper sans preuve ; compter
+plusieurs reprises d'une même dépêche comme plusieurs confirmations ;
+inventer une URL, une citation ou une source — une URL citée est une URL
+réellement rencontrée pendant la recherche.
 
 ## 11. Déroulé d'un passage horaire
 
-1. **Lire** le README, ce fichier, puis `state/affirmations.md` (affirmations
-   déjà vérifiées), le journal `state/declarations-analysees/` (déclarations
-   déjà traitées, un fichier par passage) et `state/acteurs.md` (périmètre).
+1. **Lire** le README, ce fichier, puis `state/affirmations.md`, le journal
+   `state/declarations-analysees/` et `state/acteurs.md`.
 2. **Récupérer les nouvelles déclarations** depuis le précédent passage, sur
    l'ensemble du spectre politique.
 3. **Éliminer** celles qui figurent déjà dans
@@ -212,10 +195,11 @@ Ne jamais :
 8. **Enregistrer** : écrire les observations (§ 12) et les passer à
    `scripts/factcheck-record.mjs`, **qui décide seul** de l'identité des
    affirmations, du dédoublonnage, des reprises et de la publication (§ 13) ;
-   puis consigner les déclarations traitées dans le fichier de passage
+   puis consigner les déclarations traitées dans
    `state/declarations-analysees/AAAA-MM-JJ/HH-MM.md` (§ 13).
-9. **RSS** : `feeds/presidentielle-2027-factcheck.xml` et `feeds/all.xml` sont
-   produits par `scripts/build-feeds.mjs`. Ne jamais les éditer à la main.
+9. **RSS** : `feeds/presidentielle-2027-factcheck.xml` et `feeds/all.xml`
+   sont produits par `scripts/build-feeds.mjs`. Ne jamais les éditer à la
+   main.
 10. **Committer en une seule fois** l'intégralité du passage (§ 16).
 
 Une affirmation déjà vérifiée et répétée est tout de même soumise au script,
@@ -223,9 +207,9 @@ avec son `id` : c'est ainsi que sa diffusion est mesurée. Elle n'est jamais
 republiée.
 
 **Ne jamais écrire à la main dans `claims/`, `alerts/`, `daily/` ni dans
-`state/affirmations.md`.** Ces fichiers sont produits par le script ; les
-éditer à la main casse la déduplication et la traçabilité des corrections.
-Le journal `state/declarations-analysees/` et `state/acteurs.md`, eux, sont
+`state/affirmations.md`** : ces fichiers sont produits par le script, et les
+éditer à la main casse la déduplication et la traçabilité des corrections. Le
+journal `state/declarations-analysees/` et `state/acteurs.md`, eux, sont
 tenus par le passage.
 
 S'il n'existe aucune nouvelle affirmation problématique suffisamment
@@ -234,8 +218,8 @@ documentée : ne rien publier. En cas de preuves insuffisantes :
 
 ## 12. Format des observations
 
-Le passage écrit un tableau JSON dans `.veille-tmp/observations.json` (fichier
-de travail, jamais commité). Un objet par affirmation :
+Le passage écrit un tableau JSON dans `.veille-tmp/observations.json`
+(fichier de travail, jamais commité). Un objet par affirmation :
 
 ```json
 [
@@ -274,13 +258,14 @@ Champs obligatoires : `author`, `party`, `statement_date`, `claim`
 `NON VÉRIFIABLE`), `confidence_level`, `summary`, `decisive`, `sources`.
 
 - `id` : à fournir pour toute affirmation déjà présente dans
-  `state/affirmations.md` (reprise ou correction). Sinon l'omettre : le script
-  apparie l'affirmation — empreinte exacte, puis similarité de formulation,
-  sans jamais fusionner deux énoncés contradictoires ou chiffrés différemment —
-  ou crée une fiche `PRES27-AAAAMMJJ-NNN`, datée du jour de première détection.
-- `claim` : l'affirmation elle-même, **sans l'auteur**. C'est elle qui fonde
-  l'identité : la même affirmation reprise par un autre candidat ou un autre
-  parti rejoint la même fiche.
+  `state/affirmations.md` (reprise ou correction). Sinon l'omettre : le
+  script apparie l'affirmation — empreinte exacte, puis similarité de
+  formulation, sans jamais fusionner deux énoncés contradictoires ou
+  chiffrés différemment — ou crée une fiche `PRES27-AAAAMMJJ-NNN`, datée du
+  jour de première détection.
+- `claim` : l'affirmation elle-même, **sans l'auteur** — c'est elle qui fonde
+  l'identité : la même affirmation reprise par un autre candidat ou parti
+  rejoint la même fiche.
 - `quote` : uniquement si la source primaire a été consultée ; exige
   `statement_url`. Ne jamais tronquer d'une manière qui change le sens.
 - `topic` : une valeur parmi `economie`, `emploi`, `finances-publiques`,
@@ -329,22 +314,22 @@ nouvelle fake news. Chaque fiche conserve `first_seen`, `last_seen`,
 URL), d'où se déduit « reprise par ». Ces compteurs mesurent la diffusion
 d'une affirmation ; ils ne sont **jamais** agrégés par candidat ou par parti.
 
-`state/declarations-analysees/` est le journal des déclarations déjà traitées,
-y compris celles qui n'ont rien donné (opinions, affirmations confirmées, rien
-de vérifiable). **Chaque passage y écrit un fichier neuf et ne réécrit jamais
-un fichier existant** : `state/declarations-analysees/AAAA-MM-JJ/HH-MM.md`, où
-`AAAA-MM-JJ` et `HH-MM` sont la date et l'heure de Paris du passage. Le fichier
-s'ouvre par `# Passage du AAAA-MM-JJ, HH h MM`, puis porte une ligne par
-déclaration traitée, la date étant celle de la déclaration :
-`- AAAA-MM-JJ — Auteur (Parti) — contexte — URL — résultat`. Un passage qui n'a
-rien trouvé écrit tout de même son fichier, avec sa ligne de balayage.
+`state/declarations-analysees/` est le journal des déclarations déjà
+traitées, y compris celles qui n'ont rien donné. **Chaque passage y écrit un
+fichier neuf et ne réécrit jamais un fichier existant** :
+`state/declarations-analysees/AAAA-MM-JJ/HH-MM.md`, date et heure de Paris du
+passage. Le fichier s'ouvre par `# Passage du AAAA-MM-JJ, HH h MM`, puis
+porte une ligne par déclaration traitée, la date étant celle de la
+déclaration : `- AAAA-MM-JJ — Auteur (Parti) — contexte — URL — résultat`. Un
+passage qui n'a rien trouvé écrit tout de même son fichier, avec sa ligne de
+balayage.
 
-Cette découpe existe pour que le journal reste écrivable. L'API GitHub ne met à
-jour un fichier qu'en le renvoyant en entier : un journal unique finissait par
-peser des dizaines de kilo-octets qu'un passage ne pouvait plus réécrire sans
-risque de le tronquer. Un fichier par passage ne dépasse pas quelques
-kilo-octets et n'est plus jamais touché. Élaguer en supprimant les dossiers de
-jour vieux de plus de 30 jours, jamais en réécrivant un fichier de passage.
+Cette découpe existe pour que le journal reste écrivable : l'API GitHub ne
+met à jour un fichier qu'en le renvoyant en entier, et un journal unique
+finissait par peser trop pour être réécrit sans risque de troncature. Un
+fichier par passage ne dépasse pas quelques kilo-octets et n'est plus jamais
+touché. Élaguer en supprimant les dossiers de jour vieux de plus de 30 jours,
+jamais en réécrivant un fichier de passage.
 
 `state/declarations-analysees.md` est l'archive des passages antérieurs au
 2026-09-20 : elle se lit, ne se modifie plus, et se supprime en bloc une fois
@@ -352,8 +337,9 @@ toutes ses lignes vieilles de plus de 30 jours.
 
 ## 14. Bulletin du jour
 
-Chaque passage qui publie au moins une nouvelle entrée régénère le bulletin du
-jour, `daily/AAAA/MM/AAAA-MM-JJ-factcheck.md`, avec une section par passage :
+Chaque passage qui publie au moins une nouvelle entrée régénère le bulletin
+du jour, `daily/AAAA/MM/AAAA-MM-JJ-factcheck.md`, avec une section par
+passage :
 
 ```markdown
 ## Mensonges / affirmations fausses ou trompeuses dans les nouvelles déclarations — passage de 10 h 47
@@ -363,17 +349,18 @@ jour, `daily/AAAA/MM/AAAA-MM-JJ-factcheck.md`, avec une section par passage :
 
 N'y figurent que les nouveaux éléments `FAUX`, `TRÈS PROBABLEMENT FAUX`,
 `TROMPEUR`, et `IMPRÉCIS` lorsque l'erreur est substantielle. Les opinions et
-désaccords politiques en sont exclus. Le mot « mensonges » du titre de section
-ne qualifie aucune entrée : seule une entrée `lie_established` y est signalée
-comme telle. Ni total, ni classement par candidat ou par parti. Pas de
-bulletin les jours sans publication. Le compte rendu final de chaque passage
-reprend cette même section, ou indique qu'il n'y avait rien à publier.
+désaccords politiques en sont exclus. Le mot « mensonges » du titre de
+section ne qualifie aucune entrée : seule une entrée `lie_established` y est
+signalée comme telle. Ni total, ni classement par candidat ou par parti. Pas
+de bulletin les jours sans publication. Le compte rendu final de chaque
+passage reprend cette même section, ou indique qu'il n'y avait rien à
+publier.
 
 ## 15. Corrections
 
-Un verdict publié peut évoluer. Si de nouvelles preuves montrent qu'un verdict
-était incorrect, **ne jamais supprimer ni réécrire l'entrée d'origine** :
-soumettre l'affirmation avec son `id`, le nouveau `verdict`, et les champs
+Un verdict publié peut évoluer. Si de nouvelles preuves montrent qu'il était
+incorrect, **ne jamais supprimer ni réécrire l'entrée d'origine** : soumettre
+l'affirmation avec son `id`, le nouveau `verdict`, et les champs
 `correction_reason` et `new_evidence` (le script refuse une correction qui
 n'explique pas pourquoi). Le script publie alors une entrée
 `type: correction` indiquant l'ancien verdict, le nouveau verdict, les
@@ -397,13 +384,11 @@ presidentielle-2027-factcheck/
 ```
 
 - **Un seul commit par passage**, jamais un commit par affirmation ou par
-  fichier. Le passage est validé en entier par le script : fiches `claims/`,
-  entrées `alerts/`, bulletin `daily/` et fichiers `state/` partent donc
-  ensemble, dans une écriture unique. En local, `git add` puis un unique
-  `git commit` ; via l'API GitHub, l'API Git tree (`push_files` côté
-  connecteur MCP) et non l'endpoint « contents », qui crée un commit par
-  fichier. Un index ou un journal de déclarations séparé des entrées qu'il
-  enregistre casserait la déduplication et la traçabilité.
+  fichier (règle générale : voir README). Le passage est validé en entier par
+  le script : fiches `claims/`, entrées `alerts/`, bulletin `daily/` et
+  fichiers `state/` partent ensemble, via `push_files` — un index ou un
+  journal séparé des entrées qu'il enregistre casserait la déduplication et
+  la traçabilité.
 - Messages de commit : `factcheck: …` pour un passage — par exemple
   `factcheck: 1 affirmation publiée, 2 reprises enregistrées` —, et
   `correction: …` pour une correction.
