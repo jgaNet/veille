@@ -12,6 +12,7 @@ Une échéance est signalée une fois lorsqu'elle approche, si elle le mérite,
 puis retirée une fois passée. 40 lignes au plus, classées par date croissante.
 Format : `- AAAA-MM-JJ — échéance — [nature] — état (confirmé / projet / reporté) — source officielle — chemin de l'alerte`
 
+- 2026-10-12 — 65ᵉ session plénière du GIEC (IPCC-65), Centre de conférence des Nations Unies (siège de la CEA), Addis-Abeba (Éthiopie), jusqu'au 16 octobre — [politique] — confirmé — lettre officielle du secrétariat du GIEC (Ko Barrett, secrétaire par intérim), diffusée via l'extranet de l'OMM : https://extranet.wmo.int/edistrib_exped/grp_prs/_en/IPCC%20Copy%20letters/IPCC%20-%20Copy%20Letter%205220-26-IPCC-P65.pdf (relevé le 2026-09-29) —
 - 2026-10-12 — Conseil « Environnement » de l'UE, Luxembourg (ordre du jour non publié : « agenda highlights (a week before the meeting date) ») — [politique] — confirmé — https://www.consilium.europa.eu/en/meetings/env/2026/10/12/ (relevé le 2026-09-21) —
 - 2026-10-19 — COP17 de la Convention sur la diversité biologique, avec CP-MOP-12 (Carthagène) et NP-MOP-6 (Nagoya), Erevan (Arménie), jusqu'au 30 octobre — [politique] — confirmé — https://www.cbd.int/meetings (calendrier mis à jour le 16 sept. 2026, relevé le 2026-09-20) —
 - 2026-11-02 — 38ᵉ réunion des Parties au protocole de Montréal (MOP38), Kigali (Rwanda), jusqu'au 6 novembre — [politique] — confirmé — https://ozone.unep.org/meetings (relevé le 2026-09-20) —
@@ -133,7 +134,23 @@ Barbut (PNACC 3, financement de l'adaptation) toujours annoncé pour le 30
 septembre par la seule presse spécialisée, site du ministère toujours
 illisible ; PLF 2027 toujours sans date officielle lue. Aucune autre
 publication nouvelle relevée sur les sites de l'OMM, de la CCNUCC, du PNUE,
-de Copernicus, de l'AEE ni du Citepa._
+de Copernicus, de l'AEE ni du Citepa._ Passage du 2026-09-29 à 20 h (brief) :
+**date de la 65ᵉ session plénière du GIEC confirmée** par une lettre officielle
+du secrétariat (Ko Barrett, secrétaire par intérim), diffusée via l'extranet de
+l'OMM : 12-16 octobre 2026, Addis-Abeba — ligne ajoutée à la liste des
+échéances ci-dessus, à retirer une fois la session passée. Rapport Barbut
+(PNACC 3, financement de l'adaptation) toujours annoncé pour le 30 septembre
+par la seule presse spécialisée (*Actu-Environnement*, *Banque des
+Territoires*, LCP), site du ministère toujours illisible, donc toujours non
+inscrit comme échéance confirmée — à vérifier au prochain passage suivant le
+30 septembre. PLF 2027 : toujours aucune date officielle lue sur
+budget.gouv.fr (page consultée illisible) ; seule la presse évoque « le
+premier mardi d'octobre », qui correspondrait au 6 octobre 2026 selon la
+règle organique habituelle, non vérifiée à une source officielle. INC-5.4
+(traité plastiques) : toujours aucune date sur le site du PNUE. Mise à jour
+hebdomadaire ENSO de la NOAA lue et à jour au 28 sept. (voir reperes.md).
+Aucune autre publication nouvelle relevée sur les sites de l'OMM, de la
+CCNUCC, du PNUE, de Copernicus, de l'AEE, du Citepa ni de l'UICN._
 
 ## À réévaluer
 
