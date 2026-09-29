@@ -9,6 +9,8 @@ auteur ou par un autre, s'enregistre en réutilisant son `id`. Les fiches
 complètes vivent dans `presidentielle-2027-factcheck/claims/` et ne sont jamais supprimées. Cet
 index n'est pas élagué et n'est jamais agrégé par candidat ou par parti.
 
+- PRES27-20260929-002 | IMPRÉCIS | 7/10 | Édouard Philippe (Horizons) | 1 | 2026-09-29 | En 1983, l'âge légal de départ à la retraite en France était de 65 ans, et l'espérance de vie moyenne des Français est aujourd'hui supérieure d'environ huit ans à ce qu'elle était à cette époque.
+- PRES27-20260929-001 | CONFIRMÉ | 8/10 | Jordan Bardella (Rassemblement national) | 1 | 2026-09-28 | Jordan Bardella a été reçu par le gouvernement israélien en 2025, dans le cadre de la lutte contre l'antisémitisme.
 - PRES27-20260926-002 | IMPRÉCIS | 6/10 | La France insoumise (La France insoumise) | 1 | 2026-09-25 | Le nombre de candidats sans proposition sur Parcoursup est passé de 77 000 en 2023 à 103 582 en 2025, soit une hausse de 64,5 % en trois ans.
 - PRES27-20260926-001 | TROMPEUR | 4/10 | La France insoumise (La France insoumise) | 1 | 2026-09-25 | À la rentrée 2026, 126 652 élèves, soit un élève sur huit, se retrouvent exclus de l'enseignement supérieur à cause de Parcoursup.
 - PRES27-20260926-004 | CONFIRMÉ | 8/10 | Jean-Paul Garraud (Rassemblement national) | 1 | 2026-09-24 | L'Espagne a temporairement abaissé la TVA sur les carburants de 21 % à 10 % et la Commission européenne a contesté cette décision.
