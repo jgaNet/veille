@@ -164,7 +164,20 @@ l'outil ce jour (page en chargement dynamique), donc surface brûlée de l'UE
 non revérifiée. INC-5.4 (traité plastiques) : toujours aucune date sur le
 site du PNUE. Aucune autre publication nouvelle relevée sur les sites de
 l'OMM, de la CCNUCC, du PNUE, de Copernicus, de l'AEE, du Citepa ni de
-l'UICN._
+l'UICN._ Passage du 2026-10-01 à 20 h (brief) : **PLF 2027 présenté en
+conseil des ministres et déposé à l'Assemblée nationale ce jour**, confirmé
+par le dossier législatif officiel de l'AN
+(https://www.assemblee-nationale.fr/dyn/budget-et-securite-sociale/les-lois-de-finances-depuis-1998/projet-de-loi-de-finances-pour-2027)
+et par deux sources de presse indépendantes (CNews, Franceinfo) datées de ce
+jour — item « date de dépôt du PLF non confirmée » retiré de ce suivi, le
+contenu budgétaire précis de la mission Écologie étant repris en « À
+réévaluer » ci-dessous faute de lecture d'une source primaire aujourd'hui
+(site du ministère de la Transition écologique inaccessible à l'outil).
+Restriction PFAS (ECHA) non revérifiée ce jour ; portail EFFIS non retenté ;
+calendrier de l'IPBES toujours en erreur 403 ; aucune date nouvelle pour
+INC-5.4 sur le site du PNUE. Aucune autre publication nouvelle relevée sur
+les sites de l'OMM, de la CCNUCC, du PNUE, de Copernicus, de l'AEE, du
+Citepa ni de l'UICN._
 
 ## À réévaluer
 
@@ -184,3 +197,4 @@ Format : `- AAAA-MM-JJ — affirmation (auteur) — note actuelle X/10 — ce qu
 - 2026-09-26 — projection : 451 000 décès supplémentaires liés à la chaleur entre juin 2026 et février 2027 du fait d'El Niño (Climate Impact Lab, note du 23 sept., non relue, sans intervalle ; répartition contestée par A. Deoras, Reading) — note actuelle 4/10 — publication relue de la méthode, mises à jour annoncées par les auteurs, estimations de surmortalité a posteriori (Lancet Countdown, instituts nationaux) pour 2026-2027, comparaison avec 2015-2016 — ecologie/daily/2026/09/2026-09-26-brief-ecologie.md
 - 2026-09-26 — déclaration de l'AGNU sur l'élévation du niveau de la mer (24 sept.) : texte adopté non lu (page ONU non mise à jour, communiqué illisible) ; formulations exactes sur la continuité des États et les lignes de base non vérifiées ; aucune objection d'État lue — note actuelle 8/10 (existence et grandes lignes) — lecture du texte final (document A/81/L.x), compte rendu de séance (explications de vote ou de position), analyses juridiques (Sabin Center, Columbia Climate Law Blog). Mis à jour le 27 sept. : deux lectures indépendantes supplémentaires (IISD/SDG Knowledge Hub, Climate Home News) confirment l'adoption par consensus à l'issue d'une procédure d'approbation tacite, la présomption de continuité de la statalité appuyée sur les avis du TIDM (2024) et de la CIJ et les travaux de la CDI, et le caractère non contraignant ; toujours aucune objection d'État relevée ; texte officiel toujours non lu — note inchangée 8/10 — ecologie/daily/2026/09/2026-09-26-brief-ecologie.md ; ecologie/daily/2026/09/2026-09-27-brief-ecologie.md
 - 2026-09-30 — plan Barbut pour l'adaptation au changement climatique (PNACC 3) : besoin de financement chiffré à ~10 Md€/an par l'I4CE (indépendant), piste Livret A déjà rejetée par les banques, aucune ligne budgétaire arbitrée (presse indépendante : AFP/Boursorama, Orange Actu, Journal du Net) — note actuelle 3/10 — passage du plan dans le PLF 2027 (ou non), communiqué officiel du ministère, avis du Haut Conseil pour le climat — ecologie/daily/2026/09/2026-09-30-brief-ecologie.md
+- 2026-10-01 — budget de la mission Écologie dans le PLF 2027 déposé ce jour (fonds vert, financement du plan Barbut / PNACC 3) — contenu non lu à une source primaire, non noté — ce qui la ferait bouger : lecture du bleu budgétaire de la mission Écologie, communiqué officiel du ministère de la Transition écologique, rapports des rapporteurs spéciaux (Assemblée nationale, Sénat) — ecologie/daily/2026/10/2026-10-01-brief-ecologie.md
