@@ -9,6 +9,7 @@ auteur ou par un autre, s'enregistre en réutilisant son `id`. Les fiches
 complètes vivent dans `presidentielle-2027-factcheck/claims/` et ne sont jamais supprimées. Cet
 index n'est pas élagué et n'est jamais agrégé par candidat ou par parti.
 
+- PRES27-20261002-001 | CONFIRMÉ | 8/10 | Marine Le Pen (Rassemblement national) | 1 | 2026-10-01 | En 2026, la dette publique française atteint 119,3 % du PIB, selon les prévisions budgétaires du gouvernement.
 - PRES27-20260929-002 | IMPRÉCIS | 7/10 | Édouard Philippe (Horizons) | 1 | 2026-09-29 | En 1983, l'âge légal de départ à la retraite en France était de 65 ans, et l'espérance de vie moyenne des Français est aujourd'hui supérieure d'environ huit ans à ce qu'elle était à cette époque.
 - PRES27-20260929-001 | CONFIRMÉ | 8/10 | Jordan Bardella (Rassemblement national) | 1 | 2026-09-28 | Jordan Bardella a été reçu par le gouvernement israélien en 2025, dans le cadre de la lutte contre l'antisémitisme.
 - PRES27-20260926-002 | IMPRÉCIS | 6/10 | La France insoumise (La France insoumise) | 1 | 2026-09-25 | Le nombre de candidats sans proposition sur Parcoursup est passé de 77 000 en 2023 à 103 582 en 2025, soit une hausse de 64,5 % en trois ans.
