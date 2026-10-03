@@ -15,7 +15,7 @@ Format d'une ligne du tableau :
 
 | Indicateur | Valeur | Période | Source | Lien | Relevé le |
 | --- | --- | --- | --- | --- | --- |
-| CO₂ atmosphérique, moyenne mensuelle (Mauna Loa) | 427,55 ppm (août 2025 : 425,48 ppm) | août 2026 | NOAA GML, *Trends in CO₂* (page toujours mise à jour le 5 sept. 2026, revérifiée sans changement le 30 sept.) | https://gml.noaa.gov/ccgg/trends/ | 2026-09-30 |
+| CO₂ atmosphérique, moyenne mensuelle (Mauna Loa) | 427,55 ppm (août 2025 : 425,48 ppm) | août 2026 | NOAA GML, *Trends in CO₂* (page toujours mise à jour le 5 sept. 2026, revérifiée sans changement les 30 sept. et 3 oct.) | https://gml.noaa.gov/ccgg/trends/ | 2026-10-03 |
 | CO₂ atmosphérique, moyenne annuelle mondiale | moyenne annuelle non relevée (le fichier annuel NOAA n'a été servi que dans une version de juillet 2024 s'arrêtant à 2023 : 419,31 ± 0,15 ppm). Lus à la place : moyenne mensuelle mondiale 427,62 ppm en juin 2026 (juin 2025 : 425,90 ppm) ; croissance annuelle 2,06 ± 0,08 ppm/an en 2025, 3,76 ± 0,11 en 2024, 2,70 ± 0,13 en 2023 | juin 2026 ; 2023-2025 | NOAA GML, moyenne de surface marine mondiale (pages mises à jour les 5 et 8 sept. 2026) | https://gml.noaa.gov/ccgg/trends/global.html ; https://gml.noaa.gov/ccgg/trends/gl_gr.html | 2026-09-20 |
 | Méthane atmosphérique, moyenne mondiale | 1 939,44 ppb (mai 2025 : 1 933,18 ppb) ; croissance annuelle 2025 : 5,14 ppb | mai 2026 | NOAA GML, *Trends in CH₄* (page mise à jour le 5 sept. 2026) | https://gml.noaa.gov/ccgg/trends_ch4/ | 2026-09-20 |
 | Anomalie de température mondiale, dernière année complète (réf. 1850-1900) | ERA5 : +1,47 °C (14,97 °C ; +0,59 °C par rapport à 1991-2020), 3ᵉ année la plus chaude, 0,01 °C sous 2023 et 0,13 °C sous 2024 ; moyenne 2023-2025 supérieure à 1,5 °C. OMM : « about 1.43 ± 0.13 °C », 2ᵉ ou 3ᵉ année selon le jeu de données. Rappel : une ou trois années ne valent pas franchissement de la limite de l'accord de Paris (moyenne sur ~20 ans) | 2025 | Copernicus C3S (ERA5), 14 janv. 2026 ; OMM, *State of the Global Climate 2025*, 23 mars 2026 | https://climate.copernicus.eu/copernicus-2025-was-third-hottest-year-record ; https://wmo.int/news/media-centre/earths-climate-swings-increasingly-out-of-balance | 2026-09-20 |
@@ -94,3 +94,10 @@ passage :
   France » ajoutée ci-dessus. Le chiffre de « près de 6 mm » d'élévation du
   niveau de la mer en 2024 cité par UN News (24 sept.) n'a pas été relu dans
   un rapport de l'OMM : non inscrit.
+- Passage du 2026-10-03 : portail EFFIS de nouveau illisible à l'outil (page
+  en chargement dynamique), valeur inchangée depuis le 28 sept. (678 978 ha
+  au 23 sept., JRC) retenue sans nouvelle lecture ; bulletin BRGM du 1er
+  octobre toujours non paru (dernier bulletin disponible : 1er septembre,
+  publié le 8 sept.) ; bulletin climatique Copernicus de septembre 2026 non
+  encore publié (dernier disponible : août, 10 sept.) ; bilan climatique de
+  septembre 2026 de Météo-France non encore publié.
