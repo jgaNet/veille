@@ -196,7 +196,22 @@ toujours aucune date sur le site du PNUE (dernière mise à jour de la page :
 9 sept. 2026). Aucune analyse NSIDC dédiée au maximum antarctique 2026
 publiée (dernière analyse listée : 23 sept. 2026). Aucune autre publication
 nouvelle relevée sur les sites de l'OMM, de la CCNUCC, du PNUE, de
-Copernicus, de l'AEE, du Citepa ni de l'UICN._
+Copernicus, de l'AEE, du Citepa ni de l'UICN._ Passage du 2026-10-03 (brief) :
+aucune date officielle nouvelle. Budget de la mission Écologie dans le PLF
+2027 : toujours non lu à une source primaire (site du ministère inaccessible,
+dossier budgétaire de l'AN sans bleus par mission consultables aujourd'hui).
+Restriction PFAS (ECHA) : page officielle revérifiée, toujours un projet
+d'avis du SEAC en consultation sans date de clôture ; une source secondaire
+(European Rubber Journal) affirme une conclusion du SEAC dès le 11 mars 2026,
+en contradiction avec la page officielle de l'ECHA — écart non résolu, aucune
+date retenue. INC-5.4 (traité plastiques) : toujours aucune date sur le site
+du PNUE. Calendrier IPBES : page toujours inaccessible à l'outil (erreur
+403). Dates de publication du Global Carbon Budget 2026 et de l'Emissions Gap
+Report 2026 du PNUE : toujours non trouvées. Bulletin climatique Copernicus
+de septembre 2026 et bilan climatique de septembre 2026 de Météo-France :
+non encore publiés. Aucune autre publication nouvelle relevée sur les sites
+de l'OMM, de la CCNUCC, du PNUE, de Copernicus, de l'AEE, du Citepa ni de
+l'UICN._
 
 ## À réévaluer
 
