@@ -9,6 +9,8 @@ auteur ou par un autre, s'enregistre en réutilisant son `id`. Les fiches
 complètes vivent dans `presidentielle-2027-factcheck/claims/` et ne sont jamais supprimées. Cet
 index n'est pas élagué et n'est jamais agrégé par candidat ou par parti.
 
+- PRES27-20261005-001 | CONFIRMÉ | 9/10 | Emmanuel Maurel (Gauche républicaine et socialiste) | 1 | 2026-10-04 | 34 % des familles monoparentales vivent sous le seuil de pauvreté.
+- PRES27-20260919-017 | CONFIRMÉ | 8/10 | Parti communiste français (Parti communiste français) | 2 | 2026-10-02 | Les aides publiques aux entreprises en France représentent 211 milliards d'euros par an.
 - PRES27-20261002-001 | CONFIRMÉ | 8/10 | Marine Le Pen (Rassemblement national) | 1 | 2026-10-01 | En 2026, la dette publique française atteint 119,3 % du PIB, selon les prévisions budgétaires du gouvernement.
 - PRES27-20260929-002 | IMPRÉCIS | 7/10 | Édouard Philippe (Horizons) | 1 | 2026-09-29 | En 1983, l'âge légal de départ à la retraite en France était de 65 ans, et l'espérance de vie moyenne des Français est aujourd'hui supérieure d'environ huit ans à ce qu'elle était à cette époque.
 - PRES27-20260929-001 | CONFIRMÉ | 8/10 | Jordan Bardella (Rassemblement national) | 1 | 2026-09-28 | Jordan Bardella a été reçu par le gouvernement israélien en 2025, dans le cadre de la lutte contre l'antisémitisme.
@@ -38,7 +40,6 @@ index n'est pas élagué et n'est jamais agrégé par candidat ou par parti.
 - PRES27-20260920-007 | IMPRÉCIS | 7/10 | Parti communiste français (Parti communiste français) | 1 | 2026-09-18 | Dans le budget 2027, le budget militaire augmenterait de 6,4 milliards d'euros.
 - PRES27-20260920-005 | CONFIRMÉ | 8/10 | Parti communiste français (Parti communiste français) | 1 | 2026-09-18 | Le chiffre d'affaires de l'armement des entreprises européennes a atteint 151 milliards en 2024.
 - PRES27-20260920-004 | CONFIRMÉ | 8/10 | Parti communiste français (Parti communiste français) | 1 | 2026-09-18 | Le chiffre d'affaires de l'armement des entreprises des États-Unis a atteint 334 milliards en 2024.
-- PRES27-20260919-017 | CONFIRMÉ | 8/10 | Parti communiste français (Parti communiste français) | 1 | 2026-09-18 | Les aides publiques aux entreprises en France représentent 211 milliards d'euros par an.
 - PRES27-20260919-016 | CONFIRMÉ | 9/10 | Parti communiste français (Parti communiste français) | 1 | 2026-09-18 | Les plus grandes entreprises françaises ont versé 61 milliards d'euros de dividendes à leurs actionnaires au deuxième trimestre 2026, le montant le plus élevé d'Europe.
 - PRES27-20260919-014 | IMPRÉCIS | 6/10 | Jordan Bardella (Rassemblement national) | 1 | 2026-09-18 | Abaisser la TVA sur les carburants de 20 % à 5,5 % et annuler les hausses de taxes sur les carburants décidées en 2018 ferait économiser une vingtaine d'euros sur un plein de 40 litres.
 - PRES27-20260919-008 | TROMPEUR | 3/10 | Nicolas Dupont-Aignan (Debout la France) | 1 | 2026-09-18 | Il est le seul candidat à l'élection présidentielle de 2027 à proposer la sortie de la France de l'Union européenne.
