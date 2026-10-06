@@ -9,6 +9,7 @@ auteur ou par un autre, s'enregistre en réutilisant son `id`. Les fiches
 complètes vivent dans `presidentielle-2027-factcheck/claims/` et ne sont jamais supprimées. Cet
 index n'est pas élagué et n'est jamais agrégé par candidat ou par parti.
 
+- PRES27-20261006-001 | IMPRÉCIS | 7/10 | Jean-Luc Mélenchon (La France insoumise) | 1 | 2026-10-05 | Le lundi 5 octobre 2026, 400 lycées étaient perturbés par le mouvement lycéen en cours en France.
 - PRES27-20261005-001 | CONFIRMÉ | 9/10 | Emmanuel Maurel (Gauche républicaine et socialiste) | 1 | 2026-10-04 | 34 % des familles monoparentales vivent sous le seuil de pauvreté.
 - PRES27-20260919-017 | CONFIRMÉ | 8/10 | Parti communiste français (Parti communiste français) | 2 | 2026-10-02 | Les aides publiques aux entreprises en France représentent 211 milliards d'euros par an.
 - PRES27-20261002-001 | CONFIRMÉ | 8/10 | Marine Le Pen (Rassemblement national) | 1 | 2026-10-01 | En 2026, la dette publique française atteint 119,3 % du PIB, selon les prévisions budgétaires du gouvernement.
