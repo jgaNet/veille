@@ -9,6 +9,7 @@ auteur ou par un autre, s'enregistre en réutilisant son `id`. Les fiches
 complètes vivent dans `presidentielle-2027-factcheck/claims/` et ne sont jamais supprimées. Cet
 index n'est pas élagué et n'est jamais agrégé par candidat ou par parti.
 
+- PRES27-20261007-001 | CONFIRMÉ | 8/10 | Marine Le Pen (Rassemblement national) | 1 | 2026-10-06 | La dette publique française atteindra 121 % du PIB en 2027.
 - PRES27-20261006-001 | IMPRÉCIS | 7/10 | Jean-Luc Mélenchon (La France insoumise) | 1 | 2026-10-05 | Le lundi 5 octobre 2026, 400 lycées étaient perturbés par le mouvement lycéen en cours en France.
 - PRES27-20261005-001 | CONFIRMÉ | 9/10 | Emmanuel Maurel (Gauche républicaine et socialiste) | 1 | 2026-10-04 | 34 % des familles monoparentales vivent sous le seuil de pauvreté.
 - PRES27-20260919-017 | CONFIRMÉ | 8/10 | Parti communiste français (Parti communiste français) | 2 | 2026-10-02 | Les aides publiques aux entreprises en France représentent 211 milliards d'euros par an.
@@ -63,3 +64,4 @@ index n'est pas élagué et n'est jamais agrégé par candidat ou par parti.
 - PRES27-20260920-003 | CONFIRMÉ | 9/10 | La France insoumise (La France insoumise) | 1 | 2026-09-11 | Une pétition déposée sur la plateforme de l'Assemblée nationale contre la présomption de légitime défense pour les forces de l'ordre a réuni plus de 730 000 signatures et a été classée par la commission des Lois sans débat en séance publique.
 - PRES27-20260920-002 | TROMPEUR | 4/10 | La France insoumise (La France insoumise) | 1 | 2026-09-11 | Le texte sur la présomption d'usage légitime de l'arme par les forces de l'ordre est une loi désormais en vigueur, qui rend légaux les tirs des policiers et des gendarmes, même mortels, et inverse la charge de la preuve.
 - PRES27-20260919-003 | IMPRÉCIS | 6/10 | Jordan Bardella (Rassemblement national) | 1 | 2026-09-11 | Édouard Philippe et Gabriel Attal ont augmenté en 2018 la fiscalité sur l'essence et les carburants.
+- PRES27-20261007-002 | IMPRÉCIS | 6/10 | Jean-Luc Mélenchon (La France insoumise) | 1 | 2026-09-05 | 18 % de la dette publique française est détenue par la Banque de France pour le compte de la BCE (Eurosystème).
