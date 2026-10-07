@@ -3,6 +3,7 @@
 Mémoire anti-doublon. Les lignes de plus de 30 jours sont élaguées à chaque passage.
 Format : `- AAAA-MM-JJ HH:MM — [nature] sujet — chemin`
 
+- 2026-10-07 20:15 — [marche] NIS 2 : séance publique du 7 octobre retirée de l'ordre du jour par la conférence des présidents (6 octobre 2026) ; calendrier chargé et blocage évoqué sur l'article 16 bis (chiffrement) ; aucune nouvelle date, réinscription espérée sous 2 à 3 semaines, prochaine conférence des présidents le 13 octobre — exostic/daily/2026/10/2026-10-07-brief-exostic.md
 - 2026-10-03 20:00 — [marche] Budget 2027 : PLF (n° 3210) et PLFSS (n° 3211) déposés à l'Assemblée nationale le 1er octobre 2026, cinq jours avant la date limite constitutionnelle du 6 octobre ; séance publique du PLF programmée le 13 octobre — exostic/daily/2026/10/2026-10-03-brief-exostic.md
 - 2026-10-01 20:00 — [marche] Budget 2027 : PLF et PLFSS présentés en Conseil des ministres le 1er octobre 2026 (effort visé 54 Md€, déficit visé 5 % du PIB), dépôt à l'Assemblée nationale confirmé pour le 6 octobre — exostic/daily/2026/10/2026-10-01-brief-exostic.md
 - 2026-09-29 20:00 — [securite] GitHub Actions : contrôle de version minimale des runners self-hébergés (≥ 2.329.0), application définitive reportée du 25 au 29 septembre 2026 (github.com, Enterprise Cloud, Data Residency ; Enterprise Server non concerné) ; à faire sans délai pour qui utilise des runners self-hébergés — exostic/daily/2026/09/2026-09-29-brief-exostic.md
