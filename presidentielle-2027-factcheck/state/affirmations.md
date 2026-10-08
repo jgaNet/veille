@@ -9,6 +9,8 @@ auteur ou par un autre, s'enregistre en réutilisant son `id`. Les fiches
 complètes vivent dans `presidentielle-2027-factcheck/claims/` et ne sont jamais supprimées. Cet
 index n'est pas élagué et n'est jamais agrégé par candidat ou par parti.
 
+- PRES27-20261008-002 | CONFIRMÉ | 8/10 | Marine Le Pen (Rassemblement national) | 1 | 2026-10-06 | La contribution nette actuelle de la France au budget de l'Union européenne dépasse 9 milliards d'euros par an.
+- PRES27-20261008-001 | CONFIRMÉ | 8/10 | Marine Le Pen (Rassemblement national) | 1 | 2026-10-06 | La part des dépenses publiques dans le PIB de la France est aujourd'hui quasiment la même qu'en 2012.
 - PRES27-20261007-001 | CONFIRMÉ | 8/10 | Marine Le Pen (Rassemblement national) | 1 | 2026-10-06 | La dette publique française atteindra 121 % du PIB en 2027.
 - PRES27-20261006-001 | IMPRÉCIS | 7/10 | Jean-Luc Mélenchon (La France insoumise) | 1 | 2026-10-05 | Le lundi 5 octobre 2026, 400 lycées étaient perturbés par le mouvement lycéen en cours en France.
 - PRES27-20261005-001 | CONFIRMÉ | 9/10 | Emmanuel Maurel (Gauche républicaine et socialiste) | 1 | 2026-10-04 | 34 % des familles monoparentales vivent sous le seuil de pauvreté.
