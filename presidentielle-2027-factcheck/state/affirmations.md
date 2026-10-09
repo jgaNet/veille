@@ -9,6 +9,7 @@ auteur ou par un autre, s'enregistre en réutilisant son `id`. Les fiches
 complètes vivent dans `presidentielle-2027-factcheck/claims/` et ne sont jamais supprimées. Cet
 index n'est pas élagué et n'est jamais agrégé par candidat ou par parti.
 
+- PRES27-20261009-001 | CONFIRMÉ | 7/10 | Édouard Philippe (Horizons) | 1 | 2026-10-08 | Avant 2010, le nombre de titres de séjour délivrés chaque année en France était largement inférieur à 200 000, soit environ la moitié du niveau atteint en 2025.
 - PRES27-20261008-002 | CONFIRMÉ | 8/10 | Marine Le Pen (Rassemblement national) | 1 | 2026-10-06 | La contribution nette actuelle de la France au budget de l'Union européenne dépasse 9 milliards d'euros par an.
 - PRES27-20261008-001 | CONFIRMÉ | 8/10 | Marine Le Pen (Rassemblement national) | 1 | 2026-10-06 | La part des dépenses publiques dans le PIB de la France est aujourd'hui quasiment la même qu'en 2012.
 - PRES27-20261007-001 | CONFIRMÉ | 8/10 | Marine Le Pen (Rassemblement national) | 1 | 2026-10-06 | La dette publique française atteindra 121 % du PIB en 2027.
