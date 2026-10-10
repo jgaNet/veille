@@ -15,7 +15,7 @@ Format d'une ligne du tableau :
 
 | Indicateur | Valeur | Période | Source | Lien | Relevé le |
 | --- | --- | --- | --- | --- | --- |
-| CO₂ atmosphérique, moyenne mensuelle (Mauna Loa) | 427,55 ppm (août 2025 : 425,48 ppm) | août 2026 | NOAA GML, *Trends in CO₂* (page toujours mise à jour le 5 sept. 2026, revérifiée sans changement les 30 sept., 3, 4, 5, 6, 7, 8 et 9 oct.) | https://gml.noaa.gov/ccgg/trends/ | 2026-10-09 |
+| CO₂ atmosphérique, moyenne mensuelle (Mauna Loa) | 426,07 ppm (septembre 2025 : 424,37 ppm), soit +1,70 ppm sur un an ; données de la dernière année encore préliminaires | septembre 2026 | NOAA GML, *Trends in CO₂* (page mise à jour le 9 oct. 2026) | https://gml.noaa.gov/ccgg/trends/ | 2026-10-10 |
 | CO₂ atmosphérique, moyenne annuelle mondiale | moyenne annuelle non relevée (le fichier annuel NOAA n'a été servi que dans une version de juillet 2024 s'arrêtant à 2023 : 419,31 ± 0,15 ppm). Lus à la place : moyenne mensuelle mondiale 427,62 ppm en juin 2026 (juin 2025 : 425,90 ppm) ; croissance annuelle 2,06 ± 0,08 ppm/an en 2025, 3,76 ± 0,11 en 2024, 2,70 ± 0,13 en 2023 | juin 2026 ; 2023-2025 | NOAA GML, moyenne de surface marine mondiale (pages mises à jour les 5 et 8 sept. 2026) | https://gml.noaa.gov/ccgg/trends/global.html ; https://gml.noaa.gov/ccgg/trends/gl_gr.html | 2026-09-20 |
 | Méthane atmosphérique, moyenne mondiale | 1 939,44 ppb (mai 2025 : 1 933,18 ppb) ; croissance annuelle 2025 : 5,14 ppb | mai 2026 | NOAA GML, *Trends in CH₄* (page mise à jour le 5 sept. 2026) | https://gml.noaa.gov/ccgg/trends_ch4/ | 2026-09-20 |
 | Anomalie de température mondiale, dernière année complète (réf. 1850-1900) | ERA5 : +1,47 °C (14,97 °C ; +0,59 °C par rapport à 1991-2020), 3ᵉ année la plus chaude, 0,01 °C sous 2023 et 0,13 °C sous 2024 ; moyenne 2023-2025 supérieure à 1,5 °C. OMM : « about 1.43 ± 0.13 °C », 2ᵉ ou 3ᵉ année selon le jeu de données. Rappel : une ou trois années ne valent pas franchissement de la limite de l'accord de Paris (moyenne sur ~20 ans) | 2025 | Copernicus C3S (ERA5), 14 janv. 2026 ; OMM, *State of the Global Climate 2025*, 23 mars 2026 | https://climate.copernicus.eu/copernicus-2025-was-third-hottest-year-record ; https://wmo.int/news/media-centre/earths-climate-swings-increasingly-out-of-balance | 2026-09-20 |
@@ -175,3 +175,17 @@ passage :
   spéciaux, calendrier de discussion), toujours aucun bleu budgétaire par
   mission accessible. Aucune actualité postérieure au 9 juin 2026 trouvée sur
   le site du GIEC concernant l'AR7 ou l'IPCC-65.
+- Passage du 2026-10-10 : CO₂ Mauna Loa de septembre 2026 **lu pour la
+  première fois** (426,07 ppm, page mise à jour le 9 oct. ; ligne ci-dessus
+  mise à jour). ENSO (discussion CPC du 8 oct.) et EFFIS/JRC (692 419 ha au
+  7 oct., page datée du 8 oct.) revérifiés sans changement depuis le passage
+  précédent. Bulletin climatique Copernicus de septembre 2026 toujours non
+  publié (dernier bulletin disponible : août, daté du 10 sept.). Page de
+  l'ECHA sur la restriction PFAS revérifiée : toujours aucune date de clôture
+  de la consultation sur le projet d'avis du SEAC ni d'avis final. Calendrier
+  IPBES, date de l'INC-5.4, dates du Global Carbon Budget 2026 et de
+  l'Emissions Gap Report 2026 : toujours sans date officielle. Budget de la
+  mission Écologie dans le PLF 2027 : toujours non lu à une source primaire ;
+  deux relais de presse du 2 oct. (maire-info, L'Info Durable), citant la
+  même conférence ministérielle du 1er oct., ajoutent +36 M€ pour la forêt et
+  le déploiement de Vigiecrue — voir `echeances.md`.
