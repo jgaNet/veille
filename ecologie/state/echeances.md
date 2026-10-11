@@ -287,8 +287,21 @@ PLF 2027 : toujours non lu à une source primaire ; deux relais de presse du
 2 oct. (maire-info, L'Info Durable), citant la même conférence ministérielle
 du 1er oct. déjà connue, ajoutent +36 M€ pour la forêt et le déploiement de
 Vigiecrue — voir mise à jour correspondante en « À réévaluer » ci-dessous.
+Passage du 2026-10-11 (brief) : aucune date officielle nouvelle sur
+l'ensemble du suivi (IPCC-65 et Conseil « Environnement » de l'UE du 12 oct.
+toujours confirmés, COP17 du 19 oct. toujours confirmée, IPBES, INC-5.4,
+Global Carbon Budget 2026, Emissions Gap Report 2026). Trois sujets nouveaux
+ajoutés à la section « À réévaluer » ci-dessous : décision de la Haute Cour
+d'Australie sur la mine de Mount Pleasant (portée exacte du précédent),
+sécheresse 2026 en Hongrie (source officielle HungaroMet non lue
+directement), évolution des feux en Indonésie (chiffres de presse non
+recoupés aux séries CAMS/GFED/SiPongi).
 
 ## À réévaluer
+
+- 2026-10-11 — Australie : portée du précédent de la décision de la Haute Cour sur la mine de Mount Pleasant (« contraignant dans toute l'Australie », selon les avocates des plaignants) — note actuelle 5/10 pour cette affirmation de portée (7/10 pour la décision elle-même) — ce qui la ferait bouger : lecture du jugement complet (non lu, site de la Haute Cour inaccessible à l'outil), première application du précédent par un autre tribunal ou une autre commission de planification — ecologie/daily/2026/10/2026-10-11-brief-ecologie.md
+- 2026-10-11 — Hongrie : été 2026 le plus sec en 126 ans (HungaroMet, via Euronews, Hungary Today, Hungarian Conservative — page officielle non lue directement) — note actuelle 6/10 — ce qui la ferait bouger : lecture directe du bulletin climatique de HungaroMet, confirmation de la période de référence exacte — ecologie/daily/2026/10/2026-10-11-brief-ecologie.md
+- 2026-10-11 — Indonésie : plus de 200 000 ha brûlés dans six provinces, pire saison de feux depuis plus de dix ans, plus de 170 000 infections respiratoires recensées (presse et ministère indonésien de la Santé, chiffres de surface non recoupés aux séries CAMS/GFED/SiPongi) — note actuelle 6/10 — ce qui la ferait bouger : lecture directe des séries CAMS/GFED actualisées, décompte officiel SiPongi, bilan de fin de saison — ecologie/daily/2026/10/2026-10-11-brief-ecologie.md
 
 Engagements, prépublications, attributions rapides et projections publiés avec
 une note basse faute de vérification indépendante. 30 lignes au plus ; une

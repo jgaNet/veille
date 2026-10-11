@@ -67,6 +67,8 @@ donne.
 | Surfaces brûlées en Europe, année en cours | 692 419 ha brûlés dans l'UE depuis le 1er janvier 2026 au 7 oct. 2026, selon la page du JRC mise à jour le 8 oct. 2026 à 14h57 CEST (en hausse par rapport aux 678 978 ha au 23 sept. retenus jusqu'ici) — toujours inférieur au record de 2025 à pareille époque (1 026 104 ha, pire année de la série), mais supérieur à la moyenne des vingt dernières années 2006-2025 (355 397 ha). Portail statistique EFFIS de nouveau illisible à l'outil le 9 oct. (page en chargement dynamique, non chargée) ; donnée retenue via la seule page du JRC. Donnée de saison en cours (détection satellite, feux ≥ ~30 ha), non consolidée, sans détail par pays dans la page consultée ; EFFIS et JRC relèvent tous deux du même système Copernicus, donc pas des sources indépendantes l'une de l'autre | 1ᵉʳ janv. - 7 oct. 2026 | Commission européenne / JRC, *Current wildfire situation in Europe* (mise à jour du 8 oct. 2026) | https://joint-research-centre.ec.europa.eu/scientific-activities/natural-and-man-made-hazards/forest-fires/current-wildfire-situation-europe_en | 2026-10-09 |
 | Niveau des nappes en France | au 1er octobre 2026 : 66 % des points d'observation sous les normales mensuelles (61 % au 1er sept.), 81 % des niveaux en baisse, recharge amorcée sur seulement 7 % des points ; nappes les plus basses : socle du Limousin, Morvan, Livradois, Forez, Vivarais, Jura, Vosges, nord de la plaine d'Alsace ; exception au Sud-Est (Vistrenque, Valras-Agde). Le BRGM attend un niveau nécessairement inférieur à celui du 1er octobre 2025 (recharge hivernale 2025-2026 plus modeste, déficit de pluies efficaces depuis mai). Page officielle du BRGM non lue directement ce jour (erreur de chargement) ; chiffres lus via Réussir, qui cite le bulletin ; répartition exacte comparable/au-dessus non connue. Pour mémoire, au 1er septembre 2026 : 61 % sous les normales, 20 % comparables, 19 % au-dessus, 90 % des niveaux en baisse (BRGM, 8 sept.) ; au 1er août 2026 : 63 % / 21 % / 16 % ; au 1er juillet 2026 : 54 % sous les normales | 1er octobre 2026 | BRGM, bulletin de situation des nappes (communiqué du 8 oct. 2026, non lu directement ; cité par Réussir le même jour) | https://www.brgm.fr/fr/actualite/communique-presse/nappes-eau-souterraine-au-1er-octobre-2026 ; https://www.reussir.fr/articles/nappes-phreatiques-au-1er-octobre-la-situation-reste-preoccupante-avec-81-des-niveaux-en | 2026-10-08 |
 
+| Déclin des populations de vertébrés suivies (Indice Planète Vivante) | déclin moyen de 73 % de l'abondance des populations suivies entre 1970 et 2022 (35 803 séries de populations, 5 790 espèces de vertébrés) ; par milieu : eau douce −85 %, milieux terrestres −69 %, milieux marins −59 % (ces répartitions par milieu et par région reprises d'une source de presse indépendante, non relues dans le rapport technique complet) ; environ la moitié des populations suivies stables ou en hausse ; édition 2026 cohérente avec celle de 2024, +295 espèces et +967 populations suivies. Indice calculé par la Zoological Society of London (ZSL), publié par le WWF (ONG) | 1970-2022 | WWF / ZSL, *2026 Living Planet Report* (8 oct. 2026) | https://www.worldwildlife.org/publications/2026-living-planet-report/ | 2026-10-11 |
+
 ## Non relevé lors de l'amorçage
 
 Amorçage du 2026-09-20. Lignes laissées vides parce que la source primaire
@@ -189,3 +191,16 @@ passage :
   deux relais de presse du 2 oct. (maire-info, L'Info Durable), citant la
   même conférence ministérielle du 1er oct., ajoutent +36 M€ pour la forêt et
   le déploiement de Vigiecrue — voir `echeances.md`.
+- Passage du 2026-10-11 : nouvelle ligne « Déclin des populations de
+  vertébrés (Indice Planète Vivante) » ajoutée ci-dessus (WWF/ZSL, 8 oct.,
+  brief publié). CO₂ Mauna Loa (septembre, 426,07 ppm), discussion mensuelle
+  de l'ENSO (8 oct., El Niño toujours en renforcement) et surface brûlée
+  EFFIS/JRC (692 419 ha au 7 oct.) revérifiés sans changement depuis le
+  passage précédent. Page de l'ECHA sur la restriction PFAS revérifiée via
+  une analyse de cabinet d'avocats (Greenberg Traurig) : consultation du
+  SEAC close le 25 mai 2026, avis final toujours attendu « d'ici la fin de
+  l'année 2026 » selon ce cabinet, non confirmé par l'ECHA elle-même — aucune
+  date retenue. Bulletin climatique Copernicus de septembre 2026 toujours
+  non publié à la page `climate-bulletins` (dernier bulletin lu : août).
+  Calendrier IPBES, date de l'INC-5.4, dates du Global Carbon Budget 2026 et
+  de l'Emissions Gap Report 2026 : toujours sans date officielle nouvelle.
