@@ -295,11 +295,20 @@ ajoutés à la section « À réévaluer » ci-dessous : décision de la Haute C
 d'Australie sur la mine de Mount Pleasant (portée exacte du précédent),
 sécheresse 2026 en Hongrie (source officielle HungaroMet non lue
 directement), évolution des feux en Indonésie (chiffres de presse non
-recoupés aux séries CAMS/GFED/SiPongi).
+recoupés aux séries CAMS/GFED/SiPongi). Passage du 2026-10-12 (brief) :
+**IPCC-65 (12-16 oct., Addis-Abeba) et Conseil « Environnement » de l'UE
+(12 oct., Luxembourg) ouverts ce jour**, sans résultat à ce stade (ordre du
+jour du Conseil : débat sur le paquet SEQE proposé le 17 juillet, projet de
+conclusions sur la préparation de la COP31 climat et de la COP17
+biodiversité) — à retirer de cette liste une fois les sessions achevées.
+COP17 (19-30 oct.), MOP38 (2-6 nov.) et COP31 (9-20 nov.) toujours
+confirmées sans changement. Calendrier IPBES, date de l'INC-5.4, dates du
+Global Carbon Budget 2026 et de l'Emissions Gap Report 2026, restriction
+PFAS (ECHA) : toujours sans date officielle nouvelle.
 
 ## À réévaluer
 
-- 2026-10-11 — Australie : portée du précédent de la décision de la Haute Cour sur la mine de Mount Pleasant (« contraignant dans toute l'Australie », selon les avocates des plaignants) — note actuelle 5/10 pour cette affirmation de portée (7/10 pour la décision elle-même) — ce qui la ferait bouger : lecture du jugement complet (non lu, site de la Haute Cour inaccessible à l'outil), première application du précédent par un autre tribunal ou une autre commission de planification — ecologie/daily/2026/10/2026-10-11-brief-ecologie.md
+- 2026-10-11 — Australie : portée du précédent de la décision de la Haute Cour sur la mine de Mount Pleasant (« contraignant dans toute l'Australie », selon les avocates des plaignants) — note actuelle 5/10 pour cette affirmation de portée (7/10 pour la décision elle-même) — ce qui la ferait bouger : lecture du jugement complet (non lu, site de la Haute Cour inaccessible à l'outil), première application du précédent par un autre tribunal ou une autre commission de planification — ecologie/daily/2026/10/2026-10-11-brief-ecologie.md. Mis à jour le 12 oct. (brief) : analyse juridique indépendante (Monash Lens) nuance l'affirmation de portée nationale — la décision oblige la commission de Nouvelle-Galles du Sud à examiner les émissions de portée 3, mais n'impose pas de refuser le projet, et sa portée hors Nouvelle-Galles du Sud n'est pas établie (chaque État a sa propre législation) ; quatre juges sur cinq ont rejeté le lien causal direct entre les émissions du projet et les impacts climatiques locaux retenu par la Cour d'appel — note de l'affirmation de portée nationale abaissée à 4/10, décision elle-même toujours à 7/10 — ecologie/daily/2026/10/2026-10-12-brief-ecologie.md
 - 2026-10-11 — Hongrie : été 2026 le plus sec en 126 ans (HungaroMet, via Euronews, Hungary Today, Hungarian Conservative — page officielle non lue directement) — note actuelle 6/10 — ce qui la ferait bouger : lecture directe du bulletin climatique de HungaroMet, confirmation de la période de référence exacte — ecologie/daily/2026/10/2026-10-11-brief-ecologie.md
 - 2026-10-11 — Indonésie : plus de 200 000 ha brûlés dans six provinces, pire saison de feux depuis plus de dix ans, plus de 170 000 infections respiratoires recensées (presse et ministère indonésien de la Santé, chiffres de surface non recoupés aux séries CAMS/GFED/SiPongi) — note actuelle 6/10 — ce qui la ferait bouger : lecture directe des séries CAMS/GFED actualisées, décompte officiel SiPongi, bilan de fin de saison — ecologie/daily/2026/10/2026-10-11-brief-ecologie.md
 
