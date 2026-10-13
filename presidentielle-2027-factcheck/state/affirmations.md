@@ -9,6 +9,7 @@ auteur ou par un autre, s'enregistre en réutilisant son `id`. Les fiches
 complètes vivent dans `presidentielle-2027-factcheck/claims/` et ne sont jamais supprimées. Cet
 index n'est pas élagué et n'est jamais agrégé par candidat ou par parti.
 
+- PRES27-20261013-001 | CONFIRMÉ | 9/10 | Bruno Retailleau (Les Républicains) | 1 | 2026-10-12 | La fonction publique française compte environ 5,9 millions d'agents.
 - PRES27-20261009-001 | CONFIRMÉ | 7/10 | Édouard Philippe (Horizons) | 1 | 2026-10-08 | Avant 2010, le nombre de titres de séjour délivrés chaque année en France était largement inférieur à 200 000, soit environ la moitié du niveau atteint en 2025.
 - PRES27-20261010-001 | TROMPEUR | 3/10 | Marine Le Pen et Jordan Bardella (Rassemblement national) | 1 | 2026-10-06 | La réorganisation ou la suppression d'agences et d'opérateurs de l'État permettrait 3,4 milliards d'euros d'économies dès 2027, puis plus de 10 milliards d'euros en 2031.
 - PRES27-20261008-002 | CONFIRMÉ | 8/10 | Marine Le Pen (Rassemblement national) | 1 | 2026-10-06 | La contribution nette actuelle de la France au budget de l'Union européenne dépasse 9 milliards d'euros par an.
