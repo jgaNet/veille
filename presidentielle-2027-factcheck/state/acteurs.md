@@ -1,4 +1,3 @@
-
 # Acteurs à surveiller
 
 Liste **indicative** du périmètre (CONSIGNES § 1), par ordre alphabétique — l'ordre ne traduit
