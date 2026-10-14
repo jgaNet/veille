@@ -1,3 +1,4 @@
+
 # Acteurs à surveiller
 
 Liste **indicative** du périmètre (CONSIGNES § 1), par ordre alphabétique — l'ordre ne traduit
@@ -43,6 +44,7 @@ de repère, à revérifier) :
 | Jean-Luc Mélenchon | La France insoumise |
 | Édouard Philippe | Horizons |
 | Florian Philippot | Les Patriotes |
+| Natacha Polony | « Nous sommes la France » (mouvement), soutenue par République Souveraine |
 | Bruno Retailleau | Les Républicains |
 | Fabien Roussel | Parti communiste français |
 | Ségolène Royal | Parti socialiste |
@@ -68,3 +70,4 @@ Format : `- AAAA-MM-JJ — changement — source (URL)`
 - 2026-09-19 — ajout d'Éric Ciotti et de l'Union des droites pour la République, conviés parmi les chefs de partis et candidats reçus à l'Élysée le 18 septembre 2026 — Public Sénat (https://www.publicsenat.fr/actualites/politique/bardella-philippe-faure-tondelier-face-a-la-crise-internationale-emmanuel-macron-reunit-les-candidats-a-la-presidentielle-a-lelysee)
 - 2026-09-19 — ajout d'Emmanuel Maurel, recensé parmi les participants à la primaire socialiste d'octobre 2026 — Public Sénat (https://www.publicsenat.fr/actualites/politique/presidentielle-2027-le-dernier-decompte-des-candidats-deja-sur-la-ligne-de-depart)
 - 2026-09-19 — Nicolas Dupont-Aignan (Debout la France) officialise sa candidature à l'élection présidentielle de 2027 lors de son discours de Yerres — Le Journal du Dimanche (https://www.lejdd.fr/politique/presidentielle-nicolas-dupont-aignan-officialise-sa-candidature-et-fait-le-pari-du-frexit-183876)
+- 2026-10-14 — ajout de Natacha Polony (essayiste, mouvement « Nous sommes la France », soutenue par République Souveraine), qui annonce sa candidature à l'élection présidentielle de 2027 sur France Inter — entrevue.fr (https://entrevue.fr/presidentielle-2027/presidentielle-2027-natacha-polony-annonce-sa-candidature-et-veut-perturber/)
