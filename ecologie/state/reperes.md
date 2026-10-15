@@ -253,3 +253,14 @@ passage :
   l'INC-5.4, dates du Global Carbon Budget 2026 (page du Global Carbon
   Project revérifiée, aucune date annoncée) et de l'Emissions Gap Report
   2026, restriction PFAS (ECHA) : toujours sans élément officiel nouveau.
+- Passage du 2026-10-15 : aucune ligne modifiée. CO₂ Mauna Loa (septembre,
+  426,07 ppm, page toujours datée du 9 oct.), ENSO (discussion du CPC
+  toujours datée du 8 oct., prochaine le 12 nov., El Niño fort à très fort
+  probable jusqu'à janv.-mars 2027) et EFFIS/JRC (692 419 ha au 7 oct., page
+  toujours datée du 8 oct.) revérifiés sans changement. IPCC-65
+  (Addis-Abeba) : session toujours en cours jusqu'au 16 oct., aucune
+  décision rapportée sur le calendrier de l'AR7. Budget de la mission
+  Écologie dans le PLF 2027 : toujours non lu à une source primaire.
+  Calendrier IPBES, date de l'INC-5.4, dates du Global Carbon Budget 2026 et
+  de l'Emissions Gap Report 2026, restriction PFAS (ECHA) : toujours sans
+  élément officiel nouveau.
