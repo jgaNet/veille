@@ -3,6 +3,7 @@
 Mémoire anti-doublon. Les lignes de plus de 30 jours sont élaguées à chaque passage.
 Format : `- AAAA-MM-JJ HH:MM — [nature] sujet — chemin`
 
+- 2026-10-17 20:15 — [marche] Budget 2027 : document officiel de l'Assemblée nationale (« Organisation de la discussion budgétaire », daté du 29 septembre 2026) confirme le calendrier des votes solennels — PLF première partie le 20 octobre, PLFSS le 27 octobre, ensemble du PLF le 17 novembre ; rejet du PLFSS en commission des affaires sociales le 16 octobre rapporté par LCP, non confirmé officiellement — exostic/daily/2026/10/2026-10-17-brief-exostic.md
 - 2026-10-15 20:15 — [securite] Node.js : releases de sécurité annoncées pour le 21 octobre 2026 sur les lignes 22.x/24.x/26.x, gravité maximale « élevée » annoncée, CVE et versions précises non publiés — exostic/daily/2026/10/2026-10-15-brief-exostic.md
 - 2026-10-15 20:15 — [securite] GitHub Actions : lockfile de dépendances pour les workflows (`actions.lock`) en preview publique depuis le 14 octobre, alternative à l'épinglage manuel par SHA — exostic/daily/2026/10/2026-10-15-brief-exostic.md
 - 2026-10-15 20:15 — [marche] PLF 2027 : motion de rejet préalable des socialistes rejetée le 13 octobre au soir (236 contre, 149 pour), débat sur la partie recettes poursuivi en séance, vote solennel toujours annoncé pour le 20 octobre (source unique) — exostic/daily/2026/10/2026-10-15-brief-exostic.md
