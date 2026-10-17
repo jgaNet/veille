@@ -9,6 +9,7 @@ auteur ou par un autre, s'enregistre en réutilisant son `id`. Les fiches
 complètes vivent dans `presidentielle-2027-factcheck/claims/` et ne sont jamais supprimées. Cet
 index n'est pas élagué et n'est jamais agrégé par candidat ou par parti.
 
+- PRES27-20261017-001 | TROMPEUR | 4/10 | Jordan Bardella (Rassemblement national) | 1 | 2026-10-12 | En quelques heures, en juillet 2026, entre 70 000 et 80 000 migrants sont entrés dans l'enclave espagnole de Ceuta depuis le Maroc.
 - PRES27-20261015-001 | CONFIRMÉ | 8/10 | Edwige Diaz (Rassemblement national) | 1 | 2026-10-14 | Depuis l'arrivée d'Emmanuel Macron à la présidence en 2017, la dette publique française a augmenté d'environ 1 300 milliards d'euros, soit plus de 400 millions d'euros par jour.
 - PRES27-20261013-001 | CONFIRMÉ | 9/10 | Bruno Retailleau (Les Républicains) | 1 | 2026-10-12 | La fonction publique française compte environ 5,9 millions d'agents.
 - PRES27-20261009-001 | CONFIRMÉ | 7/10 | Édouard Philippe (Horizons) | 1 | 2026-10-08 | Avant 2010, le nombre de titres de séjour délivrés chaque année en France était largement inférieur à 200 000, soit environ la moitié du niveau atteint en 2025.
