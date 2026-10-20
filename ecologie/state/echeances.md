@@ -378,6 +378,18 @@ officiel du PNUE. CO₂ Mauna Loa, ENSO et EFFIS/JRC revérifiés sans
 changement. Calendrier IPBES, date de l'INC-5.4, dates du Global Carbon
 Budget 2026, restriction PFAS (ECHA), budget de la mission Écologie dans le
 PLF 2027 (vote solennel sur la première partie attendu le 20 oct.) :
+toujours sans élément officiel nouveau. Passage du 2026-10-20 (brief) :
+**vote solennel sur la première partie du PLF 2027 tenu ce jour à
+l'Assemblée nationale** (programme confirmé par le calendrier budgétaire
+officiel), mais aucun résultat (adoption, rejet, décompte) lu à une source
+lisible à l'heure du brief (20 h, Paris) — à vérifier au prochain passage ;
+budget propre de la mission Écologie toujours non lu à une source primaire.
+COP17 (Erevan, jusqu'au 30 oct.) : un « Forum entreprises et biodiversité »
+annoncé pour le 25 octobre par le secrétariat de la CDB, sans engagement
+financier chiffré à ce stade ; pas de bilan ou décision nouvelle rapportée
+ce jour. CO₂ Mauna Loa et EFFIS/JRC relus directement à la source sans
+changement ; ENSO revérifié sans changement. Calendrier IPBES, date de
+l'INC-5.4, dates du Global Carbon Budget 2026, restriction PFAS (ECHA) :
 toujours sans élément officiel nouveau.
 
 ## À réévaluer

@@ -284,3 +284,12 @@ passage :
   nappes, restriction PFAS, calendrier IPBES, date de l'INC-5.4, dates du
   Global Carbon Budget 2026 et de l'Emissions Gap Report 2026 : toujours
   sans élément officiel nouveau.
+- Passage du 2026-10-20 : aucune ligne modifiée. CO₂ Mauna Loa (septembre,
+  426,07 ppm, page toujours datée du 9 oct.) et EFFIS/JRC (692 419 ha au
+  7 oct., page toujours datée du 8 oct.) tous deux relus directement à la
+  source ce jour sans changement ; ENSO (discussion du CPC toujours datée du
+  8 oct., prochaine attendue le 12 nov.) revérifié sans changement. COP17
+  (Erevan) suivie sans nouveau bilan chiffré. Niveau des nappes, restriction
+  PFAS, calendrier IPBES, date de l'INC-5.4, dates du Global Carbon Budget
+  2026 et de l'Emissions Gap Report 2026 (lancement annoncé le 21 oct., non
+  confirmé par le PNUE lui-même) : toujours sans élément officiel nouveau.
