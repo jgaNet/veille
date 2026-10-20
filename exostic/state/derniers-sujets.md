@@ -3,6 +3,7 @@
 Mémoire anti-doublon. Les lignes de plus de 30 jours sont élaguées à chaque passage.
 Format : `- AAAA-MM-JJ HH:MM — [nature] sujet — chemin`
 
+- 2026-10-20 20:15 — [marche] Budget 2027 : vote solennel sur la partie recettes du PLF, prévu le 20 octobre, reporté — reprise des débats annoncée pour le 27 octobre (LCP) — exostic/daily/2026/10/2026-10-20-brief-exostic.md
 - 2026-10-19 20:15 — [stack] GitHub Actions : début de la fenêtre de migration progressive du label `ubuntu-latest` d'Ubuntu 24.04 vers 26.04, jusqu'au 19 novembre 2026 ; à faire sans attendre la bascule automatique : tester sur ubuntu-26.04 ou épingler ubuntu-24.04 — exostic/daily/2026/10/2026-10-19-brief-exostic.md
 - 2026-10-17 20:15 — [marche] Budget 2027 : document officiel de l'Assemblée nationale (« Organisation de la discussion budgétaire », daté du 29 septembre 2026) confirme le calendrier des votes solennels — PLF première partie le 20 octobre, PLFSS le 27 octobre, ensemble du PLF le 17 novembre ; rejet du PLFSS en commission des affaires sociales le 16 octobre rapporté par LCP, non confirmé officiellement — exostic/daily/2026/10/2026-10-17-brief-exostic.md
 - 2026-10-15 20:15 — [securite] Node.js : releases de sécurité annoncées pour le 21 octobre 2026 sur les lignes 22.x/24.x/26.x, gravité maximale « élevée » annoncée, CVE et versions précises non publiés — exostic/daily/2026/10/2026-10-15-brief-exostic.md
