@@ -475,6 +475,19 @@ mission Écologie toujours non lu à une source primaire, voir « À
 réévaluer » ci-dessous. CO₂ Mauna Loa et EFFIS/JRC relus directement à la
 source sans changement. Date de l'INC-5.4, date du Global Carbon Budget
 2026, restriction PFAS (ECHA) : toujours sans élément officiel nouveau.
+Passage du 2026-10-29 (brief) : **COP17 (Erevan) entrée dans ses deux
+derniers jours avant la clôture du 30 octobre** — désaccord sur le
+mécanisme financier précisé par trois sources de presse spécialisée
+indépendantes entre elles (élargissement de la liste des pays donateurs
+proposé par l'UE, rejeté par le Groupe arabe ; texte sur le bilan mondial
+non adopté le 28 oct. comme prévu par la présidence), nouvelles promesses
+cumulées d'environ 500 M$ depuis l'ouverture — alerte publiée dans le brief
+du jour, voir « À réévaluer » ci-dessous ; reste en liste des échéances
+jusqu'à sa clôture prévue demain. CO₂ Mauna Loa, ENSO (discussion du CPC
+toujours datée du 8 oct.) et EFFIS/JRC (692 419 ha au 7 oct., page toujours
+datée du 8 oct.) tous revérifiés directement à la source sans changement.
+Date de l'INC-5.4, date du Global Carbon Budget 2026, restriction PFAS
+(ECHA) : toujours sans élément officiel nouveau.
 
 ## À réévaluer
 
@@ -487,6 +500,7 @@ une note basse faute de vérification indépendante. 30 lignes au plus ; une
 ligne sans évolution depuis 180 jours est retirée.
 Format : `- AAAA-MM-JJ — affirmation (auteur) — note actuelle X/10 — ce qui la ferait bouger — chemin de l'alerte`
 
+- 2026-10-29 — COP17 (CDB, Erevan) : nouvelles promesses de financement de la biodiversité cumulées depuis l'ouverture à environ 500 M$ (dont ~60 M$ au Fonds-cadre mondial pour la biodiversité, 50 M€ d'Espagne et 4,5 M$ d'Ouzbékistan au FEM-9, réaffirmation britannique de 330 M£) — engagements annoncés, non décaissés (Climate Change News, The Climate Watch, Trade Arabia) — note actuelle 5/10 — ce qui la ferait bouger : bilan officiel consolidé du secrétariat de la CDB à la clôture (30 oct.), issue de l'accord ou de l'échec sur l'élargissement de la base des pays contributeurs, premiers décaissements effectifs — ecologie/daily/2026/10/2026-10-29-brief-ecologie.md
 - 2026-09-20 — les émissions mondiales de CO₂ fossile baisseraient d'environ 0,5 % en 2026 (Carbon Brief, d'après les prévisions de l'AIE) — note actuelle 5/10 — projection 2026 du Global Carbon Project (attendue autour de la COP31), estimation de l'AIE, données quasi temps réel sur l'année complète, évolution de la crise d'Ormuz — ecologie/alerts/2026/09/2026-09-20-18-58-projection-emissions-fossiles-2026-baisse-ormuz.md
 - 2026-09-20 — feux en Indonésie : ~76 MtC émis depuis janvier, saison « on track » avec 2015 (GFED, CAMS, via la presse) — note actuelle 6/10 — lecture directe des séries CAMS / GFED, bilan de fin de saison, décompte officiel actualisé des surfaces (SiPongi : 202 004 ha de janvier à juillet), étude d'attribution éventuelle. Vu le 22 sept. sans pouvoir le vérifier à la source : une dépêche AFP (Malay Mail, 21 sept.) cite ~300 000 ha de janvier à juillet selon Nusantara Atlas (Sentinel-2, 20 m ; son propre bilan du 20 juill. donnait ~103 000 ha au premier semestre) et « ~896 000 ha » août compris, origine de ce dernier chiffre non identifiée ; 54 000 personnels et 64 aéronefs déployés selon le gouvernement. Revérifié le 28 sept. : aucune donnée CAMS/GFED plus récente accessible (portail GFED en version bêta sans chiffre 2026 par région ; dernier chiffre toujours celui du 7 sept., 76 MtC, via Carbon Brief) — note inchangée. Revérifié le 30 sept. : aucune donnée plus récente trouvée (mêmes portails) — note inchangée — ecologie/alerts/2026/09/2026-09-20-18-59-indonesie-feux-tourbieres-emissions-el-nino.md
 - 2026-09-21 — *Planetary Health Check 2026* : sept limites sur neuf franchies, toutes en hausse (PIK ; seule la version résumée a été lue, aucun avis extérieur disponible le jour de la parution) — note actuelle 7/10 — lecture de la version complète (zones et valeurs par limite, financement), réactions de chercheurs extérieurs au PIK, études sources des dossiers Amazonie et chalutage, position du Global Carbon Budget 2026 sur le puits terrestre — ecologie/alerts/2026/09/2026-09-21-19-05-planetary-health-check-2026-sept-limites-franchies.md
