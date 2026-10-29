@@ -79,7 +79,7 @@ passage :
   sept. **Résolu le 2026-09-28 :** portail statistique EFFIS lisible via son
   API (endpoint PDF), complété par la page de suivi du JRC ; ligne remplie
   ci-dessus. De nouveau illisible à l'outil le 30 sept. (page en chargement
-  dynamique) ; revérifiée le 2 oct., page JRC lisible, valeur inchangée
+  dynamique) ; revérifié le 2 oct., page JRC lisible, valeur inchangée
   depuis le 28 sept.
 - Niveau des nappes en France (BRGM) : **résolu le 2026-09-22 à 19 h**,
   bulletin lu à la source, ligne remplie. Prochaine échéance pour cette
