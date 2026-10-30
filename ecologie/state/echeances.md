@@ -335,7 +335,7 @@ communiqué officiel du GIEC ni compte rendu de l'*Earth Negotiations
 Bulletin* confirmant une décision — ou son absence — sur le calendrier de
 l'AR7 n'a pu être lu à l'heure du brief ; un article de Carbon Brief du
 13 oct. détaille trois options encore en discussion ce jour-là (deux faisant
-paraaître les trois rapports en 2028, une troisième, soutenue par l'Arabie
+paraaitre les trois rapports en 2028, une troisième, soutenue par l'Arabie
 saoudite et l'Inde, en reportant deux à 2029) ; résultat à vérifier au
 prochain passage. CO₂ Mauna Loa, ENSO (discussion du CPC toujours datée du
 8 oct.) et EFFIS/JRC (692 419 ha au 7 oct., page toujours datée du 8 oct.)
@@ -351,7 +351,7 @@ communiqué officiel du GIEC (ipcc.ch, 16 oct.) n'a pas pu être lu directement
 (erreur de récupération), seul son titre étant confirmé par un moteur de
 recherche — alerte publiée dans le brief du jour, point retiré du suivi actif
 de ce fichier. Date de lancement de l'*Emissions Gap Report* 2026 trouvée
-(21 oct.) sur une page d'évènement de l'ODI, non confirmée sur le site du
+(21 oct.) sur une page d'événement de l'ODI, non confirmée sur le site du
 PNUE lui-même — ajoutée ci-dessus comme « projet ». CO₂ Mauna Loa, ENSO,
 EFFIS/JRC (toujours 692 419 ha, page non mise à jour depuis le 8 oct.), PFAS
 (ECHA, page de restriction relue : consultation sur le rapport Annexe XV
@@ -365,7 +365,7 @@ l'Arabie saoudite et la Chine favorables à 2029 — communiqué officiel du GIE
 toujours non lu directement, voir le brief du jour ; aucune date de prochaine
 session connue. COP17 CDB (19-30 oct., Erevan) ouvre demain ; date du
 lancement de l'*Emissions Gap Report* 2026 (21 oct.) toujours non confirmée
-sur le site officiel du PNUE (seule une page d'évènement de l'ODI la donne).
+sur le site officiel du PNUE (seule une page d'événement de l'ODI la donne).
 CO₂ Mauna Loa, ENSO et EFFIS/JRC revérifiés sans changement. Calendrier
 IPBES, date de l'INC-5.4, dates du Global Carbon Budget 2026, restriction
 PFAS (ECHA), budget de la mission Écologie dans le PLF 2027 : toujours sans
@@ -487,7 +487,25 @@ jusqu'à sa clôture prévue demain. CO₂ Mauna Loa, ENSO (discussion du CPC
 toujours datée du 8 oct.) et EFFIS/JRC (692 419 ha au 7 oct., page toujours
 datée du 8 oct.) tous revérifiés directement à la source sans changement.
 Date de l'INC-5.4, date du Global Carbon Budget 2026, restriction PFAS
-(ECHA) : toujours sans élément officiel nouveau.
+(ECHA) : toujours sans élément officiel nouveau. Passage du 2026-10-30
+(brief) : **communiqué officiel du secrétariat de la CDB daté du 29 oct.
+lu directement** — plus de 1,8 milliard $ de financements biodiversité
+nouveaux annoncés pendant le segment de haut niveau (clos le 28 oct.,
+~1 500 participants dont près de 140 ministres), chiffre agrégé non
+ventilé par bailleur ; bulletin officiel de l'*Earth Negotiations
+Bulletin* (vol. 9 n° 890, 28 oct., couvrant la séance du 27) lu
+directement : le mécanisme financier central (stratégie de mobilisation
+des ressources, élargissement de la base des pays contributeurs,
+« marqueurs de Rio ») reste non conclu à cette date, plusieurs points
+encore entre crochets — alerte publiée dans le brief du jour, voir « À
+réévaluer » ci-dessous ; clôture de la COP17 prévue ce jour (30 oct.),
+résultat non encore connu à l'heure du brief (20 h, Paris) — reste en
+liste des échéances jusqu'à confirmation. CO₂ Mauna Loa et EFFIS/JRC
+relus directement à la source sans changement. Discussion mensuelle du
+CPC sur l'ENSO relue directement : toujours celle du 8 oct., prochaine
+discussion annoncée pour le 12 novembre 2026. Date de l'INC-5.4, date du
+Global Carbon Budget 2026, restriction PFAS (ECHA, page officielle non
+accessible à l'outil ce jour) : toujours sans élément officiel nouveau.
 
 ## À réévaluer
 
@@ -500,7 +518,7 @@ une note basse faute de vérification indépendante. 30 lignes au plus ; une
 ligne sans évolution depuis 180 jours est retirée.
 Format : `- AAAA-MM-JJ — affirmation (auteur) — note actuelle X/10 — ce qui la ferait bouger — chemin de l'alerte`
 
-- 2026-10-29 — COP17 (CDB, Erevan) : nouvelles promesses de financement de la biodiversité cumulées depuis l'ouverture à environ 500 M$ (dont ~60 M$ au Fonds-cadre mondial pour la biodiversité, 50 M€ d'Espagne et 4,5 M$ d'Ouzbékistan au FEM-9, réaffirmation britannique de 330 M£) — engagements annoncés, non décaissés (Climate Change News, The Climate Watch, Trade Arabia) — note actuelle 5/10 — ce qui la ferait bouger : bilan officiel consolidé du secrétariat de la CDB à la clôture (30 oct.), issue de l'accord ou de l'échec sur l'élargissement de la base des pays contributeurs, premiers décaissements effectifs — ecologie/daily/2026/10/2026-10-29-brief-ecologie.md
+- 2026-10-29 — COP17 (CDB, Erevan) : nouvelles promesses de financement de la biodiversité cumulées depuis l'ouverture à environ 500 M$ (dont ~60 M$ au Fonds-cadre mondial pour la biodiversité, 50 M€ d'Espagne et 4,5 M$ d'Ouzbékistan au FEM-9, réaffirmation britannique de 330 M£) — engagements annoncés, non décaissés (Climate Change News, The Climate Watch, Trade Arabia) — note actuelle 5/10 — ce qui la ferait bouger : bilan officiel consolidé du secrétariat de la CDB à la clôture (30 oct.), issue de l'accord ou de l'échec sur l'élargissement de la base des pays contributeurs, premiers décaissements effectifs. Mis à jour le 30 oct. (brief) : le secrétariat de la CDB lui-même (communiqué du 29 oct., lu directement) porte le total cumulé à plus de 1,8 Md$ annoncés pendant tout le segment de haut niveau (clos le 28 oct.) — chiffre officiel plus élevé que celui de la presse, mais toujours non ventilé par bailleur ni par fonds, et donc toujours déclaratif ; l'*Earth Negotiations Bulletin* (28 oct., séance du 27) confirme que le nœud structurant — l'élargissement de la base des pays contributeurs et la stratégie de mobilisation des ressources — reste non résolu à deux jours de la clôture programmée — note inchangée 5/10 pour la réalité de fond — ecologie/daily/2026/10/2026-10-29-brief-ecologie.md ; ecologie/daily/2026/10/2026-10-30-brief-ecologie.md
 - 2026-09-20 — les émissions mondiales de CO₂ fossile baisseraient d'environ 0,5 % en 2026 (Carbon Brief, d'après les prévisions de l'AIE) — note actuelle 5/10 — projection 2026 du Global Carbon Project (attendue autour de la COP31), estimation de l'AIE, données quasi temps réel sur l'année complète, évolution de la crise d'Ormuz — ecologie/alerts/2026/09/2026-09-20-18-58-projection-emissions-fossiles-2026-baisse-ormuz.md
 - 2026-09-20 — feux en Indonésie : ~76 MtC émis depuis janvier, saison « on track » avec 2015 (GFED, CAMS, via la presse) — note actuelle 6/10 — lecture directe des séries CAMS / GFED, bilan de fin de saison, décompte officiel actualisé des surfaces (SiPongi : 202 004 ha de janvier à juillet), étude d'attribution éventuelle. Vu le 22 sept. sans pouvoir le vérifier à la source : une dépêche AFP (Malay Mail, 21 sept.) cite ~300 000 ha de janvier à juillet selon Nusantara Atlas (Sentinel-2, 20 m ; son propre bilan du 20 juill. donnait ~103 000 ha au premier semestre) et « ~896 000 ha » août compris, origine de ce dernier chiffre non identifiée ; 54 000 personnels et 64 aéronefs déployés selon le gouvernement. Revérifié le 28 sept. : aucune donnée CAMS/GFED plus récente accessible (portail GFED en version bêta sans chiffre 2026 par région ; dernier chiffre toujours celui du 7 sept., 76 MtC, via Carbon Brief) — note inchangée. Revérifié le 30 sept. : aucune donnée plus récente trouvée (mêmes portails) — note inchangée — ecologie/alerts/2026/09/2026-09-20-18-59-indonesie-feux-tourbieres-emissions-el-nino.md
 - 2026-09-21 — *Planetary Health Check 2026* : sept limites sur neuf franchies, toutes en hausse (PIK ; seule la version résumée a été lue, aucun avis extérieur disponible le jour de la parution) — note actuelle 7/10 — lecture de la version complète (zones et valeurs par limite, financement), réactions de chercheurs extérieurs au PIK, études sources des dossiers Amazonie et chalutage, position du Global Carbon Budget 2026 sur le puits terrestre — ecologie/alerts/2026/09/2026-09-21-19-05-planetary-health-check-2026-sept-limites-franchies.md
