@@ -1,0 +1,50 @@
+---
+title: "[0/10 🔴 RÉFUTÉ] Les sondages de « Wedgewood Polls », repris par le New York Times avant les midterms 2026, étaient fabriqués"
+date: 2026-11-02T18:12:00+01:00
+type: alert
+feed: verification
+category: verification
+claim_id: CLAIM-20261102-001
+event: nouvelle
+rating: 0
+previous_rating: ""
+status: FAUX / RÉFUTÉ
+evidence_confidence: 7
+summary: "La société « Wedgewood Polls » a reconnu le 20 octobre 2026 avoir fabriqué l'essentiel de ses sondages sur des courses électorales américaines, après que l'organe d'analyse FiftyPlusOne a mis en évidence des incohérences dans ses données ; plusieurs de ces sondages avaient été repris par le New York Times et d'autres agrégateurs avant d'en être retirés."
+---
+
+# [0/10 🔴 RÉFUTÉ] Les sondages de « Wedgewood Polls », repris par le New York Times avant les midterms 2026, étaient fabriqués
+
+**Identifiant :** `CLAIM-20261102-001` · **Statut : FAUX / RÉFUTÉ** · **Plausibilité : 0/10 🔴 RÉFUTÉ**
+
+**Confiance dans l'évaluation (solidité des preuves) : 7/10**
+
+## Affirmation examinée
+
+> Les sondages électoraux publiés entre juin et octobre 2026 par la société « Wedgewood Polls » sur plusieurs courses compétitives des midterms américains de 2026 — notamment les sénatoriales du Mississippi et du Michigan, et des sondages dans le Kansas, l'Ohio, le Texas et le Maine —, repris par le New York Times et d'autres agrégateurs de sondages (dont le suivi de G. Elliott Morris et Decision Desk HQ), reflètent de véritables enquêtes d'opinion menées auprès d'électeurs.
+
+## Contexte
+
+Sondages diffusés sur X depuis juin 2026 sous le nom « Wedgewood Polls », repris par le New York Times, Decision Desk HQ, VoteHub, 270toWin et le suivi de G. Elliott Morris ; affirmation potentiellement fausse (authenticité des données) toujours discutée à la veille des midterms américains du 3 novembre 2026, avec des répercussions politiques (plainte en diffamation annoncée par Donald Trump contre le New York Times, mise en garde du président de la FCC Brendan Carr aux diffuseurs).
+
+## Ce que montre la vérification
+
+- FiftyPlusOne (blog.fiftyplusone.news, préambule consulté directement le 2 novembre 2026, article complet payant) : titre « FiftyPlusOne just caught a pollster faking data — and they copped to it », sous-titre « In response to a request for comment on a FiftyPlusOne investigation, Wedgewood Polls admitted their data was bogus », signé Mary Radcliffe, G. Elliott Morris et Cooper Burton, daté du 20 octobre 2026. Le texte confirme que Wedgewood « did not respond to our request, but instead posted a public statement on social media admitting that they had been fabricating data », et que la société a adressé à FiftyPlusOne un message injurieux plutôt qu'une explication.
+- Al Jazeera (Evan Semones, 31 octobre 2026, consulté directement) : Wedgewood a publié un message sur les réseaux sociaux reconnaissant que ses statistiques sur plusieurs États clés étaient fausses, le qualifiant de « projet expérimental » destiné à montrer les failles de la vérification dans le secteur des sondages américains ; le New York Times avait répertorié 15 sondages Wedgewood entre juin et octobre dans son suivi des sondages, et les a retirés après l'aveu ; la candidate démocrate Mallory McMorrow a abandonné sa candidature au Sénat du Michigan après qu'un sondage Wedgewood l'a créditée d'un score à un chiffre.
+- RedState (Ward Clark, 21 octobre 2026, consulté directement) : cite la déclaration de Wedgewood postée sur X le 20 octobre 2026, « Wedgewood operated as if it were a legitimate polling firm. It was not and is not. It was faking it all along » et « We wanted to test a simply hypothesis: How easy is it for an entirely fabricated polling form to gain traction... The short answer: Far too easy » ; Wedgewood a transmis à FiftyPlusOne des données brutes le 15 octobre 2026, identifiées comme frauduleuses ; un sondage Wedgewood de fin juin a montré Mallory McMorrow en chute à un chiffre, ce qui a précédé son retrait de la course sénatoriale démocrate du Michigan ; un commentaire ultérieur de Tom Bevan (RealClearPolling) indique que le New York Times, G. Elliott Morris et Decision Desk HQ ont dû supprimer des sondages de leurs moyennes.
+- Hungarian Conservative (Joakim Scheffer, 21 octobre 2026, consulté directement) : Wedgewood n'a conduit qu'une seule enquête réelle, au Nebraska, utilisée comme témoin ; FiftyPlusOne a obtenu les données brutes d'un sondage Wedgewood sur le Sénat du Mississippi et constaté que les identifiants de répondants et les horodatages ne correspondaient pas à des entretiens authentiques, en les comparant aux données du prestataire Pollfish ; un sondage Wedgewood y créditait la sénatrice républicaine sortante Cindy Hyde-Smith d'une avance de 52 à 48 sur le démocrate Scott Colom, dans un État acquis à Trump ; Decision Desk HQ a retiré 17 sondages de ses agrégats après l'aveu, en précisant que cela ne changeait pas ses projections de sièges ; FiftyPlusOne a supprimé les sondages Wedgewood de son site et banni les opérateurs identifiés.
+- Les trois comptes rendus (Al Jazeera, RedState, Hungarian Conservative) sont des sources indépendantes les unes des autres, mais s'appuient tous, in fine, sur la même enquête originale de FiftyPlusOne et sur la même déclaration de Wedgewood postée sur X puis supprimée : il s'agit donc d'une origine factuelle unique relayée par trois rédactions distinctes, plutôt que de trois enquêtes indépendantes au sens strict. Le préambule directement consultable de FiftyPlusOne corrobore cependant les éléments essentiels (date de l'aveu, nature de la confrontation, citation du refus de répondre), ce qui constitue une confirmation partielle de première main.
+- La déclaration complète de Wedgewood sur X (désormais supprimée) et l'article intégral de FiftyPlusOne (payant au-delà de son préambule) n'ont pas pu être consultés directement lors de ce passage ; l'évaluation du détail méthodologique (comparaison d'identifiants et d'horodatages) et du nombre exact de courses concernées repose donc sur les citations qu'en donnent les trois rédactions secondaires.
+
+## Pourquoi 0/10 ?
+
+L'authenticité des sondages est réfutée par l'aveu de fabrication de Wedgewood elle-même, obtenu sous la pression d'une enquête indépendante, et par le retrait ultérieur de ces sondages par plusieurs agrégateurs. La confiance n'est pas maximale : la déclaration originale de Wedgewood sur X et l'article complet de FiftyPlusOne (payant au-delà de son préambule) n'ont pas pu être consultés en intégralité ; l'évaluation repose sur trois comptes rendus indépendants (Al Jazeera, Hungarian Conservative, RedState) convergents sur les faits essentiels, plus le préambule accessible de l'enquête originale de FiftyPlusOne. Le volet « sondages truqués en faveur des démocrates » reste moins solidement établi : une seule source (RedState) l'attribue à une publication isolée sur X, non vérifiée de façon indépendante, et n'est donc pas retenu dans l'affirmation canonique.
+
+## Sources
+
+- [FiftyPlusOne — FiftyPlusOne just caught a pollster faking data — and they copped to it (20 octobre 2026, préambule)](https://blog.fiftyplusone.news/p/fiftyplusone-just-caught-a-pollster)
+- [Al Jazeera (Evan Semones) — Fake polls expose vulnerabilities in US elections ahead of midterms (31 octobre 2026)](https://www.aljazeera.com/news-analysis/2026/10/31/fake-polls-expose-vulnerabilities-in-us-elections-ahead-of-midterms)
+- [RedState (Ward Clark) — You Can't Make This Up (but They Did): Polling Firm Admits Fabricating Election Results (21 octobre 2026)](https://redstate.com/wardclark/2026/10/21/you-cant-make-this-up-but-they-did-polling-firm-admits-fabricating-election-results-n2208419)
+- [Hungarian Conservative (Joakim Scheffer) — Wedgewood Admits Fabricating Polls, Many Boosting Dems in GOP States (21 octobre 2026)](https://www.hungarianconservative.com/articles/current/wedgewood-polling-fake-social-experiment-midterm/)
+
+Fiche de suivi : [`CLAIM-20261102-001`](../../../claims/2026/11/CLAIM-20261102-001.md)
