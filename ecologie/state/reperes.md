@@ -331,7 +331,7 @@ passage :
   datée du 9 oct.) et EFFIS/JRC (692 419 ha au 7 oct., page toujours datée du
   8 oct.) tous deux relus directement à la source sans changement, dates de
   relevé mises à jour ci-dessus. Événement hors tableau d'indicateurs traité
-  dans le brief du jour : trajectoire du typhon Champi reprecisée par la CWA
+  dans le brief du jour : trajectoire du typhon Champi reprécisée par la CWA
   taïwanaise (Taïwan épargnée d'un passage direct, cap vers les îles
   japonaises du sud). Niveau des nappes (prochain bulletin BRGM attendu début
   novembre), restriction PFAS (ECHA), calendrier IPBES, date de l'INC-5.4 et
