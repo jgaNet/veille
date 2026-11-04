@@ -331,7 +331,7 @@ passage :
   datée du 9 oct.) et EFFIS/JRC (692 419 ha au 7 oct., page toujours datée du
   8 oct.) tous deux relus directement à la source sans changement, dates de
   relevé mises à jour ci-dessus. Événement hors tableau d'indicateurs traité
-  dans le brief du jour : trajectoire du typhon Champi reprécisée par la CWA
+  dans le brief du jour : trajectoire du typhon Champi reprecisée par la CWA
   taïwanaise (Taïwan épargnée d'un passage direct, cap vers les îles
   japonaises du sud). Niveau des nappes (prochain bulletin BRGM attendu début
   novembre), restriction PFAS (ECHA), calendrier IPBES, date de l'INC-5.4 et
@@ -479,3 +479,17 @@ passage :
   report annoncé. Niveau des nappes (prochain bulletin BRGM attendu début
   novembre), restriction PFAS (ECHA), date de l'INC-5.4 et du Global Carbon
   Budget 2026 : toujours sans élément officiel nouveau.
+- Passage du 2026-11-04 : CO₂ Mauna Loa (page NOAA GML relue directement,
+  toujours 426,07 ppm pour septembre, page toujours datée du 9 oct.),
+  EFFIS/JRC (page JRC relue directement, toujours 692 419 ha au 7 oct.,
+  page toujours datée du 8 oct. 14h57 CEST) et discussion mensuelle du CPC
+  sur l'ENSO (page NOAA relue directement, toujours celle du 8 oct., El
+  Niño toujours en renforcement, prochaine discussion annoncée pour le
+  12 nov. 2026) tous revérifiés directement à la source sans changement,
+  dates de relevé mises à jour ci-dessus. Événement hors tableau
+  d'indicateurs traité dans le brief du jour : ouverture de MOP38 (Kigali,
+  2-6 nov.) et enjeu du refinancement du Fonds multilatéral 2027-2029 — ce
+  flux ne porte pas de ligne dédiée au protocole de Montréal (voir le brief
+  et `echeances.md`). Niveau des nappes (prochain bulletin BRGM attendu
+  début novembre), restriction PFAS (ECHA), date de l'INC-5.4 et du Global
+  Carbon Budget 2026 : toujours sans élément officiel nouveau.
