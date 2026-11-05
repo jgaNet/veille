@@ -9,6 +9,7 @@ auteur ou par un autre, s'enregistre en réutilisant son `id`. Les fiches
 complètes vivent dans `presidentielle-2027-factcheck/claims/` et ne sont jamais supprimées. Cet
 index n'est pas élagué et n'est jamais agrégé par candidat ou par parti.
 
+- PRES27-20261105-001 | CONFIRMÉ | 7/10 | David Lisnard (Nouvelle Énergie) | 1 | 2026-11-04 | Le budget de l'État pour 2027 (PLF 2027) impose environ 5,5 milliards d'euros de charges ou prélèvements supplémentaires aux collectivités locales.
 - PRES27-20261104-001 | TROMPEUR | 3/10 | David Lisnard (Nouvelle Énergie) | 1 | 2026-11-03 | Élu président de la République, il mettrait en œuvre dès la première année un « choc budgétaire » permettant 80 milliards d'euros d'économies sur les dépenses publiques, dans le cadre d'un plan total de 200 à 300 milliards d'euros d'économies.
 - PRES27-20261028-001 | FAUX | 2/10 | Bruno Retailleau (Les Républicains) | 1 | 2026-10-27 | La dépense publique consacrée à l'éducation en France est la plus élevée d'Europe.
 - PRES27-20261015-001 | CONFIRMÉ | 8/10 | Edwige Diaz (Rassemblement national) | 1 | 2026-10-14 | Depuis l'arrivée d'Emmanuel Macron à la présidence en 2017, la dette publique française a augmenté d'environ 1 300 milliards d'euros, soit plus de 400 millions d'euros par jour.
