@@ -127,4 +127,509 @@ source officielle, budget.gouv.fr toujours en erreur 403). Passage du
 datée du 21 sept. au moment du passage (20 h Paris) ; GIEC : un article
 spécialisé (Actualités News Environnement, non daté précisément, citant
 l'*Earth Negotiations Bulletin* et Carbon Brief) situe la 65ᵉ session
-plénière « d
+plénière « dans la deuxième semaine d'octobre 2026 » à Addis-Abeba sans date
+exacte, et rapporte un calendrier de l'AR7 bloqué depuis cinq sessions
+plénières entre deux options de publication (2028 ou 2029) — non officiel,
+site du GIEC toujours en erreur 403, donc aucune date inscrite ici ; rapport
+Barbut (PNACC 3, financement de l'adaptation) toujours annoncé pour le 30
+septembre par la seule presse spécialisée, site du ministère toujours
+illisible ; PLF 2027 toujours sans date officielle lue. Aucune autre
+publication nouvelle relevée sur les sites de l'OMM, de la CCNUCC, du PNUE,
+de Copernicus, de l'AEE ni du Citepa._ Passage du 2026-09-29 à 20 h (brief) :
+**date de la 65ᵉ session plénière du GIEC confirmée** par une lettre officielle
+du secrétariat (Ko Barrett, secrétaire par intérim), diffusée via l'extranet de
+l'OMM : 12-16 octobre 2026, Addis-Abeba — ligne ajoutée à la liste des
+échéances ci-dessus, à retirer une fois la session passée. Rapport Barbut
+(PNACC 3, financement de l'adaptation) toujours annoncé pour le 30 septembre
+par la seule presse spécialisée (*Actu-Environnement*, *Banque des
+Territoires*, LCP), site du ministère toujours illisible, donc toujours non
+inscrit comme échéance confirmée — à vérifier au prochain passage suivant le
+30 septembre. PLF 2027 : toujours aucune date officielle lue sur
+budget.gouv.fr (page consultée illisible) ; seule la presse évoque « le
+premier mardi d'octobre », qui correspondrait au 6 octobre 2026 selon la
+règle organique habituelle, non vérifiée à une source officielle. INC-5.4
+(traité plastiques) : toujours aucune date sur le site du PNUE. Mise à jour
+hebdomadaire ENSO de la NOAA lue et à jour au 28 sept. (voir reperes.md).
+Aucune autre publication nouvelle relevée sur les sites de l'OMM, de la
+CCNUCC, du PNUE, de Copernicus, de l'AEE, du Citepa ni de l'UICN._ Passage du
+2026-09-30 à 20 h (brief) : rapport Barbut (PNACC 3, financement de
+l'adaptation) effectivement remis ce jour au Premier ministre (AFP et presse
+indépendante, alerte publiée) — retiré de cette liste comme échéance, suivi
+désormais comme engagement dans la section « À réévaluer » ci-dessous. PLF
+2027 : toujours aucune date officielle lue sur budget.gouv.fr (page toujours
+illisible) ; presse économique évoque toujours « le premier mardi d'octobre »
+(6 octobre 2026), non confirmé. Restriction PFAS (ECHA) : page consultée de
+nouveau — toujours un projet d'avis du SEAC en consultation, sans date de
+clôture ni d'avis final lisible ; portail statistique EFFIS inaccessible à
+l'outil ce jour (page en chargement dynamique), donc surface brûlée de l'UE
+non revérifiée. INC-5.4 (traité plastiques) : toujours aucune date sur le
+site du PNUE. Aucune autre publication nouvelle relevée sur les sites de
+l'OMM, de la CCNUCC, du PNUE, de Copernicus, de l'AEE, du Citepa ni de
+l'UICN._ Passage du 2026-10-01 à 20 h (brief) : **PLF 2027 présenté en
+conseil des ministres et déposé à l'Assemblée nationale ce jour**, confirmé
+par le dossier législatif officiel de l'AN
+(https://www.assemblee-nationale.fr/dyn/budget-et-securite-sociale/les-lois-de-finances-depuis-1998/projet-de-loi-de-finances-pour-2027)
+et par deux sources de presse indépendantes (CNews, Franceinfo) datées de ce
+jour — item « date de dépôt du PLF non confirmée » retiré de ce suivi, le
+contenu budgétaire précis de la mission Écologie étant repris en « À
+réévaluer » ci-dessous faute de lecture d'une source primaire aujourd'hui
+(site du ministère de la Transition écologique inaccessible à l'outil).
+Restriction PFAS (ECHA) non revérifiée ce jour ; portail EFFIS non retenté ;
+calendrier de l'IPBES toujours en erreur 403 ; aucune date nouvelle pour
+INC-5.4 sur le site du PNUE. Aucune autre publication nouvelle relevée sur
+les sites de l'OMM, de la CCNUCC, du PNUE, de Copernicus, de l'AEE, du
+Citepa ni de l'UICN._ Passage du 2026-10-02 à 20 h (brief) : rapport annuel
+2026 du Haut Conseil pour le climat lu pour la première fois (publié le
+9 juillet 2026 ; chiffres repris dans reperes.md, nouvelle ligne
+« Réchauffement observé en France »). Budget 2027 de la mission Écologie
+(fonds vert, PNACC 3) toujours non lu à une source primaire : page
+ecologie.gouv.fr inaccessible à l'outil (robots.txt), dossier budgétaire de
+l'Assemblée nationale ne donnant accès qu'aux documents de procédure, pas
+aux bleus par mission ; seuls des chiffres de presse spécialisée circulent
+(fonds vert reconduit à 1 Md€, mission +1,5 Md€ selon les lettres plafonds
+de juillet, article sous paywall) — non retenus. EFFIS revérifié (page JRC
+mise à jour le 24 sept., 678 978 ha au 23 sept., valeur inchangée depuis le
+28 sept., donc aucune alerte). Mise à jour hebdomadaire ENSO de la NOAA
+relue, valeurs inchangées depuis le 28 sept. (Niño-3,4 +2,2 °C). Restriction
+PFAS (ECHA) : page consultée s'est révélée obsolète (contenu antérieur à
+2023), toujours aucune date actuelle lue. INC-5.4 (traité plastiques) :
+toujours aucune date sur le site du PNUE (dernière mise à jour de la page :
+9 sept. 2026). Aucune analyse NSIDC dédiée au maximum antarctique 2026
+publiée (dernière analyse listée : 23 sept. 2026). Aucune autre publication
+nouvelle relevée sur les sites de l'OMM, de la CCNUCC, du PNUE, de
+Copernicus, de l'AEE, du Citepa ni de l'UICN._ Passage du 2026-10-03 (brief) :
+aucune date officielle nouvelle. Budget de la mission Écologie dans le PLF
+2027 : toujours non lu à une source primaire (site du ministère inaccessible,
+dossier budgétaire de l'AN sans bleus par mission consultables aujourd'hui).
+Restriction PFAS (ECHA) : page officielle revérifiée, toujours un projet
+d'avis du SEAC en consultation sans date de clôture ; une source secondaire
+(European Rubber Journal) affirme une conclusion du SEAC dès le 11 mars 2026,
+en contradiction avec la page officielle de l'ECHA — écart non résolu, aucune
+date retenue. INC-5.4 (traité plastiques) : toujours aucune date sur le site
+du PNUE. Calendrier IPBES : page toujours inaccessible à l'outil (erreur
+403). Dates de publication du Global Carbon Budget 2026 et de l'Emissions Gap
+Report 2026 du PNUE : toujours non trouvées. Bulletin climatique Copernicus
+de septembre 2026 et bilan climatique de septembre 2026 de Météo-France :
+non encore publiés. Aucune autre publication nouvelle relevée sur les sites
+de l'OMM, de la CCNUCC, du PNUE, de Copernicus, de l'AEE, du Citepa ni de
+l'UICN._ Passage du 2026-10-04 (brief) : aucune date officielle nouvelle.
+Calendrier IPBES : page toujours inaccessible à l'outil (erreur 403/404
+selon le point d'entrée). INC-5.4 (traité plastiques) : toujours aucune
+date sur le site du PNUE. Dates de publication du Global Carbon Budget 2026
+(confirmé : aucune annonce sur le site du Global Carbon Project) et de
+l'Emissions Gap Report 2026 du PNUE : toujours non trouvées. Calendrier du
+protocole de Montréal revérifié sur le site de l'Ozone Secretariat : MOP38
+(Kigali, 2-6 nov.) inchangée. Budget de la mission Écologie dans le PLF
+2027 : toujours non lu à une source primaire ; des déclarations
+gouvernementales antérieures (Premier ministre, 22 juillet) et une source
+non nommée citée par la presse spécialisée (15 sept.) évoquant un fonds
+vert à 1 Md€ restent non confirmées par le bleu budgétaire lui-même, donc
+non retenues comme élément nouveau. Bulletin climatique Copernicus de
+septembre 2026, bilan climatique de septembre 2026 de Météo-France et
+bulletin BRGM du 1er octobre : toujours non publiés._ Passage du 2026-10-05
+(brief) : bilan climatique de septembre 2026 de Météo-France paru entre-temps
+(2 oct.), lu pour la première fois aujourd'hui (voir brief et `reperes.md`).
+Bulletin climatique Copernicus de septembre 2026 et bulletin BRGM du
+1er octobre sur les nappes : toujours non publiés. Restriction PFAS (ECHA) :
+page officielle revérifiée, toujours aucune date d'avis final du SEAC ni de
+décision de la Commission ; un cabinet d'avocats (Greenberg Traurig, article
+du 15 mai 2026) anticipe un avis final du SEAC « d'ici la fin de l'année
+2026 », mais ce calendrier n'est pas confirmé par l'ECHA elle-même, donc
+toujours aucune date inscrite ici. Calendrier IPBES et date de l'INC-5.4
+(traité plastiques) : toujours aucune date officielle trouvée. Dates de
+publication du Global Carbon Budget 2026 et de l'Emissions Gap Report 2026
+du PNUE : toujours non trouvées. Aucune autre publication nouvelle relevée
+sur les sites de l'OMM, de la CCNUCC, du PNUE, de Copernicus, de l'AEE, du
+Citepa ni de l'UICN._ Passage du 2026-10-06 (brief) : aucune date officielle
+nouvelle sur l'ensemble des points ci-dessus (GIEC au-delà de la session déjà
+confirmée, IPBES, INC-5.4, Global Carbon Budget 2026, Emissions Gap Report
+2026). Bulletin climatique Copernicus de septembre et bulletin BRGM du
+1er octobre : toujours non publiés. Site du GIEC (ipcc.ch) toujours en erreur
+403. Dossier législatif de l'Assemblée nationale pour le PLF 2027 revérifié :
+toujours aucun accès aux bleus budgétaires par mission._ Passage du
+2026-10-07 (brief) : aucune date officielle nouvelle. Bulletin climatique
+Copernicus de septembre 2026 (page `climate-bulletins` revérifiée : dernier
+bulletin encore celui d'août) et bulletin BRGM du 1er octobre sur les nappes :
+toujours non publiés. Restriction PFAS (ECHA) : aucune annonce nouvelle
+trouvée. Calendrier IPBES, date de l'INC-5.4 (traité plastiques), dates de
+publication du Global Carbon Budget 2026 et de l'Emissions Gap Report 2026
+du PNUE : toujours sans date officielle. Budget de la mission Écologie dans
+le PLF 2027 : toujours non lu à une source primaire (ecologie.gouv.fr et
+budget.gouv.fr inaccessibles à l'outil) ; désignation des rapporteurs pour
+avis sur le PLF 2027 à l'Assemblée nationale notée dans la presse spécialisée,
+sans chiffre budgétaire nouveau. Aucune analyse NSIDC dédiée au maximum
+antarctique 2026 publiée (dernière analyse listée : 23 sept. 2026). Aucune
+autre publication nouvelle relevée sur les sites de l'OMM, de la CCNUCC, du
+PNUE, de Copernicus, de l'AEE, du Citepa ni de l'UICN._ Passage du 2026-10-08
+(brief) : bulletin BRGM du 1er octobre sur les nappes paru (voir brief et
+`reperes.md`) ; aucune date officielle nouvelle sur le reste du suivi. Page
+du GIEC (ipcc.ch) de nouveau accessible mais sans actualité postérieure au
+9 juin 2026. Calendrier IPBES : pages `/plenary` et `/calendar` illisibles à
+l'outil, aucune date de session postérieure à IPBES-12 (déjà passée).
+INC-5.4 (traité plastiques), dates du Global Carbon Budget 2026 et de
+l'Emissions Gap Report 2026 : toujours sans date officielle. Restriction
+PFAS (ECHA) : page officielle de nouveau illisible, aucune date de décision
+finale au-delà des avis RAC/SEAC de mars 2026 déjà connus. Budget de la
+mission Écologie dans le PLF 2027 : dossier législatif de l'Assemblée
+nationale revérifié, toujours aucun bleu budgétaire par mission accessible.
+Passage du 2026-10-09 (brief) : aucune date officielle nouvelle sur
+l'ensemble du suivi (GIEC au-delà de l'IPCC-65 déjà confirmée, IPBES,
+INC-5.4, Global Carbon Budget 2026, Emissions Gap Report 2026, restriction
+PFAS). Budget de la mission Écologie dans le PLF 2027 : dossier législatif
+de l'Assemblée nationale revérifié (rapporteurs spéciaux, calendrier de
+discussion), toujours aucun bleu budgétaire par mission accessible — voir
+mise à jour correspondante en « À réévaluer » ci-dessous. Passage du
+2026-10-10 (brief) : aucune date officielle nouvelle sur l'ensemble du suivi
+(IPCC-65 déjà confirmée ci-dessus, IPBES, INC-5.4, Global Carbon Budget 2026,
+Emissions Gap Report 2026) ; page de l'ECHA sur la restriction PFAS
+revérifiée, toujours aucune date de clôture de la consultation sur le projet
+d'avis du SEAC ni d'avis final lisible. Budget de la mission Écologie dans le
+PLF 2027 : toujours non lu à une source primaire ; deux relais de presse du
+2 oct. (maire-info, L'Info Durable), citant la même conférence ministérielle
+du 1er oct. déjà connue, ajoutent +36 M€ pour la forêt et le déploiement de
+Vigiecrue — voir mise à jour correspondante en « À réévaluer » ci-dessous.
+Passage du 2026-10-11 (brief) : aucune date officielle nouvelle sur
+l'ensemble du suivi (IPCC-65 et Conseil « Environnement » de l'UE du 12 oct.
+toujours confirmés, COP17 du 19 oct. toujours confirmée, IPBES, INC-5.4,
+Global Carbon Budget 2026, Emissions Gap Report 2026). Trois sujets nouveaux
+ajoutés à la section « À réévaluer » ci-dessous : décision de la Haute Cour
+d'Australie sur la mine de Mount Pleasant (portée exacte du précédent),
+sécheresse 2026 en Hongrie (source officielle HungaroMet non lue
+directement), évolution des feux en Indonésie (chiffres de presse non
+recoupés aux séries CAMS/GFED/SiPongi). Passage du 2026-10-12 (brief) :
+**IPCC-65 (12-16 oct., Addis-Abeba) et Conseil « Environnement » de l'UE
+(12 oct., Luxembourg) ouverts ce jour**, sans résultat à ce stade (ordre du
+jour du Conseil : débat sur le paquet SEQE proposé le 17 juillet, projet de
+conclusions sur la préparation de la COP31 climat et de la COP17
+biodiversité) — à retirer de cette liste une fois les sessions achevées.
+COP17 (19-30 oct.), MOP38 (2-6 nov.) et COP31 (9-20 nov.) toujours
+confirmées sans changement. Calendrier IPBES, date de l'INC-5.4, dates du
+Global Carbon Budget 2026 et de l'Emissions Gap Report 2026, restriction
+PFAS (ECHA) : toujours sans date officielle nouvelle. Passage du 2026-10-13
+(brief) : **Conseil « Environnement » de l'UE du 12 oct. tenu** — ordre du
+jour confirmé a posteriori (document provisoire 13742/26, 9 oct. : débat
+d'orientation sur la réforme du SEQE/compétitivité, conclusions non
+législatives sur la préparation de la COP31 et de la COP17) mais aucun texte
+de conclusions adopté retrouvé à une source lisible ; retiré de la liste des
+échéances (réunion passée), sans résultat vérifiable à rapporter. IPCC-65
+(12-16 oct.) : session en cours sans décision annoncée sur le calendrier de
+l'AR7 — blocage inchangé depuis l'IPCC-64 (Bangkok, avril 2026, qualifiée de
+« frustrante et décevante » par le président Jim Skea) ; échéance reformulée
+à sa date de clôture (16 oct.). Calendrier IPBES, date de l'INC-5.4, dates du
+Global Carbon Budget 2026 et de l'Emissions Gap Report 2026, restriction
+PFAS (ECHA) : toujours sans date officielle nouvelle. Passage du 2026-10-14
+(brief) : aucune date officielle nouvelle sur l'ensemble du suivi — IPCC-65
+toujours en session jusqu'au 16 oct. sans décision annoncée sur l'AR7 ;
+COP17 CDB (19-30 oct.), MOP38 (2-6 nov.) et COP31 (9-20 nov.) toujours
+confirmées sans changement ; calendrier IPBES, date de l'INC-5.4, dates du
+Global Carbon Budget 2026 et de l'Emissions Gap Report 2026, restriction
+PFAS (ECHA) : toujours sans élément officiel nouveau. Passage du
+2026-10-15 (brief) : aucune date officielle nouvelle — IPCC-65 toujours en
+session, clôture attendue demain (16 oct.), sans décision rapportée sur le
+calendrier de l'AR7 ; COP17 CDB (19-30 oct.), MOP38 (2-6 nov.) et COP31
+(9-20 nov.) toujours confirmées sans changement ; calendrier IPBES, date
+de l'INC-5.4, dates du Global Carbon Budget 2026 et de l'Emissions Gap
+Report 2026, restriction PFAS (ECHA) : toujours sans élément officiel
+nouveau. Passage du 2026-10-16 (brief) : **IPCC-65 clôturée ce jour à
+Addis-Abeba** (retirée de la liste des échéances, date atteinte) ; aucun
+communiqué officiel du GIEC ni compte rendu de l'*Earth Negotiations
+Bulletin* confirmant une décision — ou son absence — sur le calendrier de
+l'AR7 n'a pu être lu à l'heure du brief ; un article de Carbon Brief du
+13 oct. détaille trois options encore en discussion ce jour-là (deux faisant
+paraaitre les trois rapports en 2028, une troisième, soutenue par l'Arabie
+saoudite et l'Inde, en reportant deux à 2029) ; résultat à vérifier au
+prochain passage. CO₂ Mauna Loa, ENSO (discussion du CPC toujours datée du
+8 oct.) et EFFIS/JRC (692 419 ha au 7 oct., page toujours datée du 8 oct.)
+revérifiés sans changement. Budget de la mission Écologie dans le PLF 2027 :
+toujours non lu à une source primaire. Calendrier IPBES, date de l'INC-5.4,
+dates du Global Carbon Budget 2026 et de l'Emissions Gap Report 2026,
+restriction PFAS (ECHA) : toujours sans élément officiel nouveau. Passage du
+2026-10-17 (brief) : **l'IPCC-65 a été suspendue le 16 oct., sans accord ni
+sur le calendrier de l'AR7 ni sur le budget 2027** — confirmé par trois
+sources de presse indépendantes entre elles (Tavuli News, Neo Science Hub,
+Head Topics/Straits Times), toutes citant une dépêche Reuters ; le
+communiqué officiel du GIEC (ipcc.ch, 16 oct.) n'a pas pu être lu directement
+(erreur de récupération), seul son titre étant confirmé par un moteur de
+recherche — alerte publiée dans le brief du jour, point retiré du suivi actif
+de ce fichier. Date de lancement de l'*Emissions Gap Report* 2026 trouvée
+(21 oct.) sur une page d'événement de l'ODI, non confirmée sur le site du
+PNUE lui-même — ajoutée ci-dessus comme « projet ». CO₂ Mauna Loa, ENSO,
+EFFIS/JRC (toujours 692 419 ha, page non mise à jour depuis le 8 oct.), PFAS
+(ECHA, page de restriction relue : consultation sur le rapport Annexe XV
+close depuis 2023, aucune date pour l'avis du SEAC), IPBES, INC-5.4, Global
+Carbon Budget 2026 : tous revérifiés sans élément officiel nouveau. Passage du
+2026-10-18 (brief) : **l'échec de l'IPCC-65 sur le calendrier de l'AR7 est
+précisé par une seconde chaîne de presse indépendante** (AFP via
+*Connaissance des Énergies*, citant le négociateur français Benoît Faraco),
+qui situe le clivage entre une large coalition favorable à 2028 et l'Inde,
+l'Arabie saoudite et la Chine favorables à 2029 — communiqué officiel du GIEC
+toujours non lu directement, voir le brief du jour ; aucune date de prochaine
+session connue. COP17 CDB (19-30 oct., Erevan) ouvre demain ; date du
+lancement de l'*Emissions Gap Report* 2026 (21 oct.) toujours non confirmée
+sur le site officiel du PNUE (seule une page d'événement de l'ODI la donne).
+CO₂ Mauna Loa, ENSO et EFFIS/JRC revérifiés sans changement. Calendrier
+IPBES, date de l'INC-5.4, dates du Global Carbon Budget 2026, restriction
+PFAS (ECHA), budget de la mission Écologie dans le PLF 2027 : toujours sans
+élément officiel nouveau. Passage du 2026-10-19 (brief) : **COP17 de la
+Convention sur la diversité biologique ouverte ce jour à Erevan**, comme
+prévu — alerte publiée dans le brief du jour à partir du rapport officiel du
+secrétariat (*State of Biodiversity Action*, 15 oct.) ; reste en liste des
+échéances jusqu'à sa clôture le 30 octobre. Date du lancement de
+l'*Emissions Gap Report* 2026 (21 oct.) toujours non confirmée sur le site
+officiel du PNUE. CO₂ Mauna Loa, ENSO et EFFIS/JRC revérifiés sans
+changement. Calendrier IPBES, date de l'INC-5.4, dates du Global Carbon
+Budget 2026, restriction PFAS (ECHA), budget de la mission Écologie dans la
+PLF 2027 (vote solennel sur la première partie attendu le 20 oct.) :
+toujours sans élément officiel nouveau. Passage du 2026-10-20 (brief) :
+**vote solennel sur la première partie du PLF 2027 tenu ce jour à
+l'Assemblée nationale** (programme confirmé par le calendrier budgétaire
+officiel), mais aucun résultat (adoption, rejet, décompte) lu à une source
+lisible à l'heure du brief (20 h, Paris) — à vérifier au prochain passage ;
+budget propre de la mission Écologie toujours non lu à une source primaire.
+COP17 (Erevan, jusqu'au 30 oct.) : un « Forum entreprises et biodiversité »
+annoncé pour le 25 octobre par le secrétariat de la CDB, sans engagement
+financier chiffré à ce stade ; pas de bilan ou décision nouvelle rapportée
+ce jour. CO₂ Mauna Loa et EFFIS/JRC relus directement à la source sans
+changement ; ENSO revérifié sans changement. Calendrier IPBES, date de
+l'INC-5.4, dates du Global Carbon Budget 2026, restriction PFAS (ECHA) :
+toujours sans élément officiel nouveau. Passage du 2026-10-21 (brief) :
+**l'*Emissions Gap Report* 2026 du PNUE a été publié ce jour** (« The Point
+of Return »), confirmé par la page de ressources de l'UNEP et par trois
+relais de presse indépendants entre eux — alerte publiée dans le brief du
+jour, échéance retirée de la liste ci-dessus (passée). **Vote solennel sur
+la première partie du PLF 2027, prévu le 20 oct., reporté le 19 oct.**
+faute d'examen d'environ 2 600 amendements sur la partie recettes ; le
+débat doit reprendre le 27 octobre (confirmé par deux sources de presse
+indépendantes entre elles, LCP et Gestion de Fortune) — budget propre de la
+mission Écologie toujours non lu à une source primaire, voir « À
+réévaluer » ci-dessous. COP17 (Erevan) : désaccords précisés sur le
+mécanisme financier (chiffres OCDE du retard de financement, 75-92 Md$/an
+contre un objectif de 200 Md$/an) — alerte publiée dans le brief du jour ;
+reste en liste des échéances jusqu'à sa clôture le 30 octobre. CO₂ Mauna
+Loa et EFFIS/JRC revérifiés sans changement. Calendrier IPBES, date de
+l'INC-5.4, dates du Global Carbon Budget 2026, restriction PFAS (ECHA) :
+toujours sans élément officiel nouveau. Passage du 2026-10-22 (brief) :
+COP17 (Erevan, jusqu'au 30 oct.) suivie sans nouveau développement chiffré
+au-delà de ce qui est déjà connu ; vote solennel sur la première partie du
+PLF 2027 toujours attendu le 27 octobre, plusieurs lots d'amendements
+adoptés depuis en séance publique (fiscalité des particuliers), sans
+élément nouveau sur le budget propre de la mission Écologie. CO₂ Mauna Loa,
+ENSO et EFFIS/JRC revérifiés sans changement. Calendrier IPBES, date de
+l'INC-5.4, dates du Global Carbon Budget 2026, restriction PFAS (ECHA) :
+toujours sans élément officiel nouveau. Passage du 2026-10-23 (brief) :
+COP17 (Erevan, jusqu'au 30 oct.) suivie sans nouveau développement chiffré
+sur le mécanisme financier au-delà de ce qui est déjà connu (dernier
+rapport officiel de l'*Earth Negotiations Bulletin* lu : séance d'ouverture
+du 19 oct., désaccords non résolus sur le Fonds Cali et les modalités de
+financement) ; vote solennel sur la première partie du PLF 2027 toujours
+attendu le 27 octobre, sans élément nouveau sur le budget propre de la
+mission Écologie. CO₂ Mauna Loa et EFFIS/JRC relus directement à la source
+sans changement. Restriction PFAS (ECHA) : un document d'un cabinet
+d'avocats (Linklaters, avril 2026) confirme la même échéance déjà connue —
+avis final du SEAC « d'ici la fin de 2026 », non confirmé par l'ECHA
+elle-même — aucune date nouvelle retenue. Calendrier IPBES, date de
+l'INC-5.4, date du Global Carbon Budget 2026 : toujours sans élément
+officiel nouveau. Passage du 2026-10-24 (brief) : COP17 (Erevan, jusqu'au
+30 oct.) suivie via le bulletin officiel de l'*Earth Negotiations Bulletin*
+sur la séance du 19 oct. (lu directement à la source), qui détaille le
+désaccord sur le mécanisme financier et le Fonds du cadre mondial pour la
+biodiversité sans rien ajouter de quantifié au désaccord déjà rapporté le
+21 octobre ; vote solennel sur la première partie du PLF 2027 toujours
+attendu le 27 octobre, sans élément nouveau sur le budget propre de la
+mission Écologie. CO₂ Mauna Loa et EFFIS/JRC relus directement à la source
+sans changement. Calendrier IPBES, date de l'INC-5.4, date du Global Carbon
+Budget 2026, restriction PFAS (ECHA) : toujours sans élément officiel
+nouveau. Passage du 2026-10-26 (brief couvrant le 24-26 oct., aucun passage
+n'a eu lieu le 25 oct.) : COP17 (Erevan, jusqu'au 30 oct.) suivie via le
+bulletin officiel de l'*Earth Negotiations Bulletin* du 23 oct. (lu
+directement à la source) — décisions adoptées sur les protocoles de
+Cartagena et de Nagoya (biosecurité, accès aux ressources génétiques),
+mécanisme financier central (Fonds mondial pour la biodiversité) toujours
+sans accord à cette date ; reste en liste jusqu'à sa clôture le 30 octobre.
+Vote solennel sur la première partie du PLF 2027 toujours attendu le
+27 octobre, sans élément nouveau sur le budget propre de la mission Écologie.
+CO₂ Mauna Loa et EFFIS/JRC relus directement à la source sans changement.
+Calendrier IPBES, date de l'INC-5.4, date du Global Carbon Budget 2026,
+restriction PFAS (ECHA) : toujours sans élément officiel nouveau. Nouvel
+élément lu hors échéance : baromètre du Citepa sur les émissions du premier
+semestre 2026, traité dans le brief du jour et dans `reperes.md`. Passage du
+2026-10-27 (brief) : **calendrier de l'IPBES résolu** — IPBES-13 confirmée
+du 1er au 8 novembre 2027 à Nairobi, lue directement sur `ipbes.net/plenary`
+— ligne ajoutée ci-dessus. **COP17 (Erevan) entrée en session ministérielle
+de haut niveau les 27 et 28 octobre** (communiqué du secrétariat de la CDB
+du 23 oct.), négociations dites « Voie de Yerevan » toujours en cours ;
+désaccord persistant sur le mécanisme financier, désormais précisé comme
+portant sur l'élargissement de la base des pays contributeurs (Carbon
+Pulse, 24 oct., article partiellement payant ; cohérent avec le bulletin
+officiel de l'ENB du 20 oct. sur la séance du 19, qui rapportait déjà les
+appels du groupe africain, du GRULAC et du LMMC sur les engagements
+financiers et le Fonds de Cali) ; reste en liste des échéances jusqu'à sa
+clôture le 30 octobre. **Vote solennel sur la première partie du PLF 2027
+reporté une seconde fois, du 27 octobre au 3 novembre** après-midi (page
+officielle de l'Assemblée nationale lue directement, confirmée par deux
+relais de presse indépendants entre eux, Journal du Net et
+NosParlementaires) — le budget de la Sécurité sociale a occupé l'hémicycle
+du 20 au 23 oct. (rejeté ce dernier jour), les quelque 2 600 amendements
+restants sur la partie recettes n'ayant pu être examinés depuis ; vote sur
+l'ensemble du budget toujours fixé au 17 novembre ; budget propre de la
+mission Écologie toujours non lu à une source primaire, voir « À
+réévaluer » ci-dessous. CO₂ Mauna Loa et EFFIS/JRC relus directement à la
+source sans changement. Date de l'INC-5.4, date du Global Carbon Budget
+2026, restriction PFAS (ECHA) : toujours sans élément officiel nouveau.
+Passage du 2026-10-29 (brief) : **COP17 (Erevan) entrée dans ses deux
+derniers jours avant la clôture du 30 octobre** — désaccord sur le
+mécanisme financier précisé par trois sources de presse spécialisée
+indépendantes entre elles (élargissement de la liste des pays donateurs
+proposé par l'UE, rejeté par le Groupe arabe ; texte sur le bilan mondial
+non adopté le 28 oct. comme prévu par la présidence), nouvelles promesses
+cumulées d'environ 500 M$ depuis l'ouverture — alerte publiée dans le brief
+du jour, voir « À réévaluer » ci-dessous ; reste en liste des échéances
+jusqu'à sa clôture prévue demain. CO₂ Mauna Loa, ENSO (discussion du CPC
+toujours datée du 8 oct.) et EFFIS/JRC (692 419 ha au 7 oct., page toujours
+datée du 8 oct.) tous revérifiés directement à la source sans changement.
+Date de l'INC-5.4, date du Global Carbon Budget 2026, restriction PFAS
+(ECHA) : toujours sans élément officiel nouveau. Passage du 2026-10-30
+(brief) : **communiqué officiel du secrétariat de la CDB daté du 29 oct.
+lu directement** — plus de 1,8 milliard $ de financements biodiversité
+nouveaux annoncés pendant le segment de haut niveau (clos le 28 oct.,
+~1 500 participants dont près de 140 ministres), chiffre agrégé non
+ventilé par bailleur ; bulletin officiel de l'*Earth Negotiations
+Bulletin* (vol. 9 n° 890, 28 oct., couvrant la séance du 27) lu
+directement : le mécanisme financier central (stratégie de mobilisation
+des ressources, élargissement de la base des pays contributeurs,
+« marqueurs de Rio ») reste non conclu à cette date, plusieurs points
+encore entre crochets — alerte publiée dans le brief du jour, voir « À
+réévaluer » ci-dessous ; clôture de la COP17 prévue ce jour (30 oct.),
+résultat non encore connu à l'heure du brief (20 h, Paris) — reste en
+liste des échéances jusqu'à confirmation. CO₂ Mauna Loa et EFFIS/JRC
+relus directement à la source sans changement. Discussion mensuelle du
+CPC sur l'ENSO relue directement : toujours celle du 8 oct., prochaine
+discussion annoncée pour le 12 novembre 2026. Date de l'INC-5.4, date du
+Global Carbon Budget 2026, restriction PFAS (ECHA, page officielle non
+accessible à l'outil ce jour) : toujours sans élément officiel nouveau.
+Passage du 2026-10-31 (brief) : **COP17 (Erevan) clôturée dans la nuit du
+30 au 31 octobre**, après une séance plénière finale prolongée toute la
+nuit — confirmé par deux sources de presse spécialisée indépendantes entre
+elles ayant suivi les séances (Carbon Brief, Climate Change News), le
+communiqué officiel de clôture du secrétariat de la CDB n'ayant pas pu être
+récupéré directement (pages cbd.int en erreur) ; retirée de la liste des
+échéances ci-dessus (échéance passée), résultat détaillé dans le brief du
+jour et en « À réévaluer » ci-dessous. CO₂ Mauna Loa, EFFIS/JRC et ENSO
+revérifiés directement à la source sans changement. Date de l'INC-5.4,
+date du Global Carbon Budget 2026, restriction PFAS (ECHA) : toujours sans
+élément officiel nouveau. Passage du 2026-11-01 (brief) : aucune date
+officielle nouvelle. Page de l'UNFCCC sur la COP31 (Antalya, 9-20 nov.)
+revérifiée directement : dates et lieu inchangés, seule nouveauté la note
+conjointe des présidents des organes subsidiaires (SB65) parue le 27 oct.,
+sans portée sur le calendrier — ligne mise à jour ci-dessus. **Ligne
+ajoutée au tableau des échéances : date limite constitutionnelle du
+17 novembre 2026 pour l'adoption du budget 2027 en première lecture**,
+déjà mentionnée dans les brefs des 27 et 29 octobre à partir du calendrier
+budgétaire officiel de l'Assemblée nationale, mais pas encore formalisée
+dans ce tableau. MOP38 (Kigali, à partir de demain 2 nov.) et vote du
+budget 2027 (3 nov.) : dates inchangées, aucun développement à ce jour.
+CO₂ Mauna Loa, EFFIS/JRC et ENSO revérifiés directement à la source sans
+changement. Niveau des nappes (prochain bulletin BRGM attendu début
+novembre), restriction PFAS (ECHA), date de l'INC-5.4, date du Global
+Carbon Budget 2026 : non revérifiés directement aujourd'hui, aucun élément
+nouveau trouvé par ailleurs. Passage du 2026-11-02 (brief) : **MOP38
+(protocole de Montréal) ouverte ce jour à Kigali (Rwanda)**, jusqu'au
+6 novembre, aucun résultat substantiel à l'heure du brief (page officielle
+de l'Ozone Secretariat et bulletin de l'ENB/IISD sur cette session
+inaccessibles à l'outil ce jour). Vote solennel sur la première partie du
+budget 2027 : page officielle de l'Assemblée nationale revérifiée
+directement, toujours attendu demain 3 novembre, aucun nouveau report.
+Évolution significative traitée dans le brief du jour, hors tableau des
+échéances : Australie, loi ad hoc annoncée pour la mine de Mount Pleasant
+malgré la Haute Cour — voir « À réévaluer » ci-dessous. CO₂ Mauna Loa,
+EFFIS/JRC et ENSO revérifiés directement à la source sans changement.
+Niveau des nappes (prochain bulletin BRGM attendu début novembre),
+restriction PFAS (ECHA), date de l'INC-5.4, date du Global Carbon Budget
+2026 : toujours sans élément officiel nouveau. **Mis à jour le 3 nov.
+(brief) :** vote solennel sur la première partie du budget 2027, qui
+devait se tenir ce jour, reporté une troisième fois — 758 amendements
+restaient à examiner sur la partie recettes à la suspension des débats
+lundi soir (LCP, lu directement, article du jour 0h03) ; aucune nouvelle
+date officielle fixée, fin de l'examen « espérée » cette semaine selon le
+président de séance (Sébastien Chenu, RN) ; échéance du 17 novembre
+(adoption de l'ensemble du budget en première lecture) maintenue sans
+changement. MOP38 (Kigali, jusqu'au 6 nov.) et COP31 (Antalya, à partir du
+9 nov.) suivies sans résultat substantiel trouvé à ce jour. CO₂ Mauna Loa,
+EFFIS/JRC et ENSO revus directement à la source sans changement. Niveau
+des nappes, restriction PFAS (ECHA), date de l'INC-5.4, date du Global
+Carbon Budget 2026 : toujours sans élément officiel nouveau. Passage du
+2026-11-04 (brief) : **MOP38 (Kigali) suivie via sa première couverture de
+presse lue directement** (KT Press, 2 nov.) — enjeu du refinancement du
+Fonds multilatéral 2027-2029, chiffré entre 1,23 et 1,69 Md$ par l'ONG
+Environmental Investigation Agency (EIA), contre 965 M$ pour 2024-2026 ;
+communiqué séparé de l'EIA et de 12 autres ONG (4 nov., lu directement)
+demandant un contrôle renforcé des émissions de HFC-23 — chiffrages d'une
+partie intéressée, non arbitrés par les Parties, voir le brief du jour ;
+reste en liste jusqu'à sa clôture prévue le 6 nov. PLF 2027 : vote
+solennel sur la partie recettes toujours sans nouvelle date à l'heure de
+ce brief, aucun élément au-delà de ce qui est déjà connu du 3 nov. CO₂
+Mauna Loa, EFFIS/JRC et ENSO revus directement à la source sans
+changement. Niveau des nappes, restriction PFAS (ECHA), date de l'INC-5.4,
+date du Global Carbon Budget 2026 : toujours sans élément officiel
+nouveau. Passage du 2026-11-06 (brief) : **vote solennel du PLF 2027 tenu
+le 4 nov. — rejet de la première partie (recettes)**, scrutin n° 9759 lu
+directement sur le site de l'Assemblée nationale (0 pour, 458 contre, 2
+abstentions) ; échéance du 17 nov. (première lecture à l'Assemblée)
+retirée de la liste ci-dessus, le rejet valant achèvement de cette
+première lecture — remplacée par le calendrier sénatorial et les
+échéances d'ordonnances rapportés par LCP (5 nov., lu directement) :
+PLFSS au Sénat du 9 au 18 nov., PLF du 20 nov. au 9 déc., ordonnances
+possibles après le 26 nov. (PLFSS) et le 17 déc. (PLF). Budget de la
+mission Écologie toujours non lu à une source primaire. MOP38 (Kigali) :
+clôture attendue ce jour, page de la session mise à jour le 5 nov. sans
+résultat annoncé, couverture ENB inaccessible à l'outil — à vérifier au
+prochain passage. CO₂ Mauna Loa et EFFIS/JRC revus directement à la
+source sans changement. ENSO, niveau des nappes, restriction PFAS
+(ECHA), date de l'INC-5.4, date du Global Carbon Budget 2026, dépôt du
+projet de loi Mount Pleasant (Australie) : toujours sans élément officiel
+nouveau. Passage du 2026-11-09 (brief) : **COP31 (CCNUCC) ouverte ce jour à
+Antalya**, comme prévu — discours d'ouverture seulement (Guterres, Kurum),
+aucune décision adoptée, voir le brief du jour ; reste en liste des
+échéances jusqu'à sa clôture le 20 novembre. MOP38 (Kigali, close le
+6 nov.) : toujours aucun communiqué officiel du Secrétariat de l'ozone sur
+le financement 2027-2029 trois jours après la clôture — note inchangée
+4/10 en « à réévaluer » ci-dessous. PLFSS 2027 : séance publique ouverte
+ce jour au Sénat comme prévu, aucun élément nouveau sur le budget de la
+mission Écologie. Global Carbon Budget 2026 : toujours non publié
+(globalcarbonbudget.org encore à l'édition 2025, dernière actualité du
+site datée du 8 nov., sans rapport avec une nouvelle édition). Mount
+Pleasant (Australie) : toujours aucune trace d'un dépôt du projet de loi
+au Parlement au-delà des articles du 19-20 oct. déjà connus ; aucune
+source plus récente trouvée. CO₂ Mauna Loa (toujours 426,07 ppm pour
+septembre, page datée du 9 oct.) et ENSO (discussion du CPC toujours
+datée du 8 oct., prochaine le 12 nov.) revus directement à la source sans
+changement ; EFFIS/JRC revu directement à la source, toujours 692 419 ha
+au 7 oct. (page datée du 8 oct., mise à jour mensuelle en hiver). Niveau
+des nappes, restriction PFAS (ECHA), date de l'INC-5.4, calendrier IPBES :
+non revérifiés aujourd'hui, faute de temps.
+
+## À réévaluer
+
+- 2026-11-07 — MOP38 (protocole de Montréal, Kigali, 2-6 nov.) : réunion close le 6 nov. sans communiqué officiel du Secrétariat de l'ozone annonçant un résultat chiffré sur la reconstitution du Fonds multilatéral 2027-2029 trouvé ni lu à cette date — un article d'ANTARA News (7 nov.) évoque la clôture des réunions sans détail financier, les seuls chiffres disponibles restant l'estimation indépendante de l'Environmental Investigation Agency (1,23 à 1,69 Md$, non arbitrée) et des appels politiques (Rwanda, Indonésie) à une reconstitution ambitieuse — note actuelle 4/10 pour l'affirmation « financement non tranché » — ce qui la ferait bouger : communiqué officiel du Secrétariat de l'ozone, rapport de clôture de l'*Earth Negotiations Bulletin* (IISD) — ecologie/daily/2026/11/2026-11-07-brief-ecologie.md. Revérifié le 8 nov. (brief) : toujours aucun communiqué officiel du Secrétariat de l'ozone, cinq jours après la clôture — les pages ozone.unep.org consultées ne montrent que des mises à jour administratives au 7 nov. (composition du Bureau, désignations au Comité exécutif), sans décision financière ; le rapport de clôture de l'*Earth Negotiations Bulletin* (IISD) n'a pas pu être lu à l'outil aujourd'hui — note inchangée 4/10 — ecologie/daily/2026/11/2026-11-08-brief-ecologie.md. Revérifié le 9 nov. (brief) : toujours aucun communiqué officiel du Secrétariat de l'ozone trouvé, trois jours après la clôture — note inchangée 4/10 — ecologie/daily/2026/11/2026-11-09-brief-ecologie.md
+- 2026-10-11 — Australie : portée du précédent de la décision de la Haute Cour sur la mine de Mount Pleasant (« contraignant dans toute l'Australie », selon les avocates des plaignants) — note actuelle 5/10 pour cette affirmation de portée (7/10 pour la décision elle-même) — ce qui la ferait bouger : lecture du jugement complet (non lu, site de la Haute Cour inaccessible à l'outil), première application du précédent par un autre tribunal ou une autre commission de planification — ecologie/daily/2026/10/2026-10-11-brief-ecologie.md. Mis à jour le 12 oct. (brief) : analyse juridique indépendante (Monash Lens) nuance l'affirmation de portée nationale — la décision oblige la commission de Nouvelle-Galles du Sud à examiner les émissions de portée 3, mais n'impose pas de refuser le projet, et sa portée hors Nouvelle-Galles du Sud n'est pas établie (chaque État a sa propre législation) ; quatre juges sur cinq ont rejeté le lien causal direct entre les émissions du projet et les impacts climatiques locaux retenu par la Cour d'appel — note de l'affirmation de portée nationale abaissée à 4/10, décision elle-même toujours à 7/10 — ecologie/daily/2026/10/2026-10-12-brief-ecologie.md. Mis à jour le 2 nov. (brief) : évolution significative — le gouvernement de Nouvelle-Galles du Sud a annoncé le 19 oct. une loi ad hoc pour permettre à MACH Energy de continuer à extraire 16,5 Mt/an (contre 12,5 Mt/an) jusqu'en 2032 malgré la décision de la Haute Cour, en échange d'une garantie d'emploi pour 826 salariés jusqu'en 2032 ; confirmé par deux articles indépendants de l'ABC (19 et 21 oct., auteurs différents) et une dépêche AAP relayée par RenewEconomy (19 oct.), avec critique publique d'un ancien juge de la Cour suprême de NSW (Anthony Whealy, « précédent très dangereux ») et des élus Verts (« captation de l'État ») ; projet de loi non encore déposé au Parlement ni voté à la date des sources disponibles (20-21 oct.) — note de l'annonce elle-même 5/10 (déclaration gouvernementale non suivie d'un acte législatif), portée du précédent judiciaire d'origine inchangée (4/10) — ecologie/daily/2026/11/2026-11-02-brief-ecologie.md. Mis à jour le 4 nov. (brief) : communiqué du 19 oct. du groupe plaignant (DAMS HEG) lu directement pour la première fois (jusque-là connu par des articles indépendants le résumant) — qualifie la démarche de « legislative overreach », par la voix de son avocate Elaine Johnson et de sa présidente Wendy Wales, et demande la publication du texte avant tout débat ; précise l'historique des autorisations (consentement d'origine 10,5 Mt/an, modification n° 8 à 12,5 Mt/an jusqu'en 2032 approuvée le 14 août 2026) ; selon une source unique non confirmée indépendamment (Discovery Alert, 3 nov.), le projet de loi n'était toujours pas déposé au Parlement au 2 novembre — note de l'annonce elle-même inchangée à 5/10, note du non-dépôt 4/10 (source unique) — ecologie/daily/2026/11/2026-11-04-brief-ecologie.md. Revérifié le 9 nov. (brief) : aucune source plus récente que celles du 19-20 oct. trouvée, toujours aucune trace d'un dépôt du projet de loi au Parlement — notes inchangées — ecologie/daily/2026/11/2026-11-09-brief-ecologie.md
+- 2026-10-11 — Hongrie : été 2026 le plus sec en 126 ans (HungaroMet, via Euronews, Hungary Today, Hungarian Conservative — page officielle non lue directement) — note actuelle 6/10 — ce qui la ferait bouger : lecture directe du bulletin climatique de HungaroMet, confirmation de la période de référence exacte. Revu le 13 oct. (brief) : un article d'Euronews du 9 oct. détaille des chiffres plus précis (pluviométrie estivale 74,1 mm, soit 36 % de la normale 1991-2020 ; anomalie de température +2,59 °C ; sécheresse touchant 30 % du pays pendant 84 % de la période avril-début septembre) toujours attribués à HungaroMet sans lien vers un bulletin officiel — note inchangée 6/10 — ecologie/daily/2026/10/2026-10-11-brief-ecologie.md ; ecologie/daily/2026/10/2026-10-13-brief-ecologie.md
+- 2026-10-11 — Indonésie : plus de 200 000 ha brûlés dans six provinces, pire saison de feux depuis plus de dix ans, plus de 170 000 infections respiratoires recensées (presse et ministère indonésien de la Santé, chiffres de surface non recoupés aux séries CAMS/GFED/SiPongi) — note actuelle 6/10 — ce qui la ferait bouger : lecture directe des séries CAMS/GFED actualisées, décompte officiel SiPongi, bilan de fin de saison. Revérifié le 13 oct. : aucun chiffre chiffré nouveau trouvé sur les portails CAMS/GFAS (dernier communiqué daté du 21 août, qualitatif) — note inchangée 6/10. Mis à jour le 15 oct. (brief) : le gouvernement indonésien écarte l'état de catastrophe nationale (réunion restreinte présidée par Prabowo Subianto, ministre coordonnateur Dudung Abdurachman cité par The Vibes, 13 oct.), estimant la situation encore gérable malgré la brume persistant en Malaisie ; 26 entreprises déjà sanctionnées, dont cinq licences forestières révoquées au Kalimantan le 21 sept. ; toujours aucun chiffre national de surface brûlée ou de points chauds recoupé à une source officielle ou à une série primaire (CAMS/GFED/SiPongi) — note inchangée 6/10. Mis à jour le 16 oct. (brief) : le système SiPongi du ministère des Forêts, cité par Databoks/Katadata (source unique, non recoupée), indique un reflux quotidien des points de chaleur détectés par satellite — environ 23 300 le 7 oct., 11 000 le 13 oct., concentrés sur la Papouasie du Sud et le Kalimantan central ; aucune série CAMS/GFED actualisée ni communiqué gouvernemental recoupant cette baisse, et un décompte de points de chaleur ne mesure pas une surface brûlée — note inchangée 6/10. Mis à jour le 17 oct. (brief, alerte « événement » publiée ce jour pour l'épisode singapourien) : la brume a franchi les frontières avec un effet mesurable — record annuel de PSI à Singapour (192 le 9 oct., NEA, non lue directement mais relayée par deux titres indépendants entre eux) et fermeture des écoles au Timor-Leste à partir du 15 oct. ; en Indonésie, un incendie a détruit ~300 maisons à Bangka Belitung et plus de 60 000 agents sont déployés (chiffres officiels relayés par l'AFP et la presse régionale) ; un nouveau chiffre de 1 201 points chauds à la mi-octobre (presse malaisienne, source unique) contredit sans méthode commune celui de 11 000 du 13 oct., déjà écarté — toujours aucun bilan de surface brûlée ou de points de chaleur recoupé à une source officielle ou à une série primaire — note de la composante « bilan indonésien » inchangée 6/10, nouvel événement « brume à Singapour » noté 7/10 dans le brief du jour. Revérifié le 18 oct. : aucun chiffre officiel actualisé au-delà de ceux déjà retenus (un article du 9 oct. sur de nouvelles fermetures d'écoles en Malaisie — Kuala Lumpur, Putrajaya, Pahang, Melaka, API local ≈170 — est déjà ancien et ne constitue pas un élément nouveau) — note inchangée 6/10 pour le bilan indonésien, 7/10 pour l'événement singapourien — ecologie/daily/2026/10/2026-10-11-brief-ecologie.md ; ecologie/daily/2026/10/2026-10-13-brief-ecologie.md ; ecologie/daily/2026/10/2026-10-15-brief-ecologie.md ; ecologie/daily/2026/10/2026-10-16-brief-ecologie.md ; ecologie/daily/2026/10/2026-10-17-brief-ecologie.md ; ecologie/daily/2026/10/2026-10-18-brief-ecologie.md. Mis à jour le 19 oct. (brief) : nouvelle étape régionale — Singapour a atteint le 14 oct. la bande « très élevée » de son propre indice (PM2,5 288 µg/m³ selon la NEA, via AFP), avec prise en charge médicale subventionnée activée le 12 oct. pour la première fois depuis 2015 ; le Timor-Leste a fermé toutes ses écoles pendant trois jours à partir du 15 oct. ; en Indonésie, un feu a détruit ~300 habitations à Bangka Belitung (repéré le 10 oct., village évacué) et plus de 60 000 agents restent déployés ; toujours aucun bilan national de surface brûlée ou de points de chaleur recoupé à une source officielle unique — note inchangée 6/10 pour le bilan indonésien, nouvelle note 6/10 (sources officielles relayées par la presse, non lues directement) pour l'étape singapourienne du 14 oct. — ecologie/daily/2026/10/2026-10-19-brief-ecologie.md. Mis à jour le 22 oct. (brief) : un relais de presse malaisien (Bernama, 19 oct., source unique) donne un nombre de points de chaleur détectés multiplié par quatre en 24 h (270 puis 1 104 au 19 oct., concentrés sur le Kalimantan central et occidental), sans confirmation par une série officielle (CAMS/GFED/SiPongi) ni par un second relais indépendant, et sans lien établi avec le chiffre de 1 201 points mi-octobre déjà écarté le 17-18 oct. (source distincte, méthode non comparée) — toujours aucun bilan de surface brûlée ou de points de chaleur recoupé à une source officielle ou à une série primaire, note inchangée 6/10 — ecologie/daily/2026/10/2026-10-22-brief-ecologie.md. Revérifié le 23 oct. (brief) : aucun chiffre officiel ou recoupé plus récent trouvé que celui du 19 oct. déjà écarté — note inchangée 6/10 — ecologie/daily/2026/10/2026-10-23-brief-ecologie.md. Revérifié le 24 oct. (brief) : des chiffres de points de chaleur du 13-14 oct. (ASEAN Specialised Meteorological Centre/NOAA, via la presse malaisienne — 326 au Kalimantan, 303 à Sumatra) circulent sans bilan national associé et sans recoupement aux séries CAMS/GFED/SiPongi — note inchangée 6/10 — ecologie/daily/2026/10/2026-10-24-brief-ecologie.md
+
+Engagements, prépublications, attributions rapides et projections publiés avec
+une note basse faute de vérification indépendante. 30 lignes au plus ; une
+ligne sans évolution depuis 180 jours est retirée.
+Format : `- AAAA-MM-JJ — affirmation (auteur) — note actuelle X/10 — ce qui la ferait bouger — chemin de l'alerte`
+
+- 2026-10-29 — COP17 (CDB, Erevan) : nouvelles promesses de financement de la biodiversité cumulées depuis l'ouverture à environ 500 M$ (dont ~60 M$ au Fonds-cadre mondial pour la biodiversité, 50 M€ d'Espagne et 4,5 M$ d'Ouzbékistan au FEM-9, réaffirmation britannique de 330 M£) — engagements annoncés, non décaissés (Climate Change News, The Climate Watch, Trade Arabia) — note actuelle 5/10 — ce qui la ferait bouger : bilan officiel consolidé du secrétariat de la CDB à la clôture (30 oct.), issue de l'accord ou de l'échec sur l'élargissement de la base des pays contributeurs, premiers décaissements effectifs. Mis à jour le 30 oct. (brief) : le secrétariat de la CDB lui-même (communiqué du 29 oct., lu directement) porte le total cumulé à plus de 1,8 Md$ annoncés pendant tout le segment de haut niveau (clos le 28 oct.) — chiffre officiel plus élevé que celui de la presse, mais toujours non ventilé par bailleur ni par fonds, et donc toujours déclaratif ; l'*Earth Negotiations Bulletin* (28 oct., séance du 27) confirme que le nœud structurant — l'élargissement de la base des pays contributeurs et la stratégie de mobilisation des ressources — reste non résolu à deux jours de la clôture programmée — note inchangée 5/10 pour la réalité de fond — ecologie/daily/2026/10/2026-10-29-brief-ecologie.md ; ecologie/daily/2026/10/2026-10-30-brief-ecologie.md. **Clôturé le 31 oct. (brief) :** la COP17 s'est achevée dans la nuit du 30 au 31 oct. avec un mécanisme financier post-2030 créé mais renvoyé pour sa forme à la COP18 (2028), un élargissement de la liste des bailleurs resté volontaire et confidentiel (compromis UE/Groupe arabe), et une décision sur le Fonds de Cali (adoptée 5h25 le 31 oct.) qui en fixe les règles sans le remplir (10 565 $ de promesses totales selon Carbon Brief, moins de 9 000 $ versés) — note portée à 6/10 pour la réalité de fond du mécanisme financier (texte adopté et lu via deux sources de presse indépendantes entre elles, mais contenu institutionnel renvoyé à 2028), 5/10 inchangé pour le Fonds de Cali (quasiment vide) ; dossier clos sur ce fil, à retirer de ce suivi après 180 jours sans nouvelle évolution — ecologie/daily/2026/10/2026-10-31-brief-ecologie.md
+- 2026-09-20 — les émissions mondiales de CO₂ fossile baisseraient d'environ 0,5 % en 2026 (Carbon Brief, d'après les prévisions de l'AIE) — note actuelle 5/10 — projection 2026 du Global Carbon Project (attendue autour de la COP31), estimation de l'AIE, données quasi temps réel sur l'année complète, évolution de la crise d'Ormuz — ecologie/alerts/2026/09/2026-09-20-18-58-projection-emissions-fossiles-2026-baisse-ormuz.md
+- 2026-09-20 — feux en Indonésie : ~76 MtC émis depuis janvier, saison « on track » avec 2015 (GFED, CAMS, via la presse) — note actuelle 6/10 — lecture directe des séries CAMS / GFED, bilan de fin de saison, décompte officiel actualisé des surfaces (SiPongi : 202 004 ha de janvier à juillet), étude d'attribution éventuelle. Vu le 22 sept. sans pouvoir le vérifier à la source : une dépêche AFP (Malay Mail, 21 sept.) cite ~300 000 ha de janvier à juillet selon Nusantara Atlas (Sentinel-2, 20 m ; son propre bilan du 20 juill. donnait ~103 000 ha au premier semestre) et « ~896 000 ha » août compris, origine de ce dernier chiffre non identifiée ; 54 000 personnels et 64 aéronefs déployés selon le gouvernement. Revérifié le 28 sept. : aucune donnée CAMS/GFED plus récente accessible (portail GFED en version bêta sans chiffre 2026 par région ; dernier chiffre toujours celui du 7 sept., 76 MtC, via Carbon Brief) — note inchangée. Revérifié le 30 sept. : aucune donnée plus récente trouvée (mêmes portails) — note inchangée — ecologie/alerts/2026/09/2026-09-20-18-59-indonesie-feux-tourbieres-emissions-el-nino.md
+- 2026-09-21 — *Planetary Health Check 2026* : sept limites sur neuf franchies, toutes en hausse (PIK ; seule la version résumée a été lue, aucun avis extérieur disponible le jour de la parution) — note actuelle 7/10 — lecture de la version complète (zones et valeurs par limite, financement), réactions de chercheurs extérieurs au PIK, études sources des dossiers Amazonie et chalutage, position du Global Carbon Budget 2026 sur le puits terrestre — ecologie/alerts/2026/09/2026-09-21-19-05-planetary-health-check-2026-sept-limites-franchies.md
+- 2026-09-21 — projection : un enfant né en Europe en 2025 connaîtrait 84 % de jours de temps propice aux feux extrême de plus qu'une personne née en 1950, scénario +2,6 °C en 2100 (Pietroiusti et Thiery, VUB, *Environmental Research Letters* ; article non lu, communiqué et presse seulement) — note actuelle 6/10 — lecture de l'article (modèles, intervalles, financement), avis de chercheurs extérieurs, travaux indépendants sur l'indice forêt-météo en Europe — ecologie/daily/2026/09/2026-09-21-brief-ecologie.md
+- 2026-09-21 — typhon Dujuan (Japon) : 600 mm en 24 h à Oshima, « record de septembre pour la station », un mort selon UPI (presse seulement, événement en cours) — note actuelle 6/10 — relevés de la JMA, bilan consolidé de l'agence japonaise de gestion des catastrophes, étude d'attribution éventuelle. Vu le 22 sept. à 7 h : Al Jazeera (d'après Kyodo) donne deux morts, des consignes d'évacuation pour plus de 1,6 million de personnes et des vents d'environ 144 km/h à 130 km au sud de Katsuura, le système s'éloignant vers le nord-est ; le Japan Times titre « au moins quatre morts et six disparus dans le Kanto » (article non lu, accès payant) ; bilan toujours provisoire, aucun relevé JMA lu directement, aucune attribution. Vu le 22 sept. à 19 h (titres seulement, articles non lus) : UPI et Malay Mail donnent six morts et au moins six disparus, Anadolu deux morts et quatre disparus, ABS-CBN 46 000 foyers sans électricité — bilans divergents selon l'heure de la dépêche, toujours provisoires. Mis à jour le 26 sept. (brief) : 12 morts (7 Chiba, 4 Kanagawa, 1 Miyazaki) et 3 disparus au 24 sept. selon la FDMA via *The Watchers* (TASS : 12 victimes, titre seul) ; 9 morts et 4 disparus le 23 sept. selon Kyodo / *Japan Today* ; 832 mm en 48 h à Oshima, record de la station depuis 1991 (JMA via *The Watchers*, non lu à la source) ; toujours aucune attribution (WWA : rien après le 17 sept.) — note 6/10 — ecologie/daily/2026/09/2026-09-21-brief-ecologie.md ; ecologie/daily/2026/09/2026-09-26-brief-ecologie.md. Vérifié le 27 sept. : aucune évolution significative, bilan stable autour de 12-15 morts et disparus selon les sources — note inchangée.
+- 2026-09-22 — El Niño 2026 : anomalie journalière Niño-3.4 de 3,07 °C le 19 sept., « égalité statistique » avec le record de 2015 (Carbon Brief, Z. Hausfather ; référence non lue, non recoupée par la valeur hebdomadaire NOAA de +2,1 °C) — note actuelle 5/10 pour le rang « record », 7/10 pour l'alerte — lecture directe du fichier hebdomadaire NOAA (réf. 1991-2020) et de l'ONI v6 pour ASO 2026, prochaine discussion CPC (début octobre), mise à jour OMM, confirmation par ERSST ou ERA5 sur une même référence — ecologie/alerts/2026/09/2026-09-22-19-05-el-nino-2026-tres-fort-record-2015-noaa-historique.md
+- 2026-09-22 — été 2026 en France : 2,4 °C [1,8-3,0] de l'anomalie de +5,0 °C (réf. préindustrielle) imputables au changement climatique (Météo-France, attribution rapide non relue) ; chiffres de l'été encore provisoires — note actuelle 7/10 (attribution), 8/10 (alerte) — bilan définitif de Météo-France, étude d'attribution relue ou WWA / ClimaMeter sur l'été français, bulletin BRGM au 1er octobre — ecologie/alerts/2026/09/2026-09-22-19-00-france-ete-2026-record-secheresse-sols-nappes.md
+- 2026-09-26 — Allemagne : feuille de route de sortie des énergies fossiles d'ici 2045 (BMUKN, 23 sept.) ; le programme d'action climat 2026 réduirait les émissions de « plus de 27 Mt » d'ici 2030 (estimation gouvernementale) — note actuelle 5/10 — avis du Conseil d'experts sur le climat (Expertenrat für Klimafragen) et projections de l'Agence fédérale de l'environnement (UBA) sur l'atteinte des objectifs 2030 et 2040, inventaire 2025 consolidé, adoption des lois annoncées (quota gaz/chaleur neutres, loi de modernisation des bâtiments), date de sortie du charbon (2038 ou 2035) — ecologie/daily/2026/09/2026-09-26-brief-ecologie.md
+- 2026-09-26 — projection : 451 000 décès supplémentaires liés à la chaleur entre juin 2026 et février 2027 du fait d'El Niño (Climate Impact Lab, note du 23 sept., non relue, sans intervalle ; répartition contestée par A. Deoras, Reading) — note actuelle 4/10 — publication relue de la méthode, mises à jour annoncées par les auteurs, estimations de surmortalité a posteriori (Lancet Countdown, instituts nationaux) pour 2026-2027, comparaison avec 2015-2016 — ecologie/daily/2026/09/2026-09-26-brief-ecologie.md
+- 2026-09-26 — déclaration de l'AGNU sur l'élévation du niveau de la mer (24 sept.) : texte adopté non lu (page ONU non mise à jour, communiqué illisible) ; formulations exactes sur la continuité des États et les lignes de base non vérifiées ; aucune objection d'État lue — note actuelle 8/10 (existence et grandes lignes) — lecture du texte final (document A/81/L.x), compte rendu de séance (explications de vote ou de position), analyses juridiques (Sabin Center, Columbia Climate Law Blog). Mis à jour le 27 sept. : deux lectures indépendantes supplémentaires (IISD/SDG Knowledge Hub, Climate Home News) confirment l'adoption par consensus à l'issue d'une procédure d'approbation tacite, la présomption de continuité de la statalité appuyée sur les avis du TIDM (2024) et de la CIJ et les travaux de la CDI, et le caractère non contraignant ; toujours aucune objection d'État relevée ; texte officiel toujours non lu — note inchangée 8/10 — ecologie/daily/2026/09/2026-09-26-brief-ecologie.md ; ecologie/daily/2026/09/2026-09-27-brief-ecologie.md
+- 2026-09-30 — plan Barbut pour l'adaptation au changement climatique (PNACC 3) : besoin de financement chiffré à ~10 Md€/an par l'I4CE (indépendant), piste Livret A déjà rejetée par les banques, aucune ligne budgétaire arbitrée (presse indépendante : AFP/Boursorama, Orange Actu, Journal du Net) — note actuelle 3/10 — passage du plan dans le PLF 2027 (ou non), communiqué officiel du ministère, avis du Haut Conseil pour le climat — ecologie/daily/2026/09/2026-09-30-brief-ecologie.md
+- 2026-10-01 — budget de la mission Écologie dans le PLF 2027 déposé le 1er oct. (fonds vert, financement du plan Barbut / PNACC 3) — note actuelle 5/10 (déclarations ministérielles détaillées, bleu budgétaire toujours non lu) — ce qui la ferait bouger : lecture du bleu budgétaire de la mission Écologie, vote définitif du PLF 2027, rapports des rapporteurs spéciaux (Assemblée nationale, Sénat), source indépendante du ministère confirmant les montants. Revérifié le 2 oct. : toujours non lu à une source primaire (ecologie.gouv.fr bloqué par robots.txt, dossier AN sans bleus par mission) ; chiffres de presse spécialisée non retenus (fonds vert 1 Md€, mission +1,5 Md€, AEF info et Newstank non accessibles). Revérifié le 4 oct. : aucune nouvelle lecture d'une source primaire. Mis à jour le 5 oct. (brief) : la ministre Monique Barbut a détaillé le budget le 1er oct. (budget du ministère 11,4 Md€ stable, mission ~25 Md€ AE, fonds vert porté à 1 Md€, 282 ETP supprimés), repris par deux relais de presse (L'Info Durable, Banque des Territoires) qui rapportent la même conférence de présentation sans confirmation indépendante ; bleu budgétaire toujours non lu — note portée à 5/10 (plafond « déclarations de l'État »), au lieu de « sans objet ». Mis à jour le 6 oct. (brief) : le même article du 1er oct. (L'Info Durable), relu plus en détail, précise deux montants supplémentaires toujours tirés de la même conférence ministérielle — fonds chaleur −300 M€, budget d'intervention de l'Ademe −350 M€ — et confirme la répartition des 282 ETP supprimés (126 au ministère, 156 chez les opérateurs) ; aucune source indépendante de cette conférence, bleu budgétaire toujours non lu — note inchangée 5/10. Revérifié le 7 oct. : aucune nouvelle lecture d'une source primaire (mêmes pages inaccessibles) ; désignation des rapporteurs pour avis sur le PLF 2027 à l'Assemblée nationale repérée dans la presse spécialisée, sans chiffre budgétaire nouveau — note inchangée 5/10. Revérifié le 8 oct. : dossier législatif de l'Assemblée nationale consulté de nouveau, toujours aucun bleu budgétaire par mission accessible (seuls des documents de procédure) — note inchangée 5/10. Revérifié le 9 oct. : page de l'Assemblée nationale sur le PLF 2027 relue (liste des rapporteurs spéciaux, PDF de calendrier de discussion de la seconde partie), toujours aucun bleu budgétaire ni rapport chiffré par mission accessible — note inchangée 5/10. Revérifié le 10 oct. : toujours aucune lecture d'une source primaire (ecologie.gouv.fr et budget.gouv.fr inaccessibles) ; deux relais de presse l'un et l'autre fondés sur la même conférence ministérielle du 1er oct. (maire-info, 2 oct. ; L'Info Durable, 2 oct.) ajoutent +36 M€ pour la forêt et le déploiement de Vigiecrue, et confirment les montants déjà connus (fonds vert à 1 Md€, contre 2,5 Md€ en 2024 ; Ademe −350 M€ dont −300 M€ sur le fonds Chaleur ; 282 ETP supprimés) — note inchangée 5/10 (plafond « déclarations de l'État »). Revérifié le 13 oct. : deux articles relus en détail (Banque des Territoires, L'Info Durable), toujours fondés sur la même conférence ministérielle du 1er oct., précisent le Fonds Barnier (300 M€, maintenu à son niveau le plus haut), le réseau Vigicrues (+6 M€) et le fonds RGA, retrait-gonflement des argiles (7 M€ AE) ; aucun bleu budgétaire lu à une source primaire — note inchangée 5/10. Revérifié le 14 oct. : la commission des finances de l'Assemblée nationale a rejeté la partie recettes du PLF 2027 le 9 oct. (31 voix contre, 3 pour, 2 abstentions — Légifiscal, Le Club des Juristes), et le débat en séance publique sur le texte initial du gouvernement s'est ouvert le 13 oct. (vote solennel sur la première partie attendu le 20 oct., recours à l'article 49.3 évoqué par le Premier ministre) ; aucun chiffre nouveau sur le budget propre de la mission Écologie, bleu budgétaire toujours non lu à une source primaire — note inchangée 5/10. Revérifié le 15 oct. : aucun nouvel article ni bleu budgétaire trouvé au-delà de ceux déjà connus — note inchangée 5/10. Revérifié le 16 oct. : toujours aucun bleu budgétaire lu à une source primaire (performance-publique.budget.gouv.fr non retrouvé par programme, dossier législatif de l'Assemblée nationale sans document nouveau) — note inchangée 5/10. Mis à jour le 17 oct. (brief) : le rapport « budget vert » annexé au PLF 2027 (CGDD, direction du Budget, direction de la législation fiscale, direction générale du Trésor, daté d'oct. 2026) a été lu directement pour la première fois — dépenses de l'État favorables à l'environnement 41,8 Md€ dans le PLF 2027 (stable par rapport à la LFI 2026, contre 40,5 Md€ exécutés en 2025), favorables ou mixtes 48,9 Md€ (contre 45,9 Md€ exécutés en 2025) ; ce document, public et prévu par la loi, ne donne cependant pas le détail de la mission Écologie dans l'extrait consulté, et sa classification favorable/défavorable reste une cotation de l'administration sur son propre budget, non auditée ici par un tiers — note inchangée 5/10 (plafond « déclarations et classification de l'État »). Revérifié le 18 oct. : vote solennel sur la première partie du PLF 2027 attendu le 20 oct. (déjà connu), aucun bleu budgétaire de la mission Écologie lu à une source primaire — note inchangée 5/10. Mis à jour le 21 oct. (brief) : le vote solennel du 20 oct. a été reporté la veille (environ 2 600 amendements non examinés sur la partie recettes), débat repris le 27 oct. ; toujours aucun bleu budgétaire de la mission Écologie lu à une source primaire — note inchangée 5/10. Mis à jour le 27 oct. (brief) : le vote solennel, qui devait reprendre le 27 oct., est reporté une seconde fois au 3 novembre après-midi — le budget de la Sécurité sociale a occupé l'hémicycle du 20 au 23 oct. (rejeté ce dernier jour), les quelque 2 600 amendements restants sur la partie recettes n'ayant pu être examinés depuis (page officielle de l'Assemblée nationale lue directement, confirmée par deux relais de presse indépendants entre eux, Journal du Net et NosParlementaires) ; vote sur l'ensemble du budget toujours fixé au 17 novembre ; toujours aucun bleu budgétaire de la mission Écologie lu à une source primaire — note inchangée 5/10. Revérifié le 1er nov. : vote solennel sur la première partie toujours attendu le 3 novembre (échéance désormais formalisée dans le tableau ci-dessus avec la date limite constitutionnelle du 17 novembre), aucun bleu budgétaire de la mission Écologie lu à une source primaire ni aucun chiffre nouveau trouvé — note inchangée 5/10. Mis à jour le 3 nov. (brief) : le vote solennel, qui devait se tenir ce jour, est reporté une troisième fois — 758 amendements restaient à examiner sur la partie recettes à la suspension des débats lundi soir (LCP, lu directement) ; aucune nouvelle date officielle fixée, fin de l'examen « espérée » cette semaine selon le président de séance ; toujours aucun bleu budgétaire de la mission Écologie lu à une source primaire ni aucun chiffre nouveau sur son contenu — note inchangée 5/10. Mis à jour le 6 nov. (brief) : la partie recettes du PLF 2027 a été rejetée le 4 novembre par l'Assemblée nationale (scrutin n° 9759, lu directement), le texte repartant dans sa version initiale vers le Sénat ; ce rejet ne dit rien en soi du contenu budgétaire de la mission Écologie, toujours non lu à une source primaire — note inchangée 5/10. Mis à jour le 7 nov. (brief) : nouvelle tentative sur budget.gouv.fr (page listant les documents budgétaires de l'exercice 2027) — la page répond cette fois HTTP 200 (elle renvoyait auparavant des erreurs d'accès ou un blocage robots.txt) mais ne contient qu'une balise technique (« noindex, nofollow »), sans liste de documents ni chiffre exploitable ; le calendrier du Sénat sur le PLFSS 2027 a en revanche pu être lu directement à la source (voir le tableau des échéances ci-dessus) — bleu budgétaire de la mission Écologie toujours non lu à une source primaire, plus d'un mois après le dépôt du texte — note inchangée 5/10. Revérifié le 8 nov. (brief) : dossier législatif du Sénat sur le PLFSS 2027 relu directement, précisant désormais les dates de séance publique au jour près (9, 10, 12, 13, 14, puis éventuellement 15, 16, 17 et 18 nov.), sans rien changer à la période déjà connue ; aucune lecture nouvelle d'un bleu budgétaire de la mission Écologie — note inchangée 5/10 — ecologie/daily/2026/10/2026-10-01-brief-ecologie.md ; ecologie/daily/2026/10/2026-10-02-brief-ecologie.md ; ecologie/daily/2026/10/2026-10-04-brief-ecologie.md ; ecologie/daily/2026/10/2026-10-05-brief-ecologie.md ; ecologie/daily/2026/10/2026-10-06-brief-ecologie.md ; ecologie/daily/2026/10/2026-10-07-brief-ecologie.md ; ecologie/daily/2026/10/2026-10-08-brief-ecologie.md ; ecologie/daily/2026/10/2026-10-09-brief-ecologie.md ; ecologie/daily/2026/10/2026-10-10-brief-ecologie.md ; ecologie/daily/2026/10/2026-10-13-brief-ecologie.md ; ecologie/daily/2026/10/2026-10-14-brief-ecologie.md ; ecologie/daily/2026/10/2026-10-15-brief-ecologie.md ; ecologie/daily/2026/10/2026-10-16-brief-ecologie.md ; ecologie/daily/2026/10/2026-10-17-brief-ecologie.md ; ecologie/daily/2026/10/2026-10-18-brief-ecologie.md ; ecologie/daily/2026/10/2026-10-21-brief-ecologie.md ; ecologie/daily/2026/10/2026-10-27-brief-ecologie.md ; ecologie/daily/2026/11/2026-11-01-brief-ecologie.md ; ecologie/daily/2026/11/2026-11-03-brief-ecologie.md ; ecologie/daily/2026/11/2026-11-06-brief-ecologie.md ; ecologie/daily/2026/11/2026-11-07-brief-ecologie.md ; ecologie/daily/2026/11/2026-11-08-brief-ecologie.md
