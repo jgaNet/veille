@@ -47,6 +47,7 @@ de repère, à revérifier) :
 | Bruno Retailleau | Les Républicains |
 | Fabien Roussel | Parti communiste français |
 | Ségolène Royal | Parti socialiste |
+| Teddy Riner | Sans étiquette (candidature indépendante) |
 | François Ruffin | Debout ! |
 | Marine Tondelier | Les Écologistes |
 | Dominique de Villepin | La France humaniste |
@@ -70,3 +71,4 @@ Format : `- AAAA-MM-JJ — changement — source (URL)`
 - 2026-09-19 — ajout d'Emmanuel Maurel, recensé parmi les participants à la primaire socialiste d'octobre 2026 — Public Sénat (https://www.publicsenat.fr/actualites/politique/presidentielle-2027-le-dernier-decompte-des-candidats-deja-sur-la-ligne-de-depart)
 - 2026-09-19 — Nicolas Dupont-Aignan (Debout la France) officialise sa candidature à l'élection présidentielle de 2027 lors de son discours de Yerres — Le Journal du Dimanche (https://www.lejdd.fr/politique/presidentielle-nicolas-dupont-aignan-officialise-sa-candidature-et-fait-le-pari-du-frexit-183876)
 - 2026-10-14 — ajout de Natacha Polony (essayiste, mouvement « Nous sommes la France », soutenue par République Souveraine), qui annonce sa candidature à l'élection présidentielle de 2027 sur France Inter — entrevue.fr (https://entrevue.fr/presidentielle-2027/presidentielle-2027-natacha-polony-annonce-sa-candidature-et-veut-perturber/)
+- 2026-11-09 — ajout de Teddy Riner (judoka, sans étiquette), qui annonce sa candidature à l'élection présidentielle de 2027 dans une vidéo et un entretien au Parisien — Public Sénat (https://www.publicsenat.fr/actualites/politique/presidentielle-2027-le-judoka-teddy-riner-se-lance-dans-la-course-a-lelysee-au-milieu-dune-multitude-de-candidats) et AFP/Boursedirect (https://www.boursedirect.fr/fr/actualites/categorie/politique/des-tatamis-a-l-elysee-teddy-riner-annonce-sa-candidature-a-la-presidentielle-afp-308728038f2778f5898807dbd862fb46b6d86752)
