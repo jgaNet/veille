@@ -298,3 +298,316 @@ passage :
   jour** (« The Point of Return »), lancement confirmé par l'organisme
   lui-même (page ressources de l'UNEP) et par la presse — traité dans le
   brief du jour, hors tableau d'indicateurs (ce flux ne porte pas de ligne
+  dédiée aux rapports d'écart d'émissions, voir `echeances.md`). CO₂ Mauna
+  Loa (septembre, 426,07 ppm, page toujours datée du 9 oct.) et EFFIS/JRC
+  (692 419 ha au 7 oct., page toujours affichée sans mise à jour depuis le
+  8 oct.) revérifiés sans changement. Niveau des nappes, restriction PFAS,
+  calendrier IPBES, date du Global Carbon Budget 2026 : toujours sans
+  élément officiel nouveau.
+- Passage du 2026-10-27 : **calendrier de l'IPBES résolu** — la page
+  officielle `ipbes.net/plenary` lue directement liste désormais IPBES-13
+  du 1er au 8 novembre 2027 à Nairobi (Kenya) ; ligne ajoutée à
+  `echeances.md`, retirée de la liste des points non amorcés. CO₂ Mauna Loa
+  (septembre, 426,07 ppm, page toujours datée du 9 oct.) et EFFIS/JRC
+  (692 419 ha au 7 oct., page toujours datée du 8 oct.) relus directement à
+  la source sans changement. Date de l'INC-5.4 (traité plastiques) et du
+  Global Carbon Budget 2026 : toujours sans élément officiel nouveau (page
+  globalcarbonbudget.org revérifiée, aucune date annoncée). Restriction
+  PFAS (ECHA) : aucun élément plus récent que l'avis final du SEAC « d'ici
+  la fin de 2026 » déjà connu. COP17 CDB (Erevan) et PLF 2027 : voir le
+  brief du jour et `echeances.md`.
+- Passage du 2026-10-22 : aucune ligne modifiée. CO₂ Mauna Loa (septembre,
+  426,07 ppm, page toujours datée du 9 oct.), ENSO (discussion du CPC
+  toujours datée du 8 oct., prochaine attendue le 12 nov., El Niño fort à
+  très fort probable jusqu'à janv.-mars 2027) et EFFIS/JRC (692 419 ha au
+  7 oct., page toujours datée du 8 oct.) tous revérifiés directement à la
+  source sans changement. Événement hors tableau d'indicateurs traité dans
+  le brief du jour : super typhon Champi (Pacifique nord-ouest), catastrophe
+  fédérale déclarée à Guam le 17 oct., trajectoire vers Taïwan/Japon attendue
+  le 23-24 oct. — ce flux ne porte pas de ligne dédiée aux cyclones
+  individuels (voir le brief et, pour les séries de fond, la ligne ENSO
+  ci-dessus). Niveau des nappes (prochain bulletin BRGM attendu début
+  novembre), restriction PFAS (ECHA), calendrier IPBES, date de l'INC-5.4 et
+  du Global Carbon Budget 2026 : toujours sans élément officiel nouveau.
+- Passage du 2026-10-23 : CO₂ Mauna Loa (septembre, 426,07 ppm, page toujours
+  datée du 9 oct.) et EFFIS/JRC (692 419 ha au 7 oct., page toujours datée du
+  8 oct.) tous deux relus directement à la source sans changement, dates de
+  relevé mises à jour ci-dessus. Événement hors tableau d'indicateurs traité
+  dans le brief du jour : trajectoire du typhon Champi reprecisée par la CWA
+  taïwanaise (Taïwan épargnée d'un passage direct, cap vers les îles
+  japonaises du sud). Niveau des nappes (prochain bulletin BRGM attendu début
+  novembre), restriction PFAS (ECHA), calendrier IPBES, date de l'INC-5.4 et
+  du Global Carbon Budget 2026 : toujours sans élément officiel nouveau.
+- Passage du 2026-11-03 : CO₂ Mauna Loa (septembre, 426,07 ppm, page toujours
+  datée du 9 oct.), EFFIS/JRC (692 419 ha au 7 oct., page toujours affichée à
+  jour au 8 oct. 14h57 CEST) et discussion mensuelle du CPC sur l'ENSO
+  (toujours celle du 8 oct., prochaine attendue le 12 nov.) tous revérifiés
+  directement à la source sans changement, dates de relevé mises à jour
+  ci-dessus. Événement hors tableau d'indicateurs traité dans le brief du
+  jour : report, pour la troisième fois, du vote solennel sur la partie
+  recettes du budget 2027 français (voir `echeances.md`). MOP38 (Kigali,
+  jusqu'au 6 nov.) et COP31 (Antalya, à partir du 9 nov.) suivies sans
+  résultat substantiel trouvé à ce jour. Niveau des nappes (prochain bulletin
+  BRGM attendu début novembre), restriction PFAS (ECHA), date de l'INC-5.4 et
+  du Global Carbon Budget 2026 : toujours sans élément officiel nouveau.
+- Passage du 2026-10-24 : CO₂ Mauna Loa (septembre, 426,07 ppm, page toujours
+  datée du 9 oct.) et EFFIS/JRC (692 419 ha au 7 oct., page toujours datée du
+  8 oct.) tous deux relus directement à la source sans changement, dates de
+  relevé mises à jour ci-dessus. Événement hors tableau d'indicateurs traité
+  dans le brief du jour : typhon Champi confirmé affaibli, dévié vers le
+  Japon (Okinawa) puis les Philippines, sans bilan humain rapporté. COP17
+  (Erevan) : bulletin officiel de l'*Earth Negotiations Bulletin* sur la
+  séance du 19 oct. lu directement à la source, détaillant le désaccord sur
+  le mécanisme financier (ce flux ne porte pas de ligne dédiée à la
+  gouvernance de la biodiversité). Niveau des nappes (prochain bulletin BRGM
+  attendu début novembre), restriction PFAS (ECHA), calendrier IPBES, date de
+  l'INC-5.4 et du Global Carbon Budget 2026 : toujours sans élément officiel
+  nouveau.
+- Passage du 2026-10-26 (brief couvrant le 24-26 oct., aucun passage le
+  25 oct.) : **baromètre du Citepa sur le 1er semestre 2026 lu pour la
+  première fois** (publié le 13 oct., jusque-là hors de ce flux) — ligne
+  « Émissions de gaz à effet de serre de la France » complétée ci-dessus
+  (−4,1 % au S1 2026, prévision −2,8 % sur l'année, données provisoires),
+  brief publié. CO₂ Mauna Loa (septembre, 426,07 ppm, page toujours datée du
+  9 oct.) et EFFIS/JRC (692 419 ha au 7 oct., page toujours datée du 8 oct.)
+  tous deux relus directement à la source sans changement, dates de relevé
+  mises à jour ci-dessus. COP17 (Erevan, jusqu'au 30 oct.) : bulletin
+  officiel de l'*Earth Negotiations Bulletin* du 23 oct. lu directement à la
+  source, décisions adoptées sur les protocoles de Cartagena et de Nagoya,
+  mécanisme financier central (Fonds mondial pour la biodiversité) toujours
+  sans accord (ce flux ne porte pas de ligne dédiée à la gouvernance de la
+  biodiversité, voir le brief du jour). PLF 2027 : vote solennel toujours
+  attendu le 27 oct., aucun élément nouveau sur le budget propre de la
+  mission Écologie. Niveau des nappes (prochain bulletin BRGM attendu début
+  novembre), ENSO (discussion du CPC toujours datée du 8 oct., prochaine
+  attendue le 12 nov.), restriction PFAS (ECHA, page de restriction
+  revérifiée : consultation sur le rapport Annexe XV close depuis 2023,
+  toujours aucune date pour l'avis du SEAC), calendrier IPBES, date de
+  l'INC-5.4 et du Global Carbon Budget 2026 : toujours sans élément officiel
+  nouveau.
+- Passage du 2026-10-28 (brief couvrant le 27-28 oct.) : CO₂ Mauna Loa
+  (septembre, 426,07 ppm, page toujours datée du 9 oct.), ENSO (discussion
+  du CPC toujours datée du 8 oct., prochaine attendue le 12 nov.) et
+  EFFIS/JRC (692 419 ha au 7 oct., page toujours datée du 8 oct.) tous
+  revérifiés directement à la source sans changement, dates de relevé mises
+  à jour ci-dessus. Restriction PFAS (ECHA) : une synthèse de cabinet
+  d'avocats (cms.law), lue directement, confirme les dates déjà connues
+  (avis final du RAC le 2 mars 2026, projet d'avis du SEAC le 10 mars 2026,
+  consultation publique close le 25 mai 2026) et répète qu'un avis final du
+  SEAC est seulement « attendu d'ici la fin de 2026 », sans date arrêtée par
+  l'ECHA elle-même — note inchangée. COP17 (Erevan, jusqu'au 30 oct.) :
+  segment ministeriel de haut niveau engagé les 27-28 oct. (plus de 70
+  ministres annoncés, selon Armenpress), aucun accord rapporté à l'heure du
+  brief sur le mécanisme financier ni sur l'initiative « Yerevan Pathway »
+  (ce flux ne porte pas de ligne dédiée à la gouvernance de la biodiversité,
+  voir le brief du jour). PLF 2027 : vote solennel toujours attendu le
+  3 nov. (reporté le 27 oct.), aucun élément nouveau sur le budget propre de
+  la mission Écologie. Reste du périmètre (feux et brume en Indonésie et à
+  Singapour, sécheresse en Hongrie, Mount Pleasant, calendriers GIEC/IPBES/
+  INC-5.4/Global Carbon Budget 2026) : toujours sans élément officiel
+  nouveau.
+- Passage du 2026-10-29 : CO₂ Mauna Loa (septembre, 426,07 ppm, page toujours
+  datée du 9 oct.), ENSO (discussion du CPC toujours datée du 8 oct.) et
+  EFFIS/JRC (692 419 ha au 7 oct., page toujours datée du 8 oct.) tous
+  revérifiés directement à la source sans changement, dates de relevé mises
+  à jour ci-dessus. Événement hors tableau d'indicateurs traité dans le brief
+  du jour : désaccord sur le financement à la COP17 de la Convention sur la
+  diversité biologique (Erevan) précisé par trois sources de presse
+  spécialisée indépendantes entre elles, avec nouvelles promesses cumulées
+  d'environ 500 M$ depuis l'ouverture (ce flux ne porte pas de ligne dédiée
+  à la gouvernance de la biodiversité, voir le brief du jour). Restriction
+  PFAS (ECHA), date de l'INC-5.4, date du Global Carbon Budget 2026, niveau
+  des nappes (prochain bulletin BRGM attendu début novembre) : toujours sans
+  élément officiel nouveau.
+- Passage du 2026-10-30 : CO₂ Mauna Loa (septembre, 426,07 ppm, page toujours
+  datée du 9 oct.) et EFFIS/JRC (692 419 ha au 7 oct., page toujours affichée
+  à jour au 30 oct. sans nouvelle donnée) tous deux relus directement à la
+  source sans changement, dates de relevé mises à jour ci-dessus. Discussion
+  mensuelle du CPC sur l'ENSO relue directement : toujours celle du 8 oct.,
+  prochaine discussion annoncée pour le 12 nov. 2026, date de relevé mise à
+  jour ci-dessus. Événement hors tableau d'indicateurs traité dans le brief
+  du jour : communiqué officiel du secrétariat de la CDB daté du 29 oct., lu
+  directement, portant à plus de 1,8 Md$ le total des financements
+  biodiversité annoncés pendant le segment de haut niveau de la COP17
+  (Erevan, clos le 28 oct.), chiffre toujours non ventilé par bailleur ;
+  *Earth Negotiations Bulletin* (28 oct., séance du 27) lu directement,
+  confirmant que le mécanisme financier central reste non conclu à
+  l'approche de la clôture (ce flux ne porte pas de ligne dédiée à la
+  gouvernance de la biodiversité, voir le brief du jour et `echeances.md`).
+  Niveau des nappes (prochain bulletin BRGM attendu début novembre),
+  restriction PFAS (ECHA, page officielle non accessible à l'outil ce
+  jour), date de l'INC-5.4, date du Global Carbon Budget 2026 : toujours
+  sans élément officiel nouveau.
+- Passage du 2026-10-31 : CO₂ Mauna Loa (septembre, 426,07 ppm, page
+  toujours datée du 9 oct.), EFFIS/JRC (692 419 ha au 7 oct., page toujours
+  affichée à jour sans nouvelle donnée depuis le 8 oct.) et discussion
+  mensuelle du CPC sur l'ENSO (toujours celle du 8 oct., prochaine attendue
+  le 12 nov.) tous revérifiés directement à la source sans changement,
+  dates de relevé mises à jour ci-dessus. Événement hors tableau
+  d'indicateurs traité dans le brief du jour : clôture de la COP17 de la
+  Convention sur la diversité biologique (Erevan) dans la nuit du 30 au
+  31 oct. — ce flux ne porte pas de ligne dédiée à la gouvernance de la
+  biodiversité (voir le brief du jour et `echeances.md`). Niveau des
+  nappes (prochain bulletin BRGM attendu début novembre), restriction PFAS
+  (ECHA : consultation sur le projet d'avis du SEAC toujours close depuis
+  le 25 mai 2026 selon un cabinet d'avocats, avis final du SEAC et de la
+  Commission toujours non fixé par l'ECHA elle-même), date de l'INC-5.4 et
+  du Global Carbon Budget 2026 : toujours sans élément officiel nouveau.
+- Passage du 2026-11-01 : CO₂ Mauna Loa (septembre, 426,07 ppm, page
+  toujours datée du 9 oct., aucune valeur d'octobre publiée), EFFIS/JRC
+  (692 419 ha au 7 oct., page toujours affichée à jour sans nouvelle donnée
+  depuis le 8 oct.) et discussion mensuelle du CPC sur l'ENSO (toujours
+  celle du 8 oct., prochaine attendue le 12 nov.) tous revérifiés
+  directement à la source sans changement, dates de relevé mises à jour
+  ci-dessus. COP17 (Erevan), close le 31 oct., sans développement nouveau
+  depuis. Niveau des nappes (prochain bulletin BRGM attendu début
+  novembre), restriction PFAS (ECHA), date de l'INC-5.4 et du Global Carbon
+  Budget 2026 : non revérifiés directement aujourd'hui, aucun élément
+  nouveau trouvé par ailleurs.
+- Passage du 2026-11-02 (brief) : CO₂ Mauna Loa (septembre, 426,07 ppm,
+  page toujours datée du 9 oct.), EFFIS/JRC (692 419 ha au 7 oct., page
+  toujours affichée à jour sans nouvelle donnée depuis le 8 oct.) et
+  discussion mensuelle du CPC sur l'ENSO (toujours celle du 8 oct.,
+  prochaine attendue le 12 nov.) tous revérifiés directement à la source
+  sans changement, dates de relevé mises à jour ci-dessus. Événement hors
+  tableau d'indicateurs traité dans le brief du jour : Australie
+  (Nouvelle-Galles du Sud), loi ad hoc annoncée le 19 oct. pour maintenir la
+  production de la mine de Mount Pleasant malgré la décision de la Haute
+  Cour du 7 oct. — ce flux ne porte pas de ligne dédiée à ce contentieux
+  (voir `echeances.md`, section « À réévaluer »). MOP38 (protocole de
+  Montréal) ouverte ce jour à Kigali, jusqu'au 6 nov., sans résultat à ce
+  stade. PLF 2027 : vote solennel toujours attendu demain 3 nov., page
+  officielle de l'Assemblée nationale revérifiée directement, aucun nouveau
+  report annoncé. Niveau des nappes (prochain bulletin BRGM attendu début
+  novembre), restriction PFAS (ECHA), date de l'INC-5.4 et du Global Carbon
+  Budget 2026 : toujours sans élément officiel nouveau.
+- Passage du 2026-11-04 : CO₂ Mauna Loa (page NOAA GML relue directement,
+  toujours 426,07 ppm pour septembre, page toujours datée du 9 oct.),
+  EFFIS/JRC (page JRC relue directement, toujours 692 419 ha au 7 oct.,
+  page toujours datée du 8 oct. 14h57 CEST) et discussion mensuelle du CPC
+  sur l'ENSO (page NOAA relue directement, toujours celle du 8 oct., El
+  Niño toujours en renforcement, prochaine discussion annoncée pour le
+  12 nov. 2026) tous revérifiés directement à la source sans changement,
+  dates de relevé mises à jour ci-dessus. Événement hors tableau
+  d'indicateurs traité dans le brief du jour : ouverture de MOP38 (Kigali,
+  2-6 nov.) et enjeu du refinancement du Fonds multilatéral 2027-2029 — ce
+  flux ne porte pas de ligne dédiée au protocole de Montréal (voir le brief
+  et `echeances.md`). Niveau des nappes (prochain bulletin BRGM attendu
+  début novembre), restriction PFAS (ECHA), date de l'INC-5.4 et du Global
+  Carbon Budget 2026 : toujours sans élément officiel nouveau.
+- Passage du 2026-11-07 (brief) : **bulletin climatique Copernicus (C3S)
+  d'octobre 2026 lu pour la première fois** (publié le 5 nov.) : +0,90 °C
+  par rapport à 1991-2020, +1,75 °C par rapport à 1850-1900, mois d'octobre
+  le plus chaud de la série ERA5, 3ᵉ mois consécutif au-dessus de 1,5 °C,
+  estimation de l'année 2026 entière entre +1,56 et +1,61 °C par rapport au
+  préindustriel (2ᵉ rang si confirmé, derrière 2024) — ligne « Anomalie de
+  température mondiale, dernier mois » mise à jour ci-dessus, un seul jeu
+  de données à ce stade (NOAA NCEI, NASA GISTEMP, Berkeley Earth non encore
+  parus pour octobre), brief publié. CO₂ Mauna Loa (page NOAA GML relue
+  directement, toujours 426,07 ppm pour septembre, page toujours datée du
+  9 oct.) et EFFIS/JRC (page JRC relue directement, toujours 692 419 ha au
+  7 oct., page toujours datée du 8 oct. 14h57 CEST) revérifiés directement
+  à la source sans changement, dates de relevé mises à jour ci-dessus.
+  Discussion mensuelle du CPC sur l'ENSO revérifiée : toujours celle du
+  8 oct. (El Niño Advisory, Niño 3,4 +2,1 °C, probabilité >83 % d'un
+  épisode fort à très fort jusqu'à janv.-mars 2027), prochaine discussion
+  attendue le 12 nov., sans changement. MOP38 (protocole de Montréal,
+  Kigali) close le 6 nov. sans communiqué officiel de résultat trouvé à
+  l'heure du brief — voir `echeances.md`, ce flux ne porte toujours pas de
+  ligne dédiée. Niveau des nappes (prochain bulletin BRGM attendu début
+  novembre), restriction PFAS (ECHA), date de l'INC-5.4 (page unep.org
+  inaccessible ce jour) et du Global Carbon Budget 2026 (le site a été
+  déplacé vers globalcarbonbudget.org, non consulté) : toujours sans
+  élément officiel nouveau. Budget de la mission Écologie dans le PLF 2027 :
+  nouvelle tentative sur budget.gouv.fr, page cette fois accessible (HTTP
+  200) mais vide de tout contenu exploitable (balise technique seule, sans
+  liste de documents ni chiffre) — toujours non lu à une source primaire.
+- Passage du 2026-11-08 (brief) : CO₂ Mauna Loa (page NOAA GML relue
+  directement, toujours 426,07 ppm pour septembre, page toujours datée du
+  9 oct.), EFFIS/JRC (page JRC relue directement, toujours 692 419 ha au
+  7 oct., page toujours datée du 8 oct. 14h57 CEST) et discussion mensuelle
+  du CPC sur l'ENSO (page NOAA relue directement, toujours celle du 8 oct.,
+  prochaine discussion attendue le 12 nov.) tous revérifiés directement à la
+  source sans changement, dates de relevé mises à jour ci-dessus. Tentative
+  de lecture des bulletins mensuels NOAA NCEI et NASA GISTEMP pour octobre
+  2026 (qui confirmeraient par un second jeu de données le rang d'octobre
+  déjà avancé par Copernicus) : page NCEI inaccessible à l'outil, page GISS
+  sans valeur mensuelle claire pour octobre — aucune ligne ajoutée faute de
+  lecture directe. MOP38 (Kigali, close le 6 nov.) : pages officielles de
+  l'Ozone Secretariat revérifiées (mises à jour administratives au 7 nov.,
+  aucune décision financière publiée) ; ce flux ne porte pas de ligne dédiée
+  au protocole de Montréal (voir le brief et `echeances.md`, section « à
+  réévaluer »). Niveau des nappes (prochain bulletin BRGM attendu début
+  novembre), restriction PFAS (ECHA), date de l'INC-5.4 et du Global Carbon
+  Budget 2026 : toujours sans élément officiel nouveau. Budget de la mission
+  Écologie dans le PLF 2027 : toujours non lu à une source primaire.
+- Passage du 2026-11-09 (brief) : CO₂ Mauna Loa (page NOAA GML relue
+  directement, toujours 426,07 ppm pour septembre, page toujours datée du
+  9 oct.) et discussion mensuelle du CPC sur l'ENSO (page NOAA relue
+  directement, toujours celle du 8 oct., prochaine discussion attendue le
+  12 nov.) revérifiés directement à la source sans changement, dates de
+  relevé mises à jour ci-dessus. EFFIS/JRC : page revérifiée directement,
+  toujours 692 419 ha au 7 oct. (dernière mise à jour du 8 oct., page
+  mensuelle en hiver, prochaine actualisation non attendue avant plusieurs
+  semaines), date de relevé mise à jour ci-dessus. Événement hors tableau
+  d'indicateurs traité dans le brief du jour : ouverture de la COP31 (CCNUCC)
+  à Antalya — ce flux ne porte pas de ligne dédiée aux négociations
+  climatiques (voir le brief et `echeances.md`). Global Carbon Budget 2026 :
+  toujours non publié (globalcarbonbudget.org encore à l'édition 2025).
+  Niveau des nappes, restriction PFAS (ECHA), date de l'INC-5.4, calendrier
+  IPBES : non revérifiés aujourd'hui, faute de temps.
+- Passage du 2026-11-10 (brief) : CO₂ Mauna Loa (page NOAA GML relue
+  directement, toujours 426,07 ppm pour septembre, page toujours datée du
+  9 oct.) et EFFIS/JRC (page relue directement, toujours 692 419 ha au
+  7 oct., dernière mise à jour du 8 oct.) revérifiés directement à la
+  source sans changement, dates de relevé mises à jour ci-dessus. ENSO non
+  revérifié aujourd'hui (discussion du CPC toujours datée du 8 oct.,
+  prochaine attendue le 12 nov., pas de changement attendu avant cette
+  date). Événements hors tableau d'indicateurs traités dans le brief du
+  jour : différend sur le financement climatique à la COP31 (Antalya) et
+  dépôt au Parlement de Nouvelle-Galles du Sud du projet de loi sur la mine
+  de Mount Pleasant — ce flux ne porte pas de ligne dédiée à ces dossiers
+  (voir le brief et `echeances.md`, « à réévaluer »). Global Carbon Budget
+  2026 : toujours non publié (globalcarbonbudget.org encore à l'édition
+  2025). Niveau des nappes, restriction PFAS (ECHA), date de l'INC-5.4,
+  calendrier IPBES, budget de la mission Écologie dans le PLF 2027 : non
+  revérifiés aujourd'hui, faute de temps.
+- Passage du 2026-11-11 (brief) : **Global Carbon Budget 2026 publié le
+  10 nov.** (prépublication ESSD) — ligne « Émissions mondiales de CO₂
+  fossile » mise à jour ci-dessus, brief publié. CO₂ Mauna Loa (page NOAA
+  GML relue directement, toujours 426,07 ppm pour septembre, page toujours
+  datée du 9 oct.), EFFIS/JRC (page relue directement, toujours 692 419 ha
+  au 7 oct., dernière mise à jour du 8 oct.) et discussion mensuelle du CPC
+  sur l'ENSO (page NOAA relue directement, toujours celle du 8 oct.,
+  prochaine discussion confirmée pour le 12 nov.) revérifiés directement à
+  la source sans changement, dates de relevé mises à jour ci-dessus.
+  Événements hors tableau d'indicateurs traités dans le brief du jour :
+  issue annoncée (source de presse unique, non confirmée officiellement) du
+  MOP38 sur le financement du protocole de Montréal, et déblocage de
+  l'ordre du jour financier de la COP31 (Antalya) — ce flux ne porte pas de
+  ligne dédiée à ces dossiers (voir le brief et `echeances.md`). Niveau des
+  nappes, restriction PFAS (ECHA), date de l'INC-5.4, calendrier IPBES,
+  budget de la mission Écologie dans le PLF 2027 : non revérifiés
+  aujourd'hui, faute de temps.
+- Passage du 2026-11-12 (brief) : **discussion mensuelle du CPC sur l'ENSO du
+  12 nov. lue pour la première fois** (la précédente datait du 8 oct.) —
+  ligne « État ENSO » mise à jour ci-dessus (indices en hausse, mais
+  probabilité d'un épisode « historique » révisée à la baisse, ~60 % contre
+  83/70 % le mois précédent), brief publié. **Bulletin BRGM du 1er novembre
+  sur les nappes lu pour la première fois** (publié le 9 nov.) — ligne
+  « Niveau des nappes » mise à jour ci-dessus, brief publié. CO₂ Mauna Loa
+  (page NOAA GML relue directement, toujours 426,07 ppm pour septembre, page
+  toujours datée du 9 oct.) et EFFIS/JRC (page relue directement, toujours
+  692 419 ha au 7 oct., dernière mise à jour du 8 oct.) revérifiés
+  directement à la source sans changement, dates de relevé mises à jour
+  ci-dessus. Événement hors tableau d'indicateurs traité dans le brief du
+  jour : décision officielle de la MOP38 (Kigali) sur la reconstitution du
+  Fonds multilatéral 2027-2029 (695 M$, dont 335 M$ de report), lue pour la
+  première fois dans le compte rendu de l'*Earth Negotiations Bulletin* —
+  ce flux ne porte pas de ligne dédiée au protocole de Montréal (voir le
+  brief et `echeances.md`). Restriction PFAS (ECHA, recherche du jour : pas
+  de date d'avis final plus récente que « d'ici fin 2026 » déjà connue),
+  date de l'INC-5.4, calendrier IPBES, budget de la mission Écologie dans la
+  PLF 2027 (recherche du jour infructueuse, rapports sénatoriaux trouvés
+  concernent le budget 2026, pas 2027) : toujours sans élément officiel
+  nouveau.
