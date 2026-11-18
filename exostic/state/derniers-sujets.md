@@ -3,6 +3,9 @@
 Mémoire anti-doublon. Les lignes de plus de 30 jours sont élaguées à chaque passage.
 Format : `- AAAA-MM-JJ HH:MM — [nature] sujet — chemin`
 
+- 2026-11-18 20:15 — [marche] PLFSS 2027 : adopté en première lecture au Sénat (201 voix contre 124), commission mixte paritaire annoncée pour le 26 novembre — exostic/daily/2026/11/2026-11-18-brief-exostic.md
+- 2026-11-18 20:15 — [marche] Loi « résilience » (NIS2/DORA/CER) : adoptée par l'Assemblée nationale (464 voix contre 64), article sur le chiffrement supprimé, renvoi en commission mixte paritaire à venir — exostic/daily/2026/11/2026-11-18-brief-exostic.md
+- 2026-11-18 20:15 — [securite] OpenSSL : 3 CVE de déni de service, gravité « faible », branches 3.5/4.0/4.1, correctifs attendus le 1er décembre — exostic/daily/2026/11/2026-11-18-brief-exostic.md
 - 2026-11-17 20:15 — [marche] NIS2/« résilience » : l'Assemblée nationale achève l'examen en séance (9-10 novembre), texte réécrit contre l'avis du gouvernement, vote solennel attendu le 17 novembre — exostic/daily/2026/11/2026-11-17-brief-exostic.md
 - 2026-11-17 20:15 — [stack] Kubernetes : suppression du backend IPVS de kube-proxy programmée en version 1.40 (annonce officielle du 16 novembre) — exostic/daily/2026/11/2026-11-17-brief-exostic.md
 - 2026-11-15 20:15 — [marche] PLF 2027 : calendrier complet de séance publique au Sénat désormais connu (document du 12 novembre) — 1ère partie du 23 au 29 novembre, 2nde partie dès le 30 novembre, vote solennel sur l'ensemble le 9 décembre à 16 h 30 — exostic/daily/2026/11/2026-11-15-brief-exostic.md
