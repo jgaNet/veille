@@ -586,12 +586,3 @@ passage :
   PLF 2027 (recherche du jour infructueuse, rapports sénatoriaux trouvés
   concernent le budget 2026, pas 2027) : toujours sans élément officiel
   nouveau.
-- Passage du 2026-10-24 : CO₂ Mauna Loa, ENSO (discussion du CPC toujours celle du 8 oct., prochaine attendue le 12 nov.) tous revérifiés
-  directement à la source sans changement, dates de relevé mises à jour
-  ci-dessus. Événement hors tableau d'indicateurs traité dans le brief du
-  jour : report, pour la troisième fois, du vote solennel sur la partie
-  recettes du budget 2027 français (voir `echeances.md`). MOP38 (Kigali,
-  jusqu'au 6 nov.) et COP31 (Antalya, à partir du 9 nov.) suivies sans
-  résultat substantiel trouvé à ce jour. Niveau des nappes (prochain bulletin
-  BRGM attendu début novembre), restriction PFAS (ECHA), date de l'INC-5.4 et
-  du Global Carbon Budget 2026 : toujours sans élément officiel nouveau.
