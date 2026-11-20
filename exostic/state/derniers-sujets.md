@@ -3,6 +3,7 @@
 Mémoire anti-doublon. Les lignes de plus de 30 jours sont élaguées à chaque passage.
 Format : `- AAAA-MM-JJ HH:MM — [nature] sujet — chemin`
 
+- 2026-11-20 20:15 — [securite] NGINX HTTP/2 : AWS confirme la faille (bulletin 2026-192-AWS, 19 novembre) et des paquets corrigés existent déjà pour Amazon Linux 2/2023/2027 Preview — exostic/daily/2026/11/2026-11-20-brief-exostic.md
 - 2026-11-19 20:15 — [securite] NGINX (F5) : deux vulnérabilités critiques d'exécution de code à distance non authentifiée via HTTP/2 (CVE-2026-123633, CVE-2026-123007), alerte CERT-FR du 18 novembre, code de démonstration public pour l'une d'elles — exostic/daily/2026/11/2026-11-19-brief-exostic.md
 - 2026-11-18 20:15 — [marche] PLFSS 2027 : adopté en première lecture au Sénat (201 voix contre 124), commission mixte paritaire annoncée pour le 26 novembre — exostic/daily/2026/11/2026-11-18-brief-exostic.md
 - 2026-11-18 20:15 — [marche] Loi « résilience » (NIS2/DORA/CER) : adoptée par l'Assemblée nationale (464 voix contre 64), article sur le chiffrement supprimé, renvoi en commission mixte paritaire à venir — exostic/daily/2026/11/2026-11-18-brief-exostic.md
@@ -24,4 +25,3 @@ Format : `- AAAA-MM-JJ HH:MM — [nature] sujet — chemin`
 - 2026-10-23 20:15 — [marche] PLFSS 2027 : partie recettes rejetée en séance publique à l'Assemblée nationale le 23 octobre (115 voix contre, 1 pour), texte transmis au Sénat dans sa version initiale, examen prévu à partir du 9 novembre — exostic/daily/2026/10/2026-10-23-brief-exostic.md
 - 2026-10-22 20:15 — [stack] TypeScript 7.1 : version bêta publiée le 20 octobre (confirmée par le tag npm `7.1.0-beta`), changement cassant sur les types conditionnels distributifs, RC annoncée « dans environ un mois » — exostic/daily/2026/10/2026-10-22-brief-exostic.md
 - 2026-10-21 20:15 — [securite] Node.js : releases de sécurité du 21 octobre 2026, 12 failles corrigées dont CVE-2026-111497 (exécution de code à distance potentielle via le décodeur Brotli, gravité haute), versions corrigées 22.23.4/24.22.1/26.12.1 — exostic/daily/2026/10/2026-10-21-brief-exostic.md
-- 2026-10-20 20:15 — [marche] Budget 2027 : vote solennel sur la partie recettes du PLF, prévu le 20 octobre, reporté — reprise des débats annoncée pour le 27 octobre (LCP) — exostic/daily/2026/10/2026-10-20-brief-exostic.md
