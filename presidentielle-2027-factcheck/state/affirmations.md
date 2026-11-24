@@ -9,6 +9,10 @@ auteur ou par un autre, s'enregistre en réutilisant son `id`. Les fiches
 complètes vivent dans `presidentielle-2027-factcheck/claims/` et ne sont jamais supprimées. Cet
 index n'est pas élagué et n'est jamais agrégé par candidat ou par parti.
 
+- PRES27-20261124-004 | CONFIRMÉ | 9/10 | Édouard Philippe (Horizons) | 1 | 2026-11-24 | L'Australie vise à éliminer le cancer du col de l'utérus d'ici 2035.
+- PRES27-20261124-003 | CONFIRMÉ | 9/10 | Édouard Philippe (Horizons) | 1 | 2026-11-24 | En Écosse, aucun cas de cancer du col de l'utérus n'a été détecté chez les femmes entièrement vaccinées contre les papillomavirus (HPV) à 12 ou 13 ans.
+- PRES27-20261124-002 | TROMPEUR | 4/10 | Édouard Philippe (Horizons) | 1 | 2026-11-24 | En France, à 15 ans, moins d'1 garçon sur 2 a reçu au moins une dose du vaccin contre les papillomavirus (HPV).
+- PRES27-20261124-001 | IMPRÉCIS | 6/10 | Édouard Philippe (Horizons) | 1 | 2026-11-24 | En France, à 15 ans, environ 6 jeunes filles sur 10 ont reçu au moins une dose du vaccin contre les papillomavirus (HPV).
 - PRES27-20261117-001 | TROMPEUR | 3/10 | Jean-Luc Mélenchon (La France insoumise) | 1 | 2026-11-16 | Il n'y a plus de charges patronales (cotisations sociales) sur les salaires jusqu'à trois fois le Smic.
 - PRES27-20261111-001 | TROMPEUR | 4/10 | Raphaël Glucksmann (Place publique) | 1 | 2026-11-09 | Une contribution exceptionnelle prélevant 5 % du patrimoine net supérieur à 100 millions d'euros, appliquée une seule année, rapporterait 50 milliards d'euros à l'État.
 - PRES27-20261109-001 | IMPRÉCIS | 7/10 | Jean-Luc Mélenchon (La France insoumise) | 1 | 2026-11-08 | Les propositions européennes de paix pour l'Ukraine soutenues par le gouvernement français fin 2025 incluent des « échanges territoriaux » concernant les territoires occupés, dont le Donbass.
