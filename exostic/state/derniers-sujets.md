@@ -3,6 +3,7 @@
 Mémoire anti-doublon. Les lignes de plus de 30 jours sont élaguées à chaque passage.
 Format : `- AAAA-MM-JJ HH:MM — [nature] sujet — chemin`
 
+- 2026-11-25 20:15 — [securite] Traefik : trois avis de sécurité (déni de service non authentifié via la compression Brotli, contournement de l'authentification TLS multi-locataires), correctifs 3.7.20/3.8.0/2.11.64 — exostic/daily/2026/11/2026-11-25-brief-exostic.md
 - 2026-11-23 20:15 — [securite] GitLab : patch critique (CVE-2026-132825, Ruby, RCE potentielle) pour instances auto-hébergées, versions 19.6.1/19.5.8/19.4.10 — exostic/daily/2026/11/2026-11-23-brief-exostic.md
 - 2026-11-23 20:15 — [marche] Point hebdomadaire : PLFSS 2027 adopté au Sénat (18 nov.) et loi résilience adoptée à l'Assemblée (17 nov.), toutes deux en attente de CMP — exostic/daily/2026/11/2026-11-23-brief-exostic.md
 - 2026-11-20 20:15 — [securite] NGINX HTTP/2 : AWS confirme la faille (bulletin 2026-192-AWS, 19 novembre) et des paquets corrigés existent déjà pour Amazon Linux 2/2023/2027 Preview — exostic/daily/2026/11/2026-11-20-brief-exostic.md
@@ -22,5 +23,3 @@ Format : `- AAAA-MM-JJ HH:MM — [nature] sujet — chemin`
 - 2026-11-08 20:15 — [marche] NIS 2 : le projet de loi « résilience » revient en séance publique à l'Assemblée nationale le 9 novembre, un mois après son retrait du 6 octobre — exostic/daily/2026/11/2026-11-08-brief-exostic.md
 - 2026-10-28 20:15 — [stack] Node.js : Node 24 passe en maintenance LTS (20 octobre) et Node 26 devient Active LTS (28 octobre), calendrier officiel `nodejs/Release` — exostic/daily/2026/10/2026-10-28-brief-exostic.md
 - 2026-10-28 20:15 — [marche] PLF 2027 : reprise confirmée du débat sur la première partie le 27 octobre, vote solennel désormais fixé au 3 novembre (page officielle Assemblée nationale) — exostic/daily/2026/10/2026-10-28-brief-exostic.md
-- 2026-10-24 20:15 — [securite] npm Trusted Publishing : faille de conception « SlugFest » (confiance liée au nom de dépôt GitHub plutôt qu'à son identifiant permanent), signalée à GitHub le 6 juin 2026, corrigée le 2 octobre (expiration à 48 h des configurations non validées), divulguée publiquement par Bloom Security le 13 octobre ; ampleur (1 500+ paquets) non recoupée indépendamment — exostic/daily/2026/10/2026-10-24-brief-exostic.md
-- 2026-10-24 20:15 — [securite] Compromission des clés de huit certificats intermédiaires de l'autorité eMudhra (découverte le 17 octobre, rendue publique le 20 octobre) ; Node.js 26.12.1/24.22.1/22.23.4 (21 octobre) mettent à jour le magasin de certificats racine embarqué en réponse — exostic/daily/2026/10/2026-10-24-brief-exostic.md
