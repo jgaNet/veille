@@ -3,6 +3,7 @@
 Mémoire anti-doublon. Les lignes de plus de 30 jours sont élaguées à chaque passage.
 Format : `- AAAA-MM-JJ HH:MM — [nature] sujet — chemin`
 
+- 2026-11-26 20:15 — [marche] PLFSS 2027 : échec de la commission mixte paritaire (26 nov.), retour à l'Assemblée nationale pour nouvelle lecture (commission dès le 30 nov., séance publique annoncée à partir du 7 déc.) — exostic/daily/2026/11/2026-11-26-brief-exostic.md
 - 2026-11-25 20:15 — [securite] Traefik : trois avis de sécurité (déni de service non authentifié via la compression Brotli, contournement de l'authentification TLS multi-locataires), correctifs 3.7.20/3.8.0/2.11.64 — exostic/daily/2026/11/2026-11-25-brief-exostic.md
 - 2026-11-23 20:15 — [securite] GitLab : patch critique (CVE-2026-132825, Ruby, RCE potentielle) pour instances auto-hébergées, versions 19.6.1/19.5.8/19.4.10 — exostic/daily/2026/11/2026-11-23-brief-exostic.md
 - 2026-11-23 20:15 — [marche] Point hebdomadaire : PLFSS 2027 adopté au Sénat (18 nov.) et loi résilience adoptée à l'Assemblée (17 nov.), toutes deux en attente de CMP — exostic/daily/2026/11/2026-11-23-brief-exostic.md
